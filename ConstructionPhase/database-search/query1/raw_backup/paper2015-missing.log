@@ -1,0 +1,266 @@
+Preparing search for the following 48 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Computational intelligence based QoS aware web service composition: a systematic literature review
+query for Predicting corporate failure: a systematic literature review of methodological issues
+query for Information technology artifacts in the regulatory compliance of business processes: a meta analysis
+query for 'Follow the moon'development: writing a systematic literature review on global software engineering education
+query for Forty years of research on personality in software engineering: A mapping study
+query for A meta analysis of data collection in serious games research
+query for Understanding the influence of user participation and involvement on system success–a systematic mapping study
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2013 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 41 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Understanding the influence of user participation and involvement on system success a systematic mapping study
+query for What is the impact of imbalance on software defect prediction performance?
+query for What do we know and how well do we know it? Current knowledge about software engineering practices
+query for Behavioral Software Engineering: a Definition and Systematic
+query for Computer mediated Relational Maintenance and Relationship Quality: A Systematic Literature Review
+query for Using blind analysis for software engineering experiments
+query for A further analysis of the importance of systematic reviews to computer science
+query for Aggregating empirical evidence about the benefits and drawbacks of software reference architectures
+query for Requirements elicitation problems: a literature analysis
+query for A comprehensive literature review on the effects of personality and expertise on pair programming, with the purpose to lay a foundation for how to configure pairs
+getbibtex.rb:77:in `filter': undefined method `first' for nil:NilClass (NoMethodError)
+	from getbibtex.rb:165:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 41 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Understanding the influence of user participation and involvement on system success a systematic mapping study
+getbibtex.rb:77:in `filter': undefined method `first' for nil:NilClass (NoMethodError)
+	from getbibtex.rb:165:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 41 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Understanding the influence of user participation and involvement on system success a systematic mapping study
+query for What is the impact of imbalance on software defect prediction performance?
+query for What do we know and how well do we know it? Current knowledge about software engineering practices
+query for Behavioral Software Engineering: a Definition and Systematic
+query for Computer mediated Relational Maintenance and Relationship Quality: A Systematic Literature Review
+query for Using blind analysis for software engineering experiments
+query for A further analysis of the importance of systematic reviews to computer science
+query for Aggregating empirical evidence about the benefits and drawbacks of software reference architectures
+query for Requirements elicitation problems: a literature analysis
+query for A comprehensive literature review on the effects of personality and expertise on pair programming, with the purpose to lay a foundation for how to configure pairs
+query for Phases of inquiry based learning: Definitions and the inquiry cycle
+query for Predicting change using software metrics: A review
+query for Science fiction meets scientific inquiry: A task technology fit/computer based training framework and a meta analysis of virtual reality applications for intervention 
+query for Computerized decision support improves medication review effectiveness: an experiment evaluating the STRIP assistant's usability
+query for Towards an encompassing maturity model for the management of hospital information systems
+query for E government implementation: A bird's eye view of issues relating to costs, opportunities, benefits and risks
+query for Fostering effective inter team knowledge sharing in agile software development
+query for Users, Consumers, Citizens: A systematic review of their roles in sustainability transitions
+query for An empirical study to develop a Decision Support System (DSS) for measuring the impact of quality measurements over Agile Software Development (ASD)
+query for Can we know upfront how to prioritize quality requirements?
+query for Fostering 21st century skills in constructivist engineering classrooms with digital game based learning
+query for Psychosocial correlates of software designers' professional aptitude
+query for Towards an operationalization of test driven development skills: An industrial empirical study
+query for Are bullies more productive? Empirical study of affectiveness vs. issue fixing time
+query for Analysing search engine advertising research: synthesis of two decades of research
+query for Agile Governance Theory: conceptual development.
+query for Digital collections are a sprint, not a marathon: Adapting Scrum project management techniques to library digital initiatives
+query for A multi site joint replication of a design patterns experiment using moderator variables to generalize across contexts
+query for Efectividad del test driven development: un experimento replicado
+query for Evaluación de la aceptación de tecnologías móviles en el profesorado de primaria
+query for Guidelines for the design and implementation of game telemetry for Serious Games Analytics
+query for Conceptual foundations of safety culture and safety climate measurement: A snapshot review
+query for UM MODELO DE INOVAÇÃO PARA REDES COLABORATIVAS DE PMES PROVEDORAS DE SERVIÇOS DE SOFTWARE
+Error:confidence to low with 0.357143
+ UM MODELO DE INOVAÇÃO PARA REDES COLABORATIVAS DE PMES PROVEDORAS DE SERVIÇOS DE SOFTWARE
+ Proposta de investiga{\c{c}}{\~a}o sobre o uso de software no suporte {\`a} inova{\c{c}}{\~a}o em servi{\c{c}}os
+query for Autonomic Dysreflexia: An Educational Intervention for First Responders to Recognize this Medical Emergency
+query for Paper II: Construction and Validation of an Instrument for Measuring Programming Skill
+query for Barriers to continuous process improvement in a military organization
+query for O que revela a literatura internacional sobre os vínculos entre aprendizagem, competências e inovação?
+query for Análise do impacto corporativo de riscos a partir de um modelo de Gestão de Riscos orientado a ambientes inovadores
+query for Government geeks: A quantitative study of motivators of civil service technologists
+query for Abstractband GMDS 2015: Fortschritt durch Forschung Multidisziplinäre Wissenschaft in der GMDS, 60. Jahrestagung
+query for Mobile Clinical Decision Support for the Quality Improvement of Maternal, Neonatal and Child Health Services Delivered by Community Health Workers in 

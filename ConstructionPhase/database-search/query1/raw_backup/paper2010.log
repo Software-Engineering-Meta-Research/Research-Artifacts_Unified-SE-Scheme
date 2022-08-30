@@ -1,0 +1,36 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: systematic literature review
+ year: 2010 2010
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:kUKbRic3rtsJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEMPotAXzwu0:AAGBfm0AAAAAX_r22u1O91PEnzneptn8tNqzknv34NXB&scisig=AAGBfm0AAAAAX_r22koRFNjKTbRNbkM9PisXLEwQhp-u&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : Software engineering research for computer games: A systematic review (https://www.sciencedirect.com/science/article/pii/S0950584910000820)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:fO8l7xhvZSYJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEMPotAXzwu0:AAGBfm0AAAAAX_r22u1O91PEnzneptn8tNqzknv34NXB&scisig=AAGBfm0AAAAAX_r22kVd3HVNxABjf3UKUy0gv0ySVIER&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : Combining evidence and meta-analysis in software engineering (https://link.springer.com/chapter/10.1007/978-3-642-36054-1_2)
+found 10 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:O6Szndpt_hkJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEMPotAX8viA:AAGBfm0AAAAAX_r5piCx8wNxIh8Mnqg4XA4WN34mgPE8&scisig=AAGBfm0AAAAAX_r5ptv81meENny7aL4WOf0HQiHAF4de&scisf=4&ct=citation&cd=18&hl=de -- unhandled response
+[ERROR] Could not grab : Characterizing software architecture changes: A systematic review (https://www.sciencedirect.com/science/article/pii/S0950584909001207)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:wybMDzpricEJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEMPotAX8viA:AAGBfm0AAAAAX_r5piCx8wNxIh8Mnqg4XA4WN34mgPE8&scisig=AAGBfm0AAAAAX_r5ptJoI1V43q3RJjpmjRLqvz3eLN9R&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : Experiences conducting systematic reviews from novices' perspective (https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/EASE2010.6)
+found 10 items on page 3
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:BeIDFrOw-coJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEMPotAX5aT0:AAGBfm0AAAAAX_r8cT2HeL_jmv7XV_i6DS52Y_kH48hV&scisig=AAGBfm0AAAAAX_r8cRQvSS3-BsLBVdhEwZAOy3VWb8Md&scisf=4&ct=citation&cd=28&hl=de -- unhandled response
+[ERROR] Could not grab : Data cleaning techniques for software engineering data sets (https://bura.brunel.ac.uk/handle/2438/5951)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:S5qW-mt5wdMJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEMPotAX5aT0:AAGBfm0AAAAAX_r8cT2HeL_jmv7XV_i6DS52Y_kH48hV&scisig=AAGBfm0AAAAAX_r8ceG-qgXLTbT_-PoCspj6GGWzLCWu&scisf=4&ct=citation&cd=29&hl=de -- unhandled response
+[ERROR] Could not grab : Research commentary—Platform evolution: Coevolution of platform architecture, governance, and environmental dynamics (https://pubsonline.informs.org/doi/abs/10.1287/isre.1100.0323)
+found 10 items on page 4
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:hHYdQ0UutMQJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEMPotAX6N3I:AAGBfm0AAAAAX_r_L3KRDiYkpgAmrOoeqfTZHLq87Gpb&scisig=AAGBfm0AAAAAX_r_LyBYVesYJZbSu32lNVruDAk_xjnf&scisf=4&ct=citation&cd=38&hl=de -- unhandled response
+[ERROR] Could not grab : Paper I: A Systematic Review on Regression Test Selection Techniques (http://www.academia.edu/download/30805904/1604065.pdf#page=27)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:giyPzPlr_tYJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEMPotAX6N3I:AAGBfm0AAAAAX_r_L3KRDiYkpgAmrOoeqfTZHLq87Gpb&scisig=AAGBfm0AAAAAX_r_L-iHbZNXBpL8XfFcKkjaa3tL2tsD&scisf=4&ct=citation&cd=39&hl=de -- unhandled response
+[ERROR] Could not grab : Toward a unified model of information systems development success (https://www.igi-global.com/article/journal-database-management-jdm/39117)
+found 10 items on page 5
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:JLdjzgQKRncJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEMPotAQE5k8:AAGBfm0AAAAAX_sB_k9_7vna0QlSB021cscchHsRbKA1&scisig=AAGBfm0AAAAAX_sB_kB5NjsyFcAgCgGkqKgF48Bsebxq&scisf=4&ct=citation&cd=48&hl=de -- unhandled response
+[ERROR] Could not grab : Time factor in e-learning (http://openaccess.uoc.edu/webapps/o2/handle/10609/32241)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Rq7wIOkoqtoJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEMPotAQE5k8:AAGBfm0AAAAAX_sB_k9_7vna0QlSB021cscchHsRbKA1&scisig=AAGBfm0AAAAAX_sB_tHvn5pftt97yQjsRHWJZmAbnxSj&scisf=4&ct=citation&cd=49&hl=de -- unhandled response
+[ERROR] Could not grab : The contribution of enterprise architecture to the achievement of organizational goals: Establishing the enterprise architecture benefits framework (https://www.researchgate.net/profile/Sjaak_Brinkkemper/publication/228939074_The_contribution_of_enterprise_architecture_to_the_achievement_of_organizational_goals_Establishing_the_enterprise_architecture_benefits_framework/links/54fef37e0cf2eaf210b471af/The-contribution-of-enterprise-architecture-to-the-achievement-of-organizational-goals-Establishing-the-enterprise-architecture-benefits-framework.pdf)
+found 4 items on page 6

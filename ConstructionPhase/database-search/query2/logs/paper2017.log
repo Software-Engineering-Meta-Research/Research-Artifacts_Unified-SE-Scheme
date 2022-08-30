@@ -1,0 +1,56 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: mapping study
+ year: 2017 2017
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:abN3xahspV4J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcH4R8:AAGBfm0AAAAAYS4B-R8HUiOJfOaMKLLAIK6Md91JbdmJ&scisig=AAGBfm0AAAAAYS4B-XzBfglwWprPyroHAvqs0chn9uU0&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : A mapping study on design-time quality attributes and metrics (https://www.sciencedirect.com/science/article/pii/S016412121730016X)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:0E7lrlGZHJwJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcH4R8:AAGBfm0AAAAAYS4B-R8HUiOJfOaMKLLAIK6Md91JbdmJ&scisig=AAGBfm0AAAAAYS4B-fC4qHh4oSYeRKDhd04oebReBYJy&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : A mapping study on mobile games for patients of chronic diseases (https://link.springer.com/article/10.1007/s10916-017-0781-9)
+found 10 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:-DPDgzABzh0J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcC1qk:AAGBfm0AAAAAYS4EzqnfrfPexWqMUhVpDAzxHn1tYIRm&scisig=AAGBfm0AAAAAYS4EziCE2_mAPDyfcMJ7ezyam8Adpcnf&scisf=4&ct=citation&cd=18&hl=de -- unhandled response
+[ERROR] Could not grab : Consolidating evidence based studies in software cost/effort estimation—A tertiary study (https://ieeexplore.ieee.org/abstract/document/8227974/)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:_vkQUYCLwcoJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcC1qk:AAGBfm0AAAAAYS4EzqnfrfPexWqMUhVpDAzxHn1tYIRm&scisig=AAGBfm0AAAAAYS4Ezt0IG2mUMoaqPypgxYvSs3kd4tX6&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : Revisión sistemática de literatura para artículos (https://repositorio.grial.eu/handle/grial/756)
+found 10 items on page 3
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:d5J6jD_dZtgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcBkLE:AAGBfm0AAAAAYS4HiLEHMFinqQ0Wf62pQrHHFO23MLWk&scisig=AAGBfm0AAAAAYS4HiMD-a0akC2QuifhGXnXsutITzMqv&scisf=4&ct=citation&cd=28&hl=de -- unhandled response
+[ERROR] Could not grab : Mapeos sistemáticos de literatura, revisiones sistemáticas de literatura y benchmarking de programas formativos (https://repositorio.grial.eu/handle/grial/1056)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:YvqC8_2gxlQJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcBkLE:AAGBfm0AAAAAYS4HiLEHMFinqQ0Wf62pQrHHFO23MLWk&scisig=AAGBfm0AAAAAYS4HiPoqVaDmc7dxzTbZ_Fq3GImOOC_d&scisf=4&ct=citation&cd=29&hl=de -- unhandled response
+[ERROR] Could not grab : A gamification requirements catalog for educational software: results from a systematic literature review and a survey with experts (https://dl.acm.org/doi/abs/10.1145/3019612.3019752)
+found 10 items on page 4
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:k7B8gAkyQwQJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcMVbk:AAGBfm0AAAAAYS4KTbn5qjyNuiEf7k-aehjFzSb4gUfL&scisig=AAGBfm0AAAAAYS4KTbbwcz9Ge1_UQnnOqmca0qFpw_YX&scisf=4&ct=citation&cd=38&hl=de -- unhandled response
+[ERROR] Could not grab : Diseminación y divulgación científica. Plan de Formación del Profesorado de la Universidad de León (https://repositorio.grial.eu/handle/grial/903)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:ZnZJqkYMb0UJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcMVbk:AAGBfm0AAAAAYS4KTbn5qjyNuiEf7k-aehjFzSb4gUfL&scisig=AAGBfm0AAAAAYS4KTQzxMZbbqH73FfssuX6LbO2jBjuk&scisf=4&ct=citation&cd=39&hl=de -- unhandled response
+[ERROR] Could not grab : Defining enterprise architecture: A systematic literature review (https://ieeexplore.ieee.org/abstract/document/8089830/)
+found 10 items on page 5
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Bi7rm0PLXFsJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcLDh4:AAGBfm0AAAAAYS4NFh4e-yJ9emZGsAAtN2LT3yX0grtl&scisig=AAGBfm0AAAAAYS4NFjlthsVUsrc93LaG4ULilRwdG5Vh&scisf=4&ct=citation&cd=48&hl=de -- unhandled response
+[ERROR] Could not grab : S/W developer's IT project participation: Focusing on the moderating role of regulatory focus on the effect of technology recency on participation intention (https://www.koreascience.or.kr/article/JAKO201721242142416.page)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:PGPoZoqSDkQJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcLDh4:AAGBfm0AAAAAYS4NFh4e-yJ9emZGsAAtN2LT3yX0grtl&scisig=AAGBfm0AAAAAYS4NFuNNuK1TYdTccJJKTcdHBTre-rvA&scisf=4&ct=citation&cd=49&hl=de -- unhandled response
+[ERROR] Could not grab : Are Software Start-Ups Different? An empirical study on performance of Finnish software companies (https://ieeexplore.ieee.org/abstract/document/8279989/)
+found 10 items on page 6
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:yjygv-2npjkJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcJ_0w:AAGBfm0AAAAAYS4P50yDSRg0WUFuaPWshE1sWsdK3my2&scisig=AAGBfm0AAAAAYS4P5ywLMDFrddbzw0fu1zl9h56KrZ4V&scisf=4&ct=citation&cd=58&hl=de -- unhandled response
+[ERROR] Could not grab : Do staged maturity models result in organization-wide continuous process improvement? Insight from employees (https://www.sciencedirect.com/science/article/pii/S0920548917300338)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:dVFhgWNE7MgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcJ_0w:AAGBfm0AAAAAYS4P50yDSRg0WUFuaPWshE1sWsdK3my2&scisig=AAGBfm0AAAAAYS4P57thpNrX87N1G4sQqRnJOuzqn4zR&scisf=4&ct=citation&cd=59&hl=de -- unhandled response
+[ERROR] Could not grab : eLEM: A Novel e-Learner Experience Model. (http://ccis2k.org/Special%20Issue%202017,%20no.%204A/66.pdf)
+found 10 items on page 7
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:CbMErRIP8b0J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcU2ic:AAGBfm0AAAAAYS4SwieEH2nnHxSU9CJ_0hJQYUO9Uby_&scisig=AAGBfm0AAAAAYS4SwnkbjLBvhqVh9AbeXOsCh5jRu6pk&scisf=4&ct=citation&cd=68&hl=de -- unhandled response
+[ERROR] Could not grab : Psychological group processes when building agile software development teams (https://gupea.ub.gu.se/handle/2077/54190)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:mAFZLTmP5ukJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcU2ic:AAGBfm0AAAAAYS4SwieEH2nnHxSU9CJ_0hJQYUO9Uby_&scisig=AAGBfm0AAAAAYS4Swgacrm0RdBJVlwgvsB5kYQSYTWad&scisf=4&ct=citation&cd=69&hl=de -- unhandled response
+[ERROR] Could not grab : Creating a Gamified Tutorial for Socio-Technical Security Requirements Engineering Education (https://dspace.library.uu.nl/handle/1874/350739)
+found 10 items on page 8
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:AJ-xJ0ZVP18J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcTmqw:AAGBfm0AAAAAYS4Vgqwk0FmXAedADm1Pkne4lhUvY5jF&scisig=AAGBfm0AAAAAYS4VgvJXxlt4TfO3VhmtaIS2AZ8g67qB&scisf=4&ct=citation&cd=78&hl=de -- unhandled response
+[ERROR] Could not grab : Módulo Web para a Ferramenta de Apoio à Revisão e ao Mapeamento Sistemáticos-FARMS (https://ri.ufs.br/handle/riufs/9786)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:w0_-bwbRpioJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qcTmqw:AAGBfm0AAAAAYS4Vgqwk0FmXAedADm1Pkne4lhUvY5jF&scisig=AAGBfm0AAAAAYS4VgoetRu9OQD2siVEOqPOFZX9jHAcN&scisf=4&ct=citation&cd=79&hl=de -- unhandled response
+[ERROR] Could not grab : Evaluation Methods for E-Learning Applications in Terms of User Satisfaction and Interface Usability (https://www.igi-global.com/chapter/evaluation-methods-for-e-learning-applications-in-terms-of-user-satisfaction-and-interface-usability/174581)
+found 10 items on page 9
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Y9aTA4x3PH8J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qceXO0:AAGBfm0AAAAAYS4YRO2wCrgRmjGl9WXIy6hzE6vzGHrW&scisig=AAGBfm0AAAAAYS4YRA-0c_qqa4egUpBL1A_7WMo0IRFJ&scisf=4&ct=citation&cd=88&hl=de -- unhandled response
+[ERROR] Could not grab : Revisão sistemática de teste em aplicações móveis: análise preliminar (http://repositorio.roca.utfpr.edu.br/jspui/handle/1/9202)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:TTmFyMZzkk4J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEOP-1qceXO0:AAGBfm0AAAAAYS4YRO2wCrgRmjGl9WXIy6hzE6vzGHrW&scisig=AAGBfm0AAAAAYS4YRFGiFXPmvLhWij_ARPLFWP2_XJnn&scisf=4&ct=citation&cd=89&hl=de -- unhandled response
+[ERROR] Could not grab : Multifaceted Approach for Teaching Mobile Software Development: Class Experiences with Lectures, Tutorials, and Pair Programming (https://vtechworks.lib.vt.edu/handle/10919/85330)
+found 4 items on page 10

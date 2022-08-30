@@ -1,0 +1,21 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: mapping study
+ year: 2011 2011
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:ZxyC42uvC1IJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMauo7mf-qI:AAGBfm0AAAAAYTCZ4qLEEziFvVYbJ_DO7yBbglJUlak-&scisig=AAGBfm0AAAAAYTCZ4l86eB-vd0oEFzzxaiTrKrjYhRwn&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : What we can learn from systematic reviews (https://books.google.com/books?hl=de&lr=&id=DxuGi5h2-HEC&oi=fnd&pg=PA35&dq=%22software+engineering%22+%22meta+analysis%22+%22mapping+study%22&ots=0XstpjOdrP&sig=SNGKSK26DiisgG3z_m5wl1D8ulw)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:342-GyHyZDwJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMauo7mf-qI:AAGBfm0AAAAAYTCZ4qLEEziFvVYbJ_DO7yBbglJUlak-&scisig=AAGBfm0AAAAAYTCZ4nppwg4XGQma6mSONdcqy_1F1KZi&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : 25 years of software engineering in brazil: an analysis of sbes history (https://ieeexplore.ieee.org/abstract/document/6065140/)
+found 10 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:ML8ZLDWhvHQJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMauo7maqYU:AAGBfm0AAAAAYTCcsYWSiV5gpHtckP0qY8b17A20QTn5&scisig=AAGBfm0AAAAAYTCcsTmGZkhGp6OJTSPB5LKtyJF_yCCA&scisf=4&ct=citation&cd=18&hl=de -- unhandled response
+[ERROR] Could not grab : ASCIENTIAE RERUM (http://jultika.oulu.fi/files/isbn9789526227030.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:5dhJFVFmO2oJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMauo7maqYU:AAGBfm0AAAAAYTCcsYWSiV5gpHtckP0qY8b17A20QTn5&scisig=AAGBfm0AAAAAYTCcscZR5T8MpxF3P82gR4Tmrbai3YZn&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : Optimizing the configuration of development teams using EVA: The case of ongoing project adjustments facing personnel restrictions (https://www.igi-global.com/article/optimizing-configuration-development-teams-using/50543)
+found 4 items on page 3

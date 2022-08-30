@@ -1,0 +1,3476 @@
+Preparing search for the following 291 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Clinical Decision Support Systems for Chronic Diseases: A Systematic Literature Review
+query for The strategic use of artificial intelligence in the digital era: Systematic literature review and future research directions
+query for Risk management in the software life cycle: A systematic literature review
+query for A Systematic Literature Review on e Mental Health Solutions to Assist Health Care Workers During COVID 19
+query for Current trends analysis and prioritization of success factors: a systematic literature review of ICT projects
+query for Blockchain in healthcare: A systematic literature review, synthesizing framework and future research agenda
+query for Digital payment and banking adoption research in Gulf countries: A systematic literature review
+query for What Are the Causes and Cures of Poor Megaproject Performance? A Systematic Literature Review and Research Agenda
+query for Citation based systematic literature review of energy growth nexus: an overview of the field and content analysis of the top 50 influential papers
+query for Agile Global Software Development: A Systematic Literature Review
+query for A systematic mapping on the use of visual data mining to support the conduct of systematic literature reviews
+query for A Systematic Literature Review of Intelligent Data Analysis Methods for Smart Sport Training
+query for Bad Smell Detection Using Machine Learning Techniques: A Systematic Literature Review
+query for Establishing competitive intelligence process elements in sport performance analysis and coaching: A comparative systematic literature review
+query for 30 Years of Software Refactoring Research: A Systematic Literature Review
+/usr/lib/ruby/vendor_ruby/mechanize/http/agent.rb:323:in `fetch': 403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:79Ll4BoNt-4J:scholar.google.com/&output=citation&scisdr=CgXMw9ipEKisnA_f7Gc:AAGBfm0AAAAAX_Da9GdQyWFDeE6oG273UfZQvVwKY7mS&scisig=AAGBfm0AAAAAX_Da9Hk5pmhfIt_tCEQlRIwDPYP-h5l-&scisf=4&ct=citation&cd=0&hl=de -- unhandled response (Mechanize::ResponseCodeError)
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:464:in `get'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:348:in `click'
+	from /usr/lib/ruby/vendor_ruby/mechanize/page/link.rb:30:in `click'
+	from getbibtex.rb:175:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 276 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for An evidence based inquiry into the use of grey literature in software engineering
+getbibtex.rb:77:in `filter': undefined method `first' for nil:NilClass (NoMethodError)
+	from getbibtex.rb:165:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 276 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for An evidence based inquiry into the use of grey literature in software engineering
+query for Compliance with Bring Your Own Device security policies in organizations: A systematic literature review
+query for Challenges and Recommendations in DevOps Education: A Systematic Literature Review
+query for Software Development Analytics in Practice: A Systematic Literature Review
+query for Innovation capability: a systematic literature review
+query for Information and cyber security maturity models: a systematic literature review
+query for What do Affect Customers to Use Mobile Payment Continually? A Systematic Literature Review
+query for Hotel Brand Loyalty—A Systematic Literature Review
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2014 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 268 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Understanding the Key Quality Factors in Construction Projects—A Systematic Literature Review
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2014 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 268 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Understanding the Key Quality Factors in Construction Projects A Systematic Literature Review
+query for Barriers to information technology adoption within small and medium enterprises: A systematic literature review
+query for An Update on Effort Estimation in Agile Software Development: A Systematic Literature Review
+query for D dimer Levels in Chronic Kidney Illness: A Comprehensive and Systematic Literature Review
+query for … the Theoretical Constructs of a Green Lean Six Sigma Approach towards Environmental Sustainability: A Systematic Literature Review and Future Directions
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2026 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 263 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for the Theoretical Constructs of a Green Lean Six Sigma Approach towards Environmental Sustainability: A Systematic Literature Review and Future Directions
+query for An Early Look at a Scoping Review of Systematic Review Methodologies in Engineering
+query for Best practices for demand driven supply chain management in public healthcare sector: a systematic literature review
+query for M Learning and Student Centered Design: A Systematic Review of the Literature
+query for HTTPS Contribution in Web Application Security: A Systematic Literature Review
+query for Evaluation of technology use in education: Findings from a critical analysis of systematic literature reviews
+query for Security Challenges in Software Engineering for the Cloud: A Systematic Review
+query for Gestural Interface to Support Car Drivers Interacting with Smartphone: A Systematic Literature Review
+query for Systematic Literature Review of Information Security Compliance Behaviour Theories
+query for A SYSTEMATIC LITERATURE REVIEW ON SUPERVISED MACHINE LEARNING ALGORITHMS
+query for Children, young people and the news: a systematic literature review based on Communication Abstracts
+query for Failure Factors of Platform Start ups: A Systematic Literature Review
+query for Citizen science in information systems research: evidence from a systematic literature review
+query for The Problem Based Learning Approach towards Developing Soft Skills: A Systematic Review
+query for Revisiting the Bad Smell and Refactoring Relationship: A Systematic Literature Review
+query for Working in Virtual Teams: A Systematic Literature Review and a Bibliometric Analysis
+query for What support do systematic reviews provide for evidence informed teaching about software engineering practice?
+query for Safety Vision of Agricultural tractors: An engineering perspective based on recent studies (2009–2019)
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2013 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 246 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Safety Vision of Agricultural tractors: An engineering perspective based on recent studies (2009 2019)
+query for Understanding FLOSS through community publications: strategies for grey literature review
+query for A Meta Analysis of Impact of ERP Implementation
+query for What to do for a Literature Review?–A Synthesis of Literature Review Practices
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2013 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 243 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for What to do for a Literature Review? A Synthesis of Literature Review Practices
+query for Self Regulated Learning in Flipped Classrooms: A Systematic Literature Review
+query for Machine learning applications in healthcare
+query for A Systematic Literature Review of Visual Design Metrics for Graphical User Interfaces
+query for Long term digital preservation supported by action plans a systematic literature review
+query for A systematic review of unsupervised learning techniques for software defect prediction
+query for Social and Human Factor Classification of Influence in Productivity in Software Development Teams
+query for Guidelines for Managing Threats to Validity of Secondary Studies in Software Engineering
+query for META ANALYSIS ON CROSS PROJECT DEFECT PREDICTION
+query for An Examination of Systematic Reviews in the Engineering Literature
+query for Engineering harmony under multi constraint objectives: the perspective of meta analysis
+query for IT projects success factors: a literature review
+query for Predicting Infections Using Computational Intelligence A Systematic Review
+query for From Protocol to Screening: A Hybrid Learning Approach for Technology Assisted Systematic Literature Reviews
+query for (Re) considering the concept of literature review reproducibility
+query for The determinants of XBRL adoption: a meta analysis
+query for Inter Coder Agreement for Improving Reliability in Software Engineering Qualitative Research
+query for The challenges and practice of metal industries into global supply chain integration: A literature review
+query for Blended learning adoption and implementation in higher education: A theoretical and systematic review
+query for Evaluating Energy Efficiency and Security for Internet of Things: A Systematic Review
+query for Factors Affecting the Adoption of Social Media in Higher Education: A Systematic Review of the Technology Acceptance Model
+query for Core competencies for clinical informaticians: a systematic review
+query for Intellectual capital and SMEs' performance: A structured literature review
+query for A Systematic Review on Security and Privacy Issues in Mobile Devices and Systems
+query for Factors Promoting Software Project Escalation: A Systematic Review
+query for Hybrid Teamwork: Consideration of Teamwork Concepts to Reach Naturalistic Interaction between Humans and Conversational Agents
+query for A Literature Review of Data Mining Techniques for Enhancing Digital Customer Engagement
+query for Promoting built for disaster purpose mobile applications: An interdisciplinary literature review to increase their penetration rate among tourists
+query for The roles of conceptual modelling in improving construction simulation studies: A comprehensive review
+query for Prevalence of Machine Learning Techniques in Software Defect Prediction
+query for Predictive Models in Software Engineering: Challenges and Opportunities
+query for Prevalence of Machine Learning Techniques in Software Defect Prediction
+query for Engaging Software Engineering Students in Grading: The effects of peer assessment on self evaluation, motivation, and study time
+query for The Determinants of Employee's Performance: A Literature Review
+query for The Quality of Mobile Apps Used for the Identification of Pressure Ulcers in Adults: Systematic Survey and Review of Apps in App Stores
+query for Two Decades of Empirical Research on Developers' Information Needs: A Preliminary Analysis
+query for Why are cities removing their freeways? A systematic review of the literature
+query for Usability Elements in Digital Textbook Development: A Systematic Review
+query for Big Data analytics in Agile software development: A systematic mapping study
+query for A systematic review of immersive virtual reality applications for higher education: Design elements, lessons learned, and research agenda
+query for Exploring Maintainability Assurance Research for Service and Microservice Based Systems: Directions and Differences
+query for Software development effort estimation: a systematic mapping study
+query for Exploring Maintainability Assurance Research for Service and Microservice Based Systems: Directions and Differences
+query for Software development effort estimation: a systematic mapping study
+query for Blockchain Driven Access Control Mechanisms, Models and Frameworks: A State of the Art
+query for Change impact analysis: A systematic mapping study
+query for Systematic review of STEP NC based inspection
+query for Big data Analytics Projects Failure Literature Review Detailed Information
+query for PRIVACY LITERACY 2.0: A THREE LAYERED APPROACH COMPREHENSIVE LITERATURE REVIEW
+query for Effects of mindfulness on conceptual modeling performance: A series of experiments
+query for Modeling of open government data for public sector organizations using the potential theories and determinants—a systematic review
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2014 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 193 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Modeling of open government data for public sector organizations using the potential theories and determinants a systematic review
+query for Analysis of trends in scientific publications by an NLP toolkit: A case study in Software Development Methods for Enhanced Living Environment
+query for PRIVACY LITERACY 2.0: A THREE LAYERED APPROACH COMPREHENSIVE LITERATURE REVIEW
+query for Effects of mindfulness on conceptual modeling performance: A series of experiments
+query for Modeling of open government data for public sector organizations using the potential theories and determinants a systematic review
+query for Analysis of trends in scientific publications by an NLP toolkit: A case study in Software Development Methods for Enhanced Living Environment
+query for Publication Bias: A Detailed Analysis of Experiments Published in ESEM
+query for Understanding the automated parameter optimization on transfer learning for cross project defect prediction: an empirical study
+query for Using Defect Prediction to Improve the Bug Detection Capability of Search Based Software Testing
+query for The impact of personality traits and knowledge collection behavior on programmer creativity
+query for On the need of preserving order of data when validating within project defect classifiers
+query for Technological acceptance of Moodle through latent variable modeling a systematic mapping study
+query for A systematic mapping study for ensemble classification methods in cardiovascular disease
+query for Augmented reality for manual assembly in industry 4.0: Gathering guidelines
+query for Digital footprints (2005 2019): A systematic mapping of studies in education
+query for Capital budgeting: a systematic review of the literature
+query for A systematic mapping study in cloud for educational innovation
+query for La interoperabilidad en el marco del Gobierno Digital
+query for Social networking sites' advertising effectiveness: a systematic insight into literature
+query for Empirical Evidence of the Usage of Programming Languages in the Educational Process
+query for Neuropsychological rehabilitation interventions for people with an acquired brain injury and their caregivers. A protocol for a systematic review of economic …
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2026 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 173 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Neuropsychological rehabilitation interventions for people with an acquired brain injury and their caregivers. A protocol for a systematic review of economic
+query for A Glimpse into the Past, Present, and Future of Engineering Interactive Computing Systems
+query for The Impact of Scope Creep on Project Success: An Empirical Investigation
+query for An analysis of the application of fuzzy logic in cloud computing
+query for Developing an executable Model of a Protocol for a Systematic Review
+query for GAMIFICATION IN HIGHER EDUCATION: A BIBLIOMETRIC APPROACH.
+query for Visual Programming Environments for End User Development of Intelligent and Social Robots, a Systematic Review
+query for SLDeep: Statement level software defect prediction using deep learning model on static code features
+query for Comparative whole building LCAs: How far are our expectations from the documented evidence?
+query for A systematic mapping review of context aware analysis and its approach to mobile learning and ubiquitous learning processes
+query for Quo Vadis, Business Process Maturity Model? Learning from the Past to Envision the Future
+query for Recommender systems to support learners' Agency in a Learning Context: a systematic review
+query for A systematic review of modalities in computer based interventions (CBIs) for language comprehension and decoding skills of children with autism spectrum disorder …
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2026 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 161 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for A systematic review of modalities in computer based interventions (CBIs) for language comprehension and decoding skills of children with autism spectrum disorder 
+query for THE IMPACT OF MALOCCLUSIONS ON THE QUALITY OF LIFE AND PSYCHOLOGICAL STATUS. A SYSTEMATIC REVIEW.
+query for What are Systematic Reviews?
+query for An empirical study of ensemble techniques for software fault prediction
+query for Self regulated learning strategies and non academic outcomes in higher education blended learning environments: A one decade review
+query for WIP: Synthesizing Exemplary Engineering Ethics Education Efforts
+query for Multidimensional flood risk management under climate changes: bibliometric analysis, trends and strategic guidelines for decision making in urban dynamics
+query for Blended Learning Adoption and Implementation in Higher Education: A Theoretical and Systematic Review
+query for With Registered Reports Towards Large Scale Data Curation
+query for Applying Machine Learning to Customized Smell Detection: A Multi Project Study
+query for Investigating Current State of The Art Applications of Supportive Technologies for Individuals with ADHD
+query for A Pantheoretical Framework to Optimize Adherence to Healthy Lifestyle Behaviors and Medication Adherence: The Use of Personalized Approaches to 
+query for Smart Data Collection in Mobile Edge Computing Environment
+query for How to Measure Influence in Social Networks?
+query for Tailored gamification: A review of literature
+query for Active Learning Empirical Research on Cross Version Software Defect Prediction Datasets.
+query for A comprehensive analysis of AHRR gene as a candidate for cleft lip with or without cleft palate
+query for Experiences of using a game f or improving learning in software requirements elicitation
+query for A Simple Framework of Smart Geriatric Nursing considering Health Big Data and User Profile
+query for An empirical study on predictability of software maintainability using imbalanced data
+query for Code smell detection using multi label classification approach
+query for DANDELION: Propuesta metodológica para recopilación y análisis de información de artículos científicos. Un enfoque desde la bibliometría y la revisión 
+getbibtex.rb:77:in `filter': undefined method `first' for nil:NilClass (NoMethodError)
+	from getbibtex.rb:165:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 139 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for The influence of leaders' characteristics on the relationship between leadership and knowledge management
+query for Cross Project Dynamic Defect Prediction Model for Crowdsourced test
+query for The integration of the Q method as an alternative validation tool for Design Science Research Study
+query for Centralized Access Point for Information System Integration Problems in Large Enterprises
+query for Identification of the regional and economic contexts of sustainable urban logistics policies
+query for Building students' nascent understanding of ethics in engineering practice
+query for All Together Now: A Framework for Research on Mob Programming
+query for Sala de Aula Invertida e TDIC na Educação Básica: Revisão sistemática e proposta
+Error:confidence to low with 0.307692
+ Sala de Aula Invertida e TDIC na Educação Básica: Revisão sistemática e proposta
+ DE ENSINO PRESENCIAL PARA O REMOTO EMERGENCIAL: adapta{\c{c}}{\~o}es, desafios e impactos na p{\'o}s-gradua{\c{c}}{\~a}o
+query for Progress in the Development of Chitosan Based Insulin Delivery Systems: A Systematic
+query for XI Commandments of Kubernetes Security: A Systematization of Knowledge Related to Kubernetes Security Practices
+query for Specialization of Business Process Model and Notation Applications in Medicine A Review
+query for Soft Skills: What do Computing Program Syllabi Reveal About Non Technical Expectations of Undergraduate Students?
+query for Job Work Fit as a Determinant of the Acceptance of Large Scale Agile Methodology
+query for GIMO: A multi objective anytime rule mining system to ease iterative feedback from domain experts
+query for Improving change prediction models with code smell related information
+query for What developers (care to) recall: An interview survey on smaller systems
+query for How to measure influence in social networks?
+query for SMARTtest: a smartphone app to facilitate HIV and syphilis self and partner testing, interpretation of results, and linkage to care
+query for Comparing static and dynamic weighted software coupling metrics
+query for Nourishing Organizational Performance through Engineering Education: Mediating Role of Open Innovation and Intellectual Property Rights Protection
+query for Mobile Health Applications for Osteoporosis Support Available on the Market: A Systematic Review
+query for Working with bipolar disorder during the covid 19 pandemic: Both crisis and opportunity
+query for Information extraction and mapping for KG construction with learned concepts from scientic documents: Experimentation with relations data for development of 
+query for Large Scale Manual Validation of Bugfixing Changes
+query for Co designing Gamified Intelligent Tutoring Systems with Teachers
+query for Tunnel Construction Workers' Cognitive Biases and Unsafe Behaviors: The Mediating Effects of Risk Perceptions
+query for Elucidation of IS project success factors: an interpretive structural modelling approach
+query for Explaining Software Developers Affectiveness through Markov chain Models
+query for Evaluation for an Effective Data Visualization Method in Safety Radar System Demonstrator
+query for CFPS: Collaborative filtering based source projects selection for cross project defect prediction
+query for Management and Business Research Quarterly
+Error:confidence to low with 0.400000
+ Management and Business Research Quarterly
+ Crisis management in today�s business environment
+query for Modular Crowd Workflows for Open Innovation
+query for An Experimental Study Towards Investigating the Effect of Working Memory Capacity on Complex Diagram Understandability
+query for Using Eye Tracking Data to Compare Differences in Code Comprehension and Code Perceptions between Expert and Novice Programmers
+query for Studi Literatur Tentang Persepsi Penderita Hipertensi
+query for Predicting the number of defects in a new software version
+query for Managing digital transformation of smart cities through enterprise architecture a review and research agenda
+query for GoDental! Enhancing flipped classroom experience with game‐based learning
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2010 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 102 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for GoDental Enhancing flipped classroom experience with game based learning
+query for Are we preparing for a good AI society? A bibliometric review and research agenda
+query for Information Security in M learning Systems: Challenges and Threats of Using Cookies
+query for Investigating Tree Family Machine Learning Techniques for a Predictive System to Unveil Software Defects
+query for On the evolvability assurance of microservices: metrics, scenarios, and patterns
+query for The Mediating Effect of customer satisfaction on the relationship between Electronic banking service quality and customer Purchase intention: Evidence from the Qatar
+query for Study of the environmental implications of using metal powder in additive manufacturing and its handling
+query for An Interactive Serious Mobile Game for Supporting the Learning of Programming in JavaScript in the Context of Eco Friendly City Management
+query for REVISÃO SISTEMÁTICA DE LITERATURA DA ESTRATÉGIA PROMOCIONAL BLACK FRIDAY
+Error:confidence to low with 0.111111
+ REVISÃO SISTEMÁTICA DE LITERATURA DA ESTRATÉGIA PROMOCIONAL BLACK FRIDAY
+ Construyendo cultura visual a trav{\'e}s del cartel de cine: An{\'a}lisis de afiches de las sagas cinematogr{\'a}ficas
+query for Study on Web Services Architectural Operations and Performance
+query for The Effect of Team Conflict on Teamwork Performance: An Engineering Education Perspective
+query for Social media utilization of startups over their life cycle
+query for A graph based approach to mapping human exposure outcome associations for chemical contaminants
+query for A Quantitative Study Investigating the Critical Success Factors in Relation to Software Project Success Among Technology Based Startup Companies in the United 
+query for PREDICTING FACTORS THAT INFLUENCE ATTITUDE TO USE AND ITS IMPLICATIONS ON CONTINUANCE INTENTION TO USE SVOD: STUDY ON 
+query for Pair Programming in Perspective: Effects on Persistence, Achievement, and Equity in Computer Science
+query for Mobile Applications and Wearables for Chronic Respiratory Disease Monitoring
+query for Revisiting heterogeneous defect prediction methods: How far are we?
+query for Attention restoration theory as a framework for analysis of Tweets about urban green space: a case study
+query for On the Reliability and Validity of Digital Competence Evaluation in Higher Education
+query for How to evaluate innovative ideas and concepts at the front end?: A front end perspective of the automotive innovation process
+query for Relationship between quality management practices, performance and maturity quality management, a contingency approach
+query for PLAYFULNESS AS AN ORGANIZATION OF EXPERIENCE
+query for Training techniques for entrepreneurial value creation
+query for An Overview of Social Media Apps and their Potential Role in Geospatial Research
+query for On metrics for measuring scanpath similarity
+query for Project Management in Instructional Design
+query for Is grey literature really grey or a hidden glory to showcase the sleeping beauty
+query for The Integration of a Maker Program into Engineering Design Courses
+query for ALTRA: Cross Project Software Defect Prediction via Active Learning and Tradaboost
+query for Analyzing and Increasing the Potential of Social Commerce Initiatives: Theoretical Foundations, Empirical Evidence, and Design Recommendations
+query for Designing an Innovative Collaborative Learning Application: The Case of Method 300
+query for Research Paper Volume X, Issue X, Month YYYY, ISSN 1936 0282 (will be set by editors)
+query for A conceptual framework for entrepreneurial orientation: is philanthropy missing in family business?
+query for The impact of control styles and control modes on individual level outcomes: a first test of the integrated IS project control theory
+query for A fuzzy genetic automatic refactoring approach to improve software maintainability and flexibility
+query for The impact of balanced agile project management on firm performance: the mediating role of market orientation and strategic agility
+query for Understanding the impact of supply side decisions and practices on supply risk management
+query for Lessons Learned from Implementing a Serious Game in Higher Education A Student and Trainer Perspective
+query for Developing an information classification method
+query for What is AI Literacy? Competencies and Design Considerations
+query for Perseverations of the academy: A survey of wearable technologies applied to autism intervention
+query for An educational game on the theories of driver education curriculum: An evaluation
+query for Analysis and research on network security and privacy security in ubiquitous electricity Internet of Things
+query for Evaluating Education Apps from a Sociocultural Perspective
+query for Critical Antecedents of Trust in E Government Services in Turkey
+query for Intelligent Tutoring Systems
+query for An Integrated Success Model for Adopting Biometric Authentication Technique for District Health Information Management System 2, Ghana
+query for The effect of Gamification on learning performance of students in a STEM program
+query for Do different cross‐project defect prediction methods identify the same defective modules?
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2010 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 53 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Do different cross project defect prediction methods identify the same defective modules
+query for Agile Practices in Commercial SaaS Teams: A case study on the adoption of agile practices in non software teams
+query for ANALISIS PENERIMAAN E LEARNING MENGGUNAKAN TECHNOLOGY ACCEPTANCE MODEL (TAM)
+query for On the agreement among developers when detecting code smells aided by decision tree
+query for Impact of big five personality traits on virtual team members' self effectiveness: Mediation effect of group atmosphere
+query for Mediation criteria for interactive serious games aimed at improving learning in children with attention deficit hyperactivity disorder (ADHD)
+query for Factors Affecting Intention to Adopt Cloud Based ERP from a Comprehensive Approach
+query for Cybersecurity Challenges in Industry: Measuring the Challenge Solve Time to Inform Future Challenges
+query for Ahead of the Curve: Leveraging Antecedents of Corporate Entrepreneurship to Pull Off Competitive Advantage
+query for Designing a Living Lab for innovating sustainable solid waste management solutions
+query for Usability and User Experience Evaluation Model for Investigating Coordinated Assistive Technologies with Blind and Visually Impaired
+query for A Longitudinal Evaluation of a Best Practices CS1
+query for Context Aware Recommendation Systems: A review of the state of the art techniques
+query for Enhancing Consumer Online Purchase Intention Through Gamification in China: Perspective of Cognitive Evaluation Theory
+query for Governance of Cloud Computing in the Context of Contractual Management
+query for Cybersecurity Challenges in Industry: Measuring the Challenge Solve Time to Inform Future Challenges
+query for Empirical Detection Techniques of Insider Threat Incidents
+query for Metodologias Usadas no Desenvolvimento de Jogos Eletrônicos Educacionais: Uma Revisão da Literatura
+query for Realidad Aumentada en los museos: Una revisión sistemática de la literatura
+Error:confidence to low with 0.363636
+ Realidad Aumentada en los museos: Una revisión sistemática de la literatura
+ Realidad aumentada y educaci{\'o}n: an{\'a}lisis de experiencias pr{\'a}cticas
+query for A comparative evaluation of a virtual reality table and a HoloLens based augmented reality system for anatomy training
+query for Method and system for drug screening
+query for Towards augmenting cyber physical human collaborative cognition for human automation interaction in complex manufacturing and operational environments
+query for Fake news agenda in the era of COVID 19: Identifying trends through fact checking content
+query for AR LabOr: Design and Assessment of an Augmented Reality Application for Lab Orientation
+query for Automatic Construction of a Depression Domain Lexicon Based on Microblogs: Text Mining Study
+query for Älykodit ja teknologian mahdollistamat uudet asumisratkaisut
+query for Capturing the Silences in Digital Archaeological Knowledge
+query for Critical success factors regarding innovative technology procurement in the Finnish public sector
+query for Designing Rich Interactive Content for Blended Learning: A Case Study from Indonesia
+query for Risk factors for falls and technologies for fall risk assessment in older adults
+query for Growth Mindset Thinking and Beliefs in Teaching and Learning
+query for Towards a Conceptual Definition for IT assets through interrogating their nature and epistemic uncertainties
+query for Uso de la ingeniería de software basada en evidencias en la industria local
+query for On Resilience in Cloud Computing: A survey of techniques across the Cloud Domain
+query for Desenvolvimento do aplicativo móvel KnowFoot para a avaliação da postura dos pés
+query for A Risk reduction based Incentivization Model for Human centered Multi factor Authentication
+query for Connecting Learning and Playing: The Effects of In Game Cognitive Supports on the Development and Transfer of Computational Thinking Skills
+query for Information Practices in Amateur Classical Musicianship
+query for Multi Dimensional Consumer Value and Adoption of Mobile Health Service: A Study During COVID 19 Outbreak in Indonesia
+query for Strategies to Reduce Small Business Data Security Breaches
+query for How do employees of StrengthCo stay engaged during organizational changes?
+query for Tele visits in elderly care: effects on quality of life
+query for Educational Research and Innovation Education in the Digital Age Healthy and Happy Children: Healthy and Happy Children
+query for LIFE IN THE BONDS OF SOCIAL EXCLUSION AS A DISADVANTAGEOUS FACTOR OF EDUCATION
+query for The Influence of Anonymity Factors on IT Security Incident Reporting
+query for Caracterização da matéria orgânica de resíduos sólidos orgânicos biodegradáveis ea reprodutibilidade dos métodos utilizados: uma revisão sistemática da literatura
+Error:confidence to low with 0.052632
+ Caracterização da matéria orgânica de resíduos sólidos orgânicos biodegradáveis ea reprodutibilidade dos métodos utilizados: uma revisão sistemática da literatura
+ REVISTA ELETR{\^o}NICA DO MESTRADO EM ENGENHARIA DE PETR{\'o}LEO E G{\'a}S
+query for Learners on Focus: Visualizing Analytics Through an Integrated Model for Learning Analytics in Adaptive Gamified E Learning
+query for Teknologian hyödyntäminen verkkopohjaisissa psykologisissa interventioissa
+getbibtex.rb:77:in `filter': undefined method `first' for nil:NilClass (NoMethodError)
+	from getbibtex.rb:165:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 5 entries...
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for A Decision Support System with Intelligent Recommendation for Multi disciplinary Medical Treatment
+query for Vieillissement ludique: Jeux numériques pour les personnes âgées
+getbibtex.rb:182:in `index': incompatible character encodings: ASCII-8BIT and UTF-8 (Encoding::CompatibilityError)
+	from getbibtex.rb:182:in `block (2 levels) in <main>'
+	from getbibtex.rb:182:in `map'
+	from getbibtex.rb:182:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 2 entries...
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Probabilistic prediction of the behaviour of cyber attackers
+query for Abstracts of the 43rd Annual Scientific Meeting of the Nutrition Society of Australia

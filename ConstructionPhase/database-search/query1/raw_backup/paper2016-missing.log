@@ -1,0 +1,253 @@
+Preparing search for the following 71 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Factors influencing the decision to crowdsource: A systematic literature review
+/usr/lib/ruby/2.5.0/net/protocol.rb:181:in `wait_readable': Interrupt
+	from /usr/lib/ruby/2.5.0/net/protocol.rb:181:in `rbuf_fill'
+	from /usr/lib/ruby/2.5.0/net/protocol.rb:157:in `readuntil'
+	from /usr/lib/ruby/2.5.0/net/protocol.rb:167:in `readline'
+	from /usr/lib/ruby/2.5.0/net/http/response.rb:40:in `read_status_line'
+	from /usr/lib/ruby/2.5.0/net/http/response.rb:29:in `read_new'
+	from /usr/lib/ruby/2.5.0/net/http.rb:1497:in `block in transport_request'
+	from /usr/lib/ruby/2.5.0/net/http.rb:1494:in `catch'
+	from /usr/lib/ruby/2.5.0/net/http.rb:1494:in `transport_request'
+	from /usr/lib/ruby/2.5.0/net/http.rb:1467:in `request'
+	from /usr/lib/ruby/vendor_ruby/net/http/persistent.rb:999:in `request'
+	from /usr/lib/ruby/vendor_ruby/mechanize/http/agent.rb:274:in `fetch'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:464:in `get'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:348:in `click'
+	from /usr/lib/ruby/vendor_ruby/mechanize/page/link.rb:30:in `click'
+	from getbibtex.rb:175:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 70 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Factors influencing the decision to crowdsource: A systematic literature review
+query for The effect of software engineers' personality traits on team climate and performance: A Systematic Literature Review
+query for Using forward snowballing to update systematic reviews in software engineering
+query for Surveys in Software Engineering: A Systematic Literature Review and Interview Study
+query for Preparing ICT graduates for real world challenges: results of a meta analysis
+query for How do emotions impact mobile services acceptance? A systematic literature review
+query for Tool support for systematic reviews in software engineering
+query for A systematic mapping study of the current practice of indian software engineering
+query for Communication constraints and motivations in the context of knowledge sharing: A Systematic Literature Review
+query for Prognosis of dementia employing machine learning and microsimulation techniques: A systematic literature review
+query for Discovery tools for open access repositories: a literature mapping
+query for Personal learning environments: A Big Data perspective
+query for Open Source Software Ecosystem: A Systematic Literature Review
+query for A systematic literature review on cross project defect prediction
+query for Augmented Reality Based Learning Systems: Personalisation Framework
+query for Drivers for compliance with fisheries rules. A systematic literature review
+query for User Experience Dimensions, Aspects and Measures: Systematic Literature
+query for Gamification in higher education and stem: A systematic review of literature
+query for How to evaluate educational games: a systematic
+query for Approaches to evaluating efficiency and quality of integrated health care: state of the evidence
+query for A theoretical and methodological examination of knowledge management maturity models: a systematic review
+query for Quo vadis real time business intelligence? a descriptive literature review and future directions
+query for Open Source Software (OSS) Adoption in Commercial Firms: A Literature Review
+query for An instrument for reviewing the completeness of experimental plans for controlled experiments using human subjects in software engineering
+query for Factors influencing students' acceptance in m learning: A literature review and proposal of a taxonomy
+query for Rethinking Service Quality for Context Sensitive Socio Technical Systems
+query for Development of a general crowdsourcing maturity model
+query for Basic corporate governance models: a systematic review
+query for Research trends in massive open online course (MOOC) theses and dissertations: Surfing the tsunami wave
+query for Management of risks in natural disasters: A systematic review of the literature on NATECH events
+query for Control configuration and control enactment in information systems projects: Review and expanded theoretical framework
+query for Heuristic optimization for the resource constrained Project Scheduling Problem: A systematic mapping
+query for Control configuration and control enactment in information systems projects: Review and expanded theoretical framework
+query for Heuristic optimization for the resource constrained Project Scheduling Problem: A systematic mapping
+query for Using social media for business process improvement: a systematic review
+query for MEEGA+: an evolution of a model for the evaluation of educational games
+query for Maximising Societal Impact
+query for Issues on developing interoperable cloud applications
+query for Evaluating requirements engineering tools and atalogue based reuse of natural language requirements in global software engineering
+query for Authorship/authoring possibilities in three dimensional virtual worlds in education: The state of art from a systematic review
+query for Developing virtual reality simulations for office based medical emergencies
+query for Links between the personalities, styles and performance in computer programming
+query for Reducing age stereotypes in software development: The effects of awareness and cooperation based diversity interventions
+query for Hospital Information Systems Management: Towards a Comprehensive Maturity Model
+query for Information governance requirements in dynamic business networking
+query for A review on objective measurement of usage in technology acceptance studies
+query for Towards a theory of affect and software developers' performance
+query for A Systematic Review of the Effects of Postsecondary Education in the Penal System on Recidivism and Incarceration Rates
+query for Assessing Success Factors for Software Development Projects in Nigeria: A Factor Analysis Approach
+query for Increasing Beneficial Interactions in a Computer Supported Collaborative Environment
+query for Scenario Based Reading Techniques
+query for Introduction to the GI Dagstuhl Book on Entertainment Computing and Serious Games
+query for Design Principles for the Productive Delivery of Blended Learning Services: The Case of Standard Software Trainings in Germany
+query for The effective hydrotherapy system for weight reduction and quality of life improvement amongst obese Malaysia
+query for Improving fault prevention with proactive root cause analysis (PRORCA method)
+query for LRDB: um repositório online de revisões literárias de computação
+getbibtex.rb:77:in `filter': undefined method `first' for nil:NilClass (NoMethodError)
+	from getbibtex.rb:165:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 12 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for iSIM: An integrated design method for commercializing service innovation
+query for An integration of traditional project management principles into Agile software development methodologies.
+query for Starting open source collaborative innovation: the antecedents of network formation in community source: Antecedents of
+query for Collaborative game based learning with iPads and external keyboards in a web development class
+query for Lessons from Dutch IT outsourcing success and failure
+query for Initiating a commercial open source digital platform
+query for Improving Ergonomic Intervention Implementation and Adoption among Caregivers in a Healthcare System
+query for Theoretical Foundations
+query for Research Dissertation
+query for Effect of using domain ontologies to facilitate shared understanding and cross understanding in groups
+query for Omics approaches in breast cancer
+query for CHAPTER SEVEN COLLABORATIVE GAME BASED LEARNING

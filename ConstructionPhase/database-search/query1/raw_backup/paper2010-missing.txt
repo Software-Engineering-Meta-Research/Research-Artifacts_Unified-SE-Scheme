@@ -1,0 +1,10 @@
+Software engineering research for computer games: A systematic review
+Combining evidence and meta-analysis in software engineering
+Characterizing software architecture changes: A systematic review
+Experiences conducting systematic reviews from novices' perspective
+Data cleaning techniques for software engineering data sets
+Research commentary-Platform evolution: Coevolution of platform architecture, governance, and environmental dynamics
+Paper I: A Systematic Review on Regression Test Selection Techniques
+Toward a unified model of information systems development success
+Time factor in e-learning
+The contribution of enterprise architecture to the achievement of organizational goals: Establishing the enterprise architecture benefits framework

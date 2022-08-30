@@ -1,0 +1,16 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: mapping study
+ year: 2010 2010
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:osP1cxMKe2IJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEPnUo7mrD0M:AAGBfm0AAAAAYTCtF0NmW5Vb2KdFX58tvfUNEJpDrqv1&scisig=AAGBfm0AAAAAYTCtF0Zm-k8_Bv1BUx8HsWat8SkfeiHN&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : Systems mapping of consumer acceptance of agrifood nanotechnology (https://link.springer.com/article/10.1007/s10603-010-9134-5)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:yX-uhkHTlB8J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEPnUo7mrD0M:AAGBfm0AAAAAYTCtF0NmW5Vb2KdFX58tvfUNEJpDrqv1&scisig=AAGBfm0AAAAAYTCtF1eFBPrv0acQZnjeU9W2A3_9idmU&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : Systematic mapping of value-based software engineering: A systematic review of value-based requirements engineering (https://www.diva-portal.org/smash/record.jsf?pid=diva2:832388)
+found 4 items on page 2

@@ -1,0 +1,14 @@
+Classifier, Count, Median Citations, Min Citations, Max Citations
+article, 281, 17.0, 0, 3474
+book, 1, 5.0, 5, 5
+inbook, 0, 0, 0, 0
+incollection, 20, 2.0, 0, 16
+inproceedings, 185, 3.0, 0, 166
+misc, 0, 0, 0, 0
+patent, 0, 0, 0, 0
+phdthesis, 0, 0, 0, 0
+acm, 89, 4.0, 0, 166
+ieee, 138, 6.0, 0, 1038
+other, 0, 0, 0, 0
+sciencedirect, 142, 30.0, 0, 3474
+springer, 118, 6.0, 0, 169

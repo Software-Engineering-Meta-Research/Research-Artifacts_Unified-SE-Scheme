@@ -1,0 +1,26 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: mapping study
+ year: 2013 2013
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Rj54HpUFjIYJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEJeE36aCq3s:AAGBfm0AAAAAYS-Es3v08TJO0MHcqw6BbLWvI0MPLSvM&scisig=AAGBfm0AAAAAYS-Es_WdknXBRLCmfkIB1x_L1JGzLsVU&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : Motivation to perform systematic reviews and their impact on software engineering practice (https://ieeexplore.ieee.org/abstract/document/6681370/)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:rDTRwR0UAEcJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEJeE36aCq3s:AAGBfm0AAAAAYS-Es3v08TJO0MHcqw6BbLWvI0MPLSvM&scisig=AAGBfm0AAAAAYS-EswWvMyZVqUsaSBBy-XI1opgpIhxe&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : The dynamics of creativity in software development (https://arxiv.org/abs/1305.6045)
+found 10 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:LjbVNx7N9owJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEJeE36aBmFo:AAGBfm0AAAAAYS-HgFrDxZzqKe9dhpufN4V2tapEwcB4&scisig=AAGBfm0AAAAAYS-HgMZKkjAI9OlncvfmHIzJOQ5tGShz&scisf=4&ct=citation&cd=18&hl=de -- unhandled response
+[ERROR] Could not grab : Writing a postgraduate literature review: challenges, concerns and some advanced approaches (https://www.zurnalai.vu.lt/LMR/article/view/17183)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:-oZg2D5dWRYJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEJeE36aBmFo:AAGBfm0AAAAAYS-HgFrDxZzqKe9dhpufN4V2tapEwcB4&scisig=AAGBfm0AAAAAYS-HgDz2BrtZ3GhUkKnr1lO5_nF59fva&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : A survey of experienced user perceptions about software design patterns (https://www.sciencedirect.com/science/article/pii/S0950584912002297)
+found 10 items on page 3
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:3DpSQRtYiNwJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEJeE36aMUNw:AAGBfm0AAAAAYS-KSNxzQXe5o0IRZGXHh7TMxudwBLZB&scisig=AAGBfm0AAAAAYS-KSKCY3W9j7oWll9GHpdrzpQJbaOkX&scisf=4&ct=citation&cd=28&hl=de -- unhandled response
+[ERROR] Could not grab : Variability in quality attributes of service-based software systems: A systematic literature review (https://www.sciencedirect.com/science/article/pii/S0950584912001772)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:65uUDqA_0XkJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEJeE36aMUNw:AAGBfm0AAAAAYS-KSNxzQXe5o0IRZGXHh7TMxudwBLZB&scisig=AAGBfm0AAAAAYS-KSFbE5x0HUvSCgS7IqrPlIqXQyYus&scisf=4&ct=citation&cd=29&hl=de -- unhandled response
+[ERROR] Could not grab : More testers–The effect of crowd size and time restriction in software testing (https://www.sciencedirect.com/science/article/pii/S095058491200239X)
+found 8 items on page 4

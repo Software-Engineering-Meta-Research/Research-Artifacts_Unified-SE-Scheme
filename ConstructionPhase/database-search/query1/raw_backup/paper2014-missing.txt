@@ -1,0 +1,24 @@
+The use of systematic reviews in evidence based software engineering: a systematic mapping study
+Analyzing software product innovation assessment by using a systematic literature review
+The relationship of personality models and development tasks in software engineering
+Cross-vs. within-company cost estimation studies revisited: an extended systematic review
+Considering rigor and relevance when evaluating test driven development: A systematic review
+A hermeneutic approach for conducting literature reviews and literature searches
+Finding relevant research solutions for practical problems: the serp taxonomy architecture
+Recovering from a decade: a systematic mapping of information retrieval approaches to software traceability
+Nurse-Patient Relationship in stroke Rehabilitation Units
+Investigating the effects of personality traits on pair programming in a higher education setting through a family of experiments
+The Dynamics of Test-Driven Development
+Risks and risk mitigation in global software development: A tertiary study
+DConfusion: a technique to allow cross study performance evaluation of fault prediction studies
+Meta-theoretic assumptions and bibliometric evidence assessment on 3-D virtual worlds as collaborative learning ecosystems
+Obtaining better software product by using test first programming technique
+Variables influencing information security policy compliance
+Advancing evidence-based practice in systems development: providing juried knowledge to software professionals
+Key factors of process maturity in English-speaking Caribbean firms
+Comparing a hybrid testing process with scripted and exploratory testing: an experimental study with practitioners
+A Systematic Review of the Effectiveness of Animal-assisted Interventions
+The extent of empirical evidence that could inform evidence-based design of programming languages: A systematic mapping study
+Investigating programming techniques in large-scale empirical studies
+Open Source Software in Local Authorities
+Brain-based programming continued: Effective teaching in programming courses

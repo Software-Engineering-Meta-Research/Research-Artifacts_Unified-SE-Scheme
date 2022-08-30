@@ -1,0 +1,41 @@
+Understanding the influence of user participation and involvement on system success-a systematic mapping study
+What is the impact of imbalance on software defect prediction performance?
+What do we know and how well do we know it? Current knowledge about software engineering practices
+Behavioral Software Engineering: a Definition and Systematic
+Computer-mediated Relational Maintenance and Relationship Quality: A Systematic Literature Review
+Using blind analysis for software engineering experiments
+A further analysis of the importance of systematic reviews to computer science
+Aggregating empirical evidence about the benefits and drawbacks of software reference architectures
+Requirements elicitation problems: a literature analysis
+A comprehensive literature review on the effects of personality and expertise on pair programming, with the purpose to lay a foundation for how to configure pairs
+Phases of inquiry-based learning: Definitions and the inquiry cycle
+Predicting change using software metrics: A review
+Science fiction meets scientific inquiry: A task-technology fit/computer-based training framework and a meta-analysis of virtual reality applications for intervention 
+Computerized decision support improves medication review effectiveness: an experiment evaluating the STRIP assistant's usability
+Towards an encompassing maturity model for the management of hospital information systems
+E-government implementation: A bird's eye view of issues relating to costs, opportunities, benefits and risks
+Fostering effective inter-team knowledge sharing in agile software development
+Users, Consumers, Citizens: A systematic review of their roles in sustainability transitions
+An empirical study to develop a Decision Support System (DSS) for measuring the impact of quality measurements over Agile Software Development (ASD)
+Can we know upfront how to prioritize quality requirements?
+Fostering 21st-century skills in constructivist engineering classrooms with digital game-based learning
+Psychosocial correlates of software designers' professional aptitude
+Towards an operationalization of test-driven development skills: An industrial empirical study
+Are bullies more productive? Empirical study of affectiveness vs. issue fixing time
+Analysing search engine advertising research: synthesis of two decades of research
+Agile Governance Theory: conceptual development.
+Digital collections are a sprint, not a marathon: Adapting Scrum project management techniques to library digital initiatives
+A multi-site joint replication of a design patterns experiment using moderator variables to generalize across contexts
+Efectividad del test-driven development: un experimento replicado
+Evaluación de la aceptación de tecnologías móviles en el profesorado de primaria
+Guidelines for the design and implementation of game telemetry for Serious Games Analytics
+Conceptual foundations of safety culture and safety climate measurement: A snapshot review
+UM MODELO DE INOVAÇÃO PARA REDES COLABORATIVAS DE PMES PROVEDORAS DE SERVIÇOS DE SOFTWARE
+Autonomic Dysreflexia: An Educational Intervention for First Responders to Recognize this Medical Emergency
+Paper II: Construction and Validation of an Instrument for Measuring Programming Skill
+Barriers to continuous process improvement in a military organization
+O que revela a literatura internacional sobre os vínculos entre aprendizagem, competências e inovação?
+Análise do impacto corporativo de riscos a partir de um modelo de Gestão de Riscos orientado a ambientes inovadores
+Government geeks: A quantitative study of motivators of civil service technologists
+Abstractband GMDS 2015: Fortschritt durch Forschung Multidisziplinäre Wissenschaft in der GMDS, 60. Jahrestagung
+Mobile Clinical Decision Support for the Quality Improvement of Maternal, Neonatal and Child Health Services Delivered by Community Health Workers in 

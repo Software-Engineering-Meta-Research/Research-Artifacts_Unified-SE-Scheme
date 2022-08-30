@@ -1,0 +1,51 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: systematic literature review
+ year: 2011 2011
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:6mT1zVdm0zwJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaBuSg:AAGBfm0AAAAAX_mEoSh2kZc-SQ2fsMkWxpmS7-gO1ncl&scisig=AAGBfm0AAAAAX_mEof63SpYUvW1p5u7Nx2t6RsgMsT-G&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : Quantitative determination of the relationship between internal validity and bias in software engineering experiments: consequences for systematic literature reviews (https://ieeexplore.ieee.org/abstract/document/6092577/)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:9BJqVm7LgTgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaBuSg:AAGBfm0AAAAAX_mEoSh2kZc-SQ2fsMkWxpmS7-gO1ncl&scisig=AAGBfm0AAAAAX_mEoQ1ts9Nk-QLO10eTAMPW3qHS3jOP&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : A meta-analysis of e-learning technology acceptance: The role of user types and e-learning technology types (https://www.sciencedirect.com/science/article/pii/S0747563211001609)
+found 10 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:q9HOp2sQ9PUJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaCa7Y:AAGBfm0AAAAAX_mHc7aBna6jOS5jDTWB-19FL1hIBCir&scisig=AAGBfm0AAAAAX_mHc0rGX-yw2U8WzAl7TmecON9LCtqz&scisf=4&ct=citation&cd=18&hl=de -- unhandled response
+[ERROR] Could not grab : Factors limiting industrial adoption of test driven development: A systematic review (https://ieeexplore.ieee.org/abstract/document/5770623/)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:ZxyC42uvC1IJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaCa7Y:AAGBfm0AAAAAX_mHc7aBna6jOS5jDTWB-19FL1hIBCir&scisig=AAGBfm0AAAAAX_mHc38lshkJGtmnOJa__KHC-T-Z8uYo&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : What we can learn from systematic reviews (https://books.google.com/books?hl=de&lr=&id=DxuGi5h2-HEC&oi=fnd&pg=PA35&dq=%22software+engineering%22+%22meta+analysis%22+%22systematic+literature+review%22&ots=0XqtlkS9pU&sig=F8BCR9M7RfmQU6yPSvopfPEWnDE)
+found 10 items on page 3
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:cnZ6fYQjEh0J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaPWsk:AAGBfm0AAAAAX_mKQskLsiAOq3ClDRgnO6wz69ch6sek&scisig=AAGBfm0AAAAAX_mKQnbAQjR_y6aUkphJQFeiU-SruvXc&scisf=4&ct=citation&cd=28&hl=de -- unhandled response
+[ERROR] Could not grab : Evidence-based Information Systems: A decade later (https://aisel.aisnet.org/ecis2011/222/)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Uu_LNGfhvtQJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaPWsk:AAGBfm0AAAAAX_mKQskLsiAOq3ClDRgnO6wz69ch6sek&scisig=AAGBfm0AAAAAX_mKQoQOHoceUi5YG9KOiHVvF_uyvZbu&scisf=4&ct=citation&cd=29&hl=de -- unhandled response
+[ERROR] Could not grab : Data quality: Cinderella at the software metrics ball? (https://dl.acm.org/doi/abs/10.1145/1985374.1985376)
+found 10 items on page 4
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Tp85c4QCrhIJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaIGD0:AAGBfm0AAAAAX_mNAD0SVJlb_2v8ksENOAXN-jpVnb1X&scisig=AAGBfm0AAAAAX_mNAOL5axK8NKcZe5C788c7j0VzJaLf&scisf=4&ct=citation&cd=38&hl=de -- unhandled response
+[ERROR] Could not grab : Global software development and collaboration: barriers and solutions (https://dl.acm.org/doi/abs/10.1145/1835428.1835445)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:U4VP_UBcoOwJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaIGD0:AAGBfm0AAAAAX_mNAD0SVJlb_2v8ksENOAXN-jpVnb1X&scisig=AAGBfm0AAAAAX_mNAFOqcr0_PCK5AsiMXU9dy8Zd0jdX&scisf=4&ct=citation&cd=39&hl=de -- unhandled response
+[ERROR] Could not grab : Article Alerts: items from 2010, Part II (https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.56)
+found 10 items on page 5
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:db-T8akdZ7UJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaKyUM:AAGBfm0AAAAAX_mP0UMHMfsGccFUbozH3CI48XjcS3Fq&scisig=AAGBfm0AAAAAX_mP0adtol2FxKyU--7Me5GLjiy7w75T&scisf=4&ct=citation&cd=48&hl=de -- unhandled response
+[ERROR] Could not grab : A qualitative study of the determinants of self-managing team effectiveness in a scrum team (https://dl.acm.org/doi/abs/10.1145/1984642.1984646)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:-SrgmFoI6ksJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaKyUM:AAGBfm0AAAAAX_mP0UMHMfsGccFUbozH3CI48XjcS3Fq&scisig=AAGBfm0AAAAAX_mP0aXeDXKkOew3BYAOWz7aFp49Qd23&scisf=4&ct=citation&cd=49&hl=de -- unhandled response
+[ERROR] Could not grab : A systematic review in research of medical software certification (http://dspace.library.uvic.ca/handle/1828/3561)
+found 10 items on page 6
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:blx6qFssnrIJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaXijU:AAGBfm0AAAAAX_mSkjWfVI0qsyvJ_7qHjWzz9v98KoOQ&scisig=AAGBfm0AAAAAX_mSkt8c-KXRhL2Z7qXUlvORek_r0j5J&scisf=4&ct=citation&cd=57&hl=de -- unhandled response
+[ERROR] Could not grab : Exploring the Benefits and Challenges of Applying Agile Methods in Offshore Development (https://www.diva-portal.org/smash/record.jsf?pid=diva2:832936)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:izNkkBryyrEJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaXijU:AAGBfm0AAAAAX_mSkjWfVI0qsyvJ_7qHjWzz9v98KoOQ&scisig=AAGBfm0AAAAAX_mSkvrEevtcWIzQIrUu4k75IP0iyLHj&scisf=4&ct=citation&cd=58&hl=de -- unhandled response
+[ERROR] Could not grab : A Comprehensive Evaluation of Conversion Approaches for Different Function Points (https://www.diva-portal.org/smash/record.jsf?pid=diva2:831002)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:1zCMcT1jCe8J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaXijU:AAGBfm0AAAAAX_mSkjWfVI0qsyvJ_7qHjWzz9v98KoOQ&scisig=AAGBfm0AAAAAX_mSklwWYVdNBpnFVev2zyEj3cZH8-R7&scisf=4&ct=citation&cd=59&hl=de -- unhandled response
+[ERROR] Could not grab : Empowering doctoral candidates in finding relevant concepts in a literature set (https://espace.curtin.edu.au/handle/20.500.11937/4173)
+found 9 items on page 7
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:O8StzA4yyqcJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaQbYQ:AAGBfm0AAAAAX_mVdYQPeaGZ1SG9IX5vhbEZeuG0y2td&scisig=AAGBfm0AAAAAX_mVdetnIQC8hgcrT6JDZyFY09s7ZRj4&scisf=4&ct=citation&cd=69&hl=de -- unhandled response
+[ERROR] Could not grab : Scrum Practice Mitigation of Coordination Challenges in Global Software Development Projects: An Empirical Study (http://unsworks.unsw.edu.au/fapi/datastream/unsworks:10016/SOURCE02)
+found 10 items on page 8
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:zm5W-PMm60MJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaS5aM:AAGBfm0AAAAAX_mX_aOq86GTVk3FHDFAbiwXRkDKpDUN&scisig=AAGBfm0AAAAAX_mX_QbM2JdgdoMkJ9zDp02YGwmM8tiB&scisf=4&ct=citation&cd=78&hl=de -- unhandled response
+[ERROR] Could not grab : Automated assessment of programming assignments: visual feedback, assignment mobility, and assessment of students' testing skills (https://aaltodoc.aalto.fi/handle/123456789/5085)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:YDexoT7WOloJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEIiEuQaS5aM:AAGBfm0AAAAAX_mX_aOq86GTVk3FHDFAbiwXRkDKpDUN&scisig=AAGBfm0AAAAAX_mX_cEqhN2Hxki8M-glwxDriI4iBYsv&scisf=4&ct=citation&cd=79&hl=de -- unhandled response
+[ERROR] Could not grab : Uma contribuição para o teste baseado em defeitos de software orientado a aspectos (https://www.teses.usp.br/teses/disponiveis/55/55134/tde-19012011-090923/en.php)
+found 8 items on page 9

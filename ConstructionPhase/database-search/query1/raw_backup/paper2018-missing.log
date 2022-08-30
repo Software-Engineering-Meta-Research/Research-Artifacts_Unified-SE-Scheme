@@ -1,0 +1,246 @@
+Preparing search for the following 85 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Reproducibility and credibility in empirical software engineering: A case study based on a systematic literature review of the use of the SZZ algorithm
+query for Immersive virtual reality serious games for evacuation training and research: A systematic literature review
+query for Buhos: A web based systematic literature review management software
+query for A systematic literature review of simulation models for non technical skill training in healthcare logistics
+query for Geometrical Thinking with Technology: A Systematic Literature Review
+query for Application of data envelopment analysis models in supply chain management: a systematic review and meta analysis
+query for Writing the literature review for empirical papers
+query for The use of pair programming in education: A systematic literature review
+query for A systematic literature review of automated techniques for functional gui testing of mobile applications
+query for A Systematic Literature Review in Support of Supply Chain Integration & Selective Dis integration Research
+query for Adoption of microservices in industrial information systems: a systematic literature review
+query for Tool features to support systematic reviews in software engineering a cross domain study
+query for Heart Failure Decision Support System Using Semantic Web Approach
+query for Virtual reality in the learning process
+query for A categorization scheme for software engineering conference papers and its application
+query for Early software defect prediction: A systematic map and review
+query for Diabetes mellitus m Health applications: a systematic review of features and fundamentals
+query for Decision making methods based on fuzzy aggregation operators: Three decades review from 1986 to 2017
+query for The impact of knowledge management processes on information systems: A systematic review
+query for Mobile Learning Acceptance: A Systematic Literature Review
+query for Conceptual model development of big data analytics implementation assessment effect on decision making
+query for Global software development: practices for cultural differences
+query for Software fault localisation: a systematic mapping study
+query for Cloud computing enabled healthcare opportunities, issues, and applications: A systematic review
+query for Open source hardware in education: A systematic mapping study
+query for An Open Source Software Metric Tool for Defect Prediction, Its Case Study and Lessons We Learned
+query for A unified BIM adoption taxonomy: Conceptual development, empirical validation and application
+query for Summarizing the decadal literature in open government data (OGD) research: a systematic review
+query for Agile development in the cloud computing environment: A systematic
+query for Towards a standardized protocol for conducting randomized clinical trial for software
+query for Leveraging organizational climate theory for understanding industry academia collaboration
+query for A comprehensive investigation of the role of imbalanced learning for software defect prediction
+query for Unraveling the hype: A literature review and Delphi study of the potential of public and permission less blockchains in the supply chain
+query for An overview of process model quality literature The Comprehensive Process Model Quality Framework
+query for A bibliometric review of the innovation adoption literature
+query for Integration of gamification into course design: A noble endeavor with potential pitfalls
+query for Optimized test case generation for object oriented systems using weka open source software
+query for A brief review: The roles in triggering knowledge management scheme adoption to increase enterprise performance
+query for Gender and teamwork: an analysis of professors' perspectives and practices
+query for Benchmarking Role in Internal Supply Chain Management of Indian Manufacturing Industries
+query for Evidence based information systems: A new perspective and a roadmap for research informed practice
+query for Affective states in computer supported collaborative learning: Studying the past to drive the future
+query for The relationship between lean construction and sustainability
+query for An Iterative Hybrid Agile Methodology for Developing Archiving Systems
+query for Examining Student Performance and Attitudes on Distributed Pair Programming
+query for An inquiry into the Relationship between Earnings' Management, Corporate Social Responsibility and Corporate Governance.
+query for Automatic conversion of activity diagrams into flexible smart home apps
+query for On the adoption of crowdsourcing for theory testing
+query for E baby skin integrity: evidence based technology innovation for teaching in neonatal nursing
+query for Get Gamification of MOOC right!
+query for Aligning business process maturity level with SMEs growth in Indonesian fashion industry
+query for An exploratory study of search based training data selection for cross project defect prediction
+query for Business process management (BPM)
+query for The impact of class rebalancing techniques on the performance and interpretation of defect prediction models
+query for System Reengineering in Healthcare: Application for Hospital Emergency Departments
+query for An agile based integrated framework for software development.
+query for Sustainability Assessment Framework for Buildings: A User Perspective
+query for Co Designing an eHealth service for the Co Care of Parkinson disease: explorative study of values and challenges
+query for A mapping study on testing non testable systems
+query for Identification and Analysis of Project Management Success Factors in Information Technology SMEs
+query for Towards Designing Open Secure IoT System Insights for practitioners
+query for A scalable methodology to guide student teams executing computing projects
+query for A replicated experiment for evaluating the effectiveness of pairing practice in PSP education
+/usr/lib/ruby/vendor_ruby/mechanize/http/agent.rb:323:in `fetch': 429 => Net::HTTPTooManyRequests for https://www.google.com/sorry/index?continue=https://scholar.googleusercontent.com/scholar.bib%3Fq%3Dinfo:FIXuxEcn4hcJ:scholar.google.com/%26output%3Dcitation%26scisdr%3DCgUMYFXHEN-jkQyaY_0:AAGBfm0AAAAAX_Ofe_040V-W6JHachkXE5MYTKgqU3MY%26scisig%3DAAGBfm0AAAAAX_Ofe4yQ0XLTn5RgHW9kXyDXurWY4XGg%26scisf%3D4%26ct%3Dcitation%26cd%3D0%26hl%3Dde&hl=de&q=EhAqAQwi1M_BALSJe_c9URf2GKO6zv8FIhkA8aeDS2ElI18t2oPzrcr6kqu3pc4G3-qJMgFy -- unhandled response (Mechanize::ResponseCodeError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/http/agent.rb:993:in `response_redirect'
+	from /usr/lib/ruby/vendor_ruby/mechanize/http/agent.rb:315:in `fetch'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:464:in `get'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:348:in `click'
+	from /usr/lib/ruby/vendor_ruby/mechanize/page/link.rb:30:in `click'
+	from getbibtex.rb:175:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 23 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for A replicated experiment for evaluating the effectiveness of pairing practice in PSP education
+getbibtex.rb:77:in `filter': undefined method `first' for nil:NilClass (NoMethodError)
+	from getbibtex.rb:165:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 23 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for A replicated experiment for evaluating the effectiveness of pairing practice in PSP education
+query for Learning from Mistakes
+query for Leonardo Bertolin Furstenau
+Error:confidence to low with 0.000000
+ Leonardo Bertolin Furstenau
+ Scopus scientific mapping production in industry 4.0 (2011--2018): a bibliometric analysis
+query for The medium of visualization for software comprehension
+query for Applying game mechanics and student generated questions to an online puzzle based game learning system to promote algorithmic thinking skills
+query for BPMS para la gestión: una revisión sistemática de la literatura
+Error:confidence to low with 0.200000
+ BPMS para la gestión: una revisión sistemática de la literatura
+ Una revisi{\'o}n de los modelos de mejoramiento de procesos con enfoque en el redise{\~n}o
+query for CareD: Non Pharmacological Assistance for Dementia Patients
+query for Positive and Negative Psychological States in Self paced Technology Training
+query for Towards an Empirical Model to Identify When Bugs are Introduced
+query for Analysing Developers Affectiveness through Markov chain Models
+query for D5. 1 OpenReq Approach for Requirements Knowledge and Dependency Management
+query for Apparent Personality Prediction using Multimodal Residual Networks with 3D Convolution
+query for Reflets
+query for Agile transformations and Organizational Performance: the impact of maturity, employee satisfaction and transformation approach
+query for Developing Serious Games in Engineering Education: Innovation at the Nexus of Food, Energy, and Water Systems
+query for Unpacking the Black Box: The Underlying Mechanics of Culturally Intelligent Behavior
+query for Editorial for EJEG Volume 16 Issue
+query for Creating an IT risk maturity model for distributed ledger applications
+query for Insider threat detection using gaussian mixture models and sensitivity profiles
+query for Business Model Modeling Languages as Tools for Innovation: Theory and Empirical Evidence
+query for HCI in Business, Government, and Organizations
+query for Measuring effects of technology enabled mirroring scaffolds on self regulated learning
+query for I'm not ready yet: Intrapersonal and Interpersonal Processes Shaping the Adoption of Personal Emergency Response Systems Among Older Adults

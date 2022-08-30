@@ -1,0 +1,78 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: systematic literature review
+ year: 2014 2014
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:BPCyzYZIHZUJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwgnrbs:AAGBfm0AAAAAX_citbvxMcTar3Ksa0AyZBl8PqtydpWb&scisig=AAGBfm0AAAAAX_citRinS-S74Y-8Fnilg8ZyZMze_Q07&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : The use of systematic reviews in evidence based software engineering: a systematic mapping study (https://dl.acm.org/doi/abs/10.1145/2652524.2652553)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:yDxbtHvDN6QJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwgnrbs:AAGBfm0AAAAAX_citbvxMcTar3Ksa0AyZBl8PqtydpWb&scisig=AAGBfm0AAAAAX_citd8B5KJlGARbK2pCNE4hUQ0iL3Yt&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : Analyzing software product innovation assessment by using a systematic literature review (https://ieeexplore.ieee.org/abstract/document/6759223/)
+found 9 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:q4kbkFT60kAJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwggZII:AAGBfm0AAAAAX_clfILT0BllA0tJtw8aHcwP5FY3xt5z&scisig=AAGBfm0AAAAAX_clfGbADJwulol0QPZEl4855a0p8aAk&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : The relationship of personality models and development tasks in software engineering (https://dl.acm.org/doi/abs/10.1145/2599990.2600012)
+found 9 items on page 3
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Mp6bLixJjX4J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwgtEFY:AAGBfm0AAAAAX_coCFYcEjzp7zS9GVyvuovnfDr8rI0T&scisig=AAGBfm0AAAAAX_coCHXiRkw5Acaoj-oNEd66nG2tlh8R&scisf=4&ct=citation&cd=29&hl=de -- unhandled response
+[ERROR] Could not grab : Cross-vs. within-company cost estimation studies revisited: an extended systematic review (https://dl.acm.org/doi/abs/10.1145/2601248.2601284)
+found 10 items on page 4
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:J0aBaTuDoCgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwgvjVw:AAGBfm0AAAAAX_cqlVwOC0ueYHWobMnRfdM2PdpW3QV8&scisig=AAGBfm0AAAAAX_cqlYqvhptMBpdEKiapD464HLTnHzAm&scisf=4&ct=citation&cd=38&hl=de -- unhandled response
+[ERROR] Could not grab : Considering rigor and relevance when evaluating test driven development: A systematic review (https://www.sciencedirect.com/science/article/pii/S0950584914000135)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:_sR5KrybmiMJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwgvjVw:AAGBfm0AAAAAX_cqlVwOC0ueYHWobMnRfdM2PdpW3QV8&scisig=AAGBfm0AAAAAX_cqlYI6xvFAbbcgPZbPykwe18H5nsY5&scisf=4&ct=citation&cd=39&hl=de -- unhandled response
+[ERROR] Could not grab : A hermeneutic approach for conducting literature reviews and literature searches (https://aisel.aisnet.org/cais/vol34/iss1/12/)
+found 10 items on page 5
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:9gBf_-4k-_EJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwgoR4Q:AAGBfm0AAAAAX_ctX4T90gj2HaxuY92xNiZ91UiJKSQV&scisig=AAGBfm0AAAAAX_ctXyePWdWOvJL3OyuuHM5quuG1fyMx&scisf=4&ct=citation&cd=48&hl=de -- unhandled response
+[ERROR] Could not grab : Finding relevant research solutions for practical problems: the serp taxonomy architecture (https://dl.acm.org/doi/abs/10.1145/2647648.2647650)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:ZxUpc-dyxB0J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwgoR4Q:AAGBfm0AAAAAX_ctX4T90gj2HaxuY92xNiZ91UiJKSQV&scisig=AAGBfm0AAAAAX_ctX5yVk7-9p_BdhIidmkGDDHjNR6b9&scisf=4&ct=citation&cd=49&hl=de -- unhandled response
+[ERROR] Could not grab : Recovering from a decade: a systematic mapping of information retrieval approaches to software traceability (https://link.springer.com/article/10.1007/s10664-013-9255-y)
+found 10 items on page 6
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:vvPHPtgVujcJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwg1KaY:AAGBfm0AAAAAX_cwMaaTtKje2JnKxx_dnp4sZrmajw11&scisig=AAGBfm0AAAAAX_cwMXccphKllagsEYjvWqZlmiP-sj2u&scisf=4&ct=citation&cd=58&hl=de -- unhandled response
+[ERROR] Could not grab : Nurse-Patient Relationship in stroke Rehabilitation Units (https://www.theseus.fi/handle/10024/77754)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:1GdGFn9650YJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwg1KaY:AAGBfm0AAAAAX_cwMaaTtKje2JnKxx_dnp4sZrmajw11&scisig=AAGBfm0AAAAAX_cwMVtiB6nBeNh-6b2cvtP4Hemkedb5&scisf=4&ct=citation&cd=59&hl=de -- unhandled response
+[ERROR] Could not grab : Investigating the effects of personality traits on pair programming in a higher education setting through a family of experiments (https://link.springer.com/article/10.1007/s10664-012-9238-4)
+found 10 items on page 7
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:hRuRM-R8JkAJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwg2EwY:AAGBfm0AAAAAX_czCwZDqA-QLWeQhTZsKxsHhwSXyHXv&scisig=AAGBfm0AAAAAX_czC8AlHjgUvH1u9OEJQKL25kOuQCEg&scisf=4&ct=citation&cd=68&hl=de -- unhandled response
+[ERROR] Could not grab : The Dynamics of Test-Driven Development (https://core.ac.uk/download/pdf/33725441.pdf#page=39)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:oxHRNiars0UJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwg2EwY:AAGBfm0AAAAAX_czCwZDqA-QLWeQhTZsKxsHhwSXyHXv&scisig=AAGBfm0AAAAAX_czCwFPwj2XktWCd2WFQWXspXJs0N8g&scisf=4&ct=citation&cd=69&hl=de -- unhandled response
+[ERROR] Could not grab : Risks and risk mitigation in global software development: A tertiary study (https://www.sciencedirect.com/science/article/pii/S0950584913001341)
+found 10 items on page 8
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:9wNHJKHjubEJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwgww0w:AAGBfm0AAAAAX_c120wfrnmh_65f9KAn7cF6IlwZHNMa&scisig=AAGBfm0AAAAAX_c122HckzSinzy9aVRr7Op4nrogKU8H&scisf=4&ct=citation&cd=77&hl=de -- unhandled response
+[ERROR] Could not grab : DConfusion: a technique to allow cross study performance evaluation of fault prediction studies (https://link.springer.com/article/10.1007/s10515-013-0129-8)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:_C06zfpg5kgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwgww0w:AAGBfm0AAAAAX_c120wfrnmh_65f9KAn7cF6IlwZHNMa&scisig=AAGBfm0AAAAAX_c128s31UoCE62THFNdZMtzes_JlPg7&scisf=4&ct=citation&cd=78&hl=de -- unhandled response
+[ERROR] Could not grab : Meta-theoretic assumptions and bibliometric evidence assessment on 3-D virtual worlds as collaborative learning ecosystems (https://www.learntechlib.org/p/178143/)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:niG9SG-V_h0J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwgww0w:AAGBfm0AAAAAX_c120wfrnmh_65f9KAn7cF6IlwZHNMa&scisig=AAGBfm0AAAAAX_c12xJl8a-b_NppXvKrQObCEYYXUftL&scisf=4&ct=citation&cd=79&hl=de -- unhandled response
+[ERROR] Could not grab : Obtaining better software product by using test first programming technique (https://ieeexplore.ieee.org/abstract/document/6949233/)
+found 9 items on page 9
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:V5jCthynWqMJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwg9oNA:AAGBfm0AAAAAX_c4uNDGBQsXirV57VVmskwv0aI6ZiWU&scisig=AAGBfm0AAAAAX_c4uBU5gj7b3Cx87YG-SiSk0tbgQpzt&scisf=4&ct=citation&cd=89&hl=de -- unhandled response
+[ERROR] Could not grab : Variables influencing information security policy compliance (https://www.emerald.com/insight/content/doi/10.1108/IMCS-08-2012-0045/full/html.)
+found 10 items on page 10
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:g0VXVEvBKuMJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwg-JRU:AAGBfm0AAAAAX_c7PRUPZqEm8qhSEJMKsVwO_UcywY8Q&scisig=AAGBfm0AAAAAX_c7PbKTdodcIa-yD3SWzXctJPRaq4Ef&scisf=4&ct=citation&cd=98&hl=de -- unhandled response
+[ERROR] Could not grab : Advancing evidence-based practice in systems development: providing juried knowledge to software professionals (http://ir.ua.edu/handle/123456789/2214)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:cQY1pKYnZ0sJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwg-JRU:AAGBfm0AAAAAX_c7PRUPZqEm8qhSEJMKsVwO_UcywY8Q&scisig=AAGBfm0AAAAAX_c7PRo_3bwtoZ5CmmJWoB5uVoJvpjv7&scisf=4&ct=citation&cd=99&hl=de -- unhandled response
+[ERROR] Could not grab : Key factors of process maturity in English-speaking Caribbean firms (https://www.redalyc.org/pdf/1551/155130642009.pdf)
+found 9 items on page 11
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:fRyK7KHGCVIJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwg7CN0:AAGBfm0AAAAAX_c-EN1tgQMnB1z76xpx77iHQXg642cf&scisig=AAGBfm0AAAAAX_c-ENebijmOzekV1vJUIlYGjsLz76LA&scisf=4&ct=citation&cd=109&hl=de -- unhandled response
+[ERROR] Could not grab : Comparing a hybrid testing process with scripted and exploratory testing: an experimental study with practitioners (https://link.springer.com/chapter/10.1007/978-3-319-06862-6_13)
+found 10 items on page 12
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:_9-2paq7KjwJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwhFgHI:AAGBfm0AAAAAX_dAmHKyQisI1mkvVSd5Tus48i_cVz38&scisig=AAGBfm0AAAAAX_dAmGO3bTgk2SeIuxTSoD-ECYsC_NjC&scisf=4&ct=citation&cd=118&hl=de -- unhandled response
+[ERROR] Could not grab : A Systematic Review of the Effectiveness of Animal-assisted Interventions (https://core.ac.uk/download/pdf/145044323.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:2Yu28l4PaskJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwhFgHI:AAGBfm0AAAAAX_dAmHKyQisI1mkvVSd5Tus48i_cVz38&scisig=AAGBfm0AAAAAX_dAmLRHiz_tzu-4sOPSlHuewBWR69kU&scisf=4&ct=citation&cd=119&hl=de -- unhandled response
+[ERROR] Could not grab : The extent of empirical evidence that could inform evidence-based design of programming languages: A systematic mapping study (https://jyx.jyu.fi/bitstream/handle/123456789/44131/978-951-39-5791-9_COMP.pdf)
+found 10 items on page 13
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:qg-NR4XHAoEJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwhGaY0:AAGBfm0AAAAAX_dDcY04uWW6v0LE97HwPu9wz8DH7ykA&scisig=AAGBfm0AAAAAX_dDcWYhTif3NcBSzMyQA2sh1zePAb_M&scisf=4&ct=citation&cd=128&hl=de -- unhandled response
+[ERROR] Could not grab : Investigating programming techniques in large-scale empirical studies (https://repositum.tuwien.at/handle/20.500.12708/8162)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Kj9Ql_lTqxoJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwhGaY0:AAGBfm0AAAAAX_dDcY04uWW6v0LE97HwPu9wz8DH7ykA&scisig=AAGBfm0AAAAAX_dDcYfoMxIW84hlWxa3KspCJ7cqNCWy&scisf=4&ct=citation&cd=129&hl=de -- unhandled response
+[ERROR] Could not grab : Open Source Software in Local Authorities (https://www.scss.tcd.ie/publications/theses/diss/2014/TCD-SCSS-DISSERTATION-2014-053.pdf)
+found 10 items on page 14
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:KDtYOEJarZgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwhDJcM:AAGBfm0AAAAAX_dGPcPPek_YvasOIEDswtgeq71w5U9Q&scisig=AAGBfm0AAAAAX_dGPROGv3YrRyndtTY0aX1dWHdKHvY3&scisf=4&ct=citation&cd=138&hl=de -- unhandled response
+[ERROR] Could not grab : Deliverable D3. (http://leas-box.cognitive-science.at/downloads/D3.1.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:8URNhBi8gnoJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwhDJcM:AAGBfm0AAAAAX_dGPcPPek_YvasOIEDswtgeq71w5U9Q&scisig=AAGBfm0AAAAAX_dGPYpnTwtQQNQQkvBNZb4LTUqySmAP&scisf=4&ct=citation&cd=139&hl=de -- unhandled response
+[ERROR] Could not grab : Brain-based programming continued: Effective teaching in programming courses (https://ieeexplore.ieee.org/abstract/document/7044233/)
+found 9 items on page 15
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:LN1c3jKSwaMJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJnAgwhMDrA:AAGBfm0AAAAAX_dJFrCCJWUOLUb4SBSJYjOKdC2lPGnL&scisig=AAGBfm0AAAAAX_dJFmfZ53Sqf-wPA8z0OeIY359zyOOe&scisf=4&ct=citation&cd=149&hl=de -- unhandled response
+[ERROR] Could not grab : " Es como si realmente actuaras como tú mismo": desarrollo y evaluación preliminar de" Green Acres High", una intervención que utiliza un juego serio para … (http://scielo.isciii.es/pdf/inter/v23n1/06.pdf)
+found 8 items on page 16

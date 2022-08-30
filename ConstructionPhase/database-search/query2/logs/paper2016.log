@@ -1,0 +1,57 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: mapping study
+ year: 2016 2016
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:bWEIuLsFM68J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdK-H8:AAGBfm0AAAAAYS5M4H_OVWc1PGuasSCsUueJ0-2u_GFA&scisig=AAGBfm0AAAAAYS5M4BE8vDNbDPfMj0n21dwncDUsRXlS&scisf=4&ct=citation&cd=7&hl=de -- unhandled response
+[ERROR] Could not grab : Replicated results are more trustworthy (https://www.sciencedirect.com/science/article/pii/B9780128042069000520)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:gzqfr2aeHU0J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdK-H8:AAGBfm0AAAAAYS5M4H_OVWc1PGuasSCsUueJ0-2u_GFA&scisig=AAGBfm0AAAAAYS5M4AmwzOt5TrwdVq5aV7fQvAZRhJpf&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : The use of serious games in museum visits and exhibitions: A systematic mapping study (https://ieeexplore.ieee.org/abstract/document/7590371/)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:dU2Vc9wHFv0J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdK-H8:AAGBfm0AAAAAYS5M4H_OVWc1PGuasSCsUueJ0-2u_GFA&scisig=AAGBfm0AAAAAYS5M4BFqiWftviSeFdaAnXyT1ZbpTMMi&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : A meta-analysis for security threats over the Web ecosystem (https://ieeexplore.ieee.org/abstract/document/7502911/)
+found 9 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:f687nMGo3UEJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdJ3p8:AAGBfm0AAAAAYS5Pxp96YPlbCqs_tEt5DNKuY2W8xJR0&scisig=AAGBfm0AAAAAYS5PxpF8V3fjyzE_5J7Lf2Kh21_9HS7u&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : Identification of SLR tool needs–results of a community workshop (https://www.sciencedirect.com/science/article/pii/S0950584915001779)
+found 9 items on page 3
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:olaiwViDHw0J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdURTg:AAGBfm0AAAAAYS5SXTgXKmbvGT6gL632WrnXAKZ2kNur&scisig=AAGBfm0AAAAAYS5SXa1jhsArrzRXZJMSD7VvLBpg6tNK&scisf=4&ct=citation&cd=29&hl=de -- unhandled response
+[ERROR] Could not grab : Challenges and best practices in industry-academia collaborations in software engineering: A systematic literature review (https://www.sciencedirect.com/science/article/pii/S0950584916301203)
+found 10 items on page 4
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:WYuwtqMKiSMJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdS9BU:AAGBfm0AAAAAYS5U7BUE5SYF1PlLP_cQmNgcMXo_uBvg&scisig=AAGBfm0AAAAAYS5U7AV2jmIEQCmO6fhV3A4fioAjIj6f&scisf=4&ct=citation&cd=38&hl=de -- unhandled response
+[ERROR] Could not grab : The impacts of agile and lean practices on project constraints: A tertiary study (https://www.sciencedirect.com/science/article/pii/S0164121216300863)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:dZ-zBRMlViAJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdS9BU:AAGBfm0AAAAAYS5U7BUE5SYF1PlLP_cQmNgcMXo_uBvg&scisig=AAGBfm0AAAAAYS5U7NdJCGr86OV-qRCN7pbr-VCtHES1&scisf=4&ct=citation&cd=39&hl=de -- unhandled response
+[ERROR] Could not grab : Systematic Mapping on Research Methodology in the Field of E-commerce (https://jitm.ut.ac.ir/article_53318_7227.htmlhttps://jitm.ut.ac.ir/article_55733_0.html)
+found 10 items on page 5
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:GtQP1Rkx9nQJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdR2Q8:AAGBfm0AAAAAYS5XwQ-XGxTq45-zhv6SfEKGdIryrv5m&scisig=AAGBfm0AAAAAYS5XwVPGF7kfuDV7zfMu4qO5l38CKTAN&scisf=4&ct=citation&cd=48&hl=de -- unhandled response
+[ERROR] Could not grab : A theoretical and methodological examination of knowledge management maturity models: a systematic review (https://www.inderscienceonline.com/doi/abs/10.1504/IJBIS.2016.079525)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:UstfmNmOp5cJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdR2Q8:AAGBfm0AAAAAYS5XwQ-XGxTq45-zhv6SfEKGdIryrv5m&scisig=AAGBfm0AAAAAYS5XwXmOyySF2TZ7jT-l66g31qPlkQKn&scisf=4&ct=citation&cd=49&hl=de -- unhandled response
+[ERROR] Could not grab : Properties that influence business process management maturity and its effect on organizational performance (https://link.springer.com/article/10.1007/s10796-015-9554-5)
+found 11 items on page 6
+[ERROR] Could not grab : [DOC] researchgate.net (https://www.researchgate.net/profile/Bastin-Tony-Roy-Savarimuthu/publication/305474074_Personalities_and_software_development_team_performance_-_a_psycholinguistic_study/links/5790886f08ae0831552f5c35/Personalities-and-software-development-team-performance-a-psycholinguistic-study)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Qx6XWFZDjz4J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdcjgM:AAGBfm0AAAAAYS5algP3EhNiIypcNNis1z5KNaGQGTjH&scisig=AAGBfm0AAAAAYS5alns8XLbGp7Dmwj63fY853FWcDPEg&scisf=4&ct=citation&cd=57&hl=de -- unhandled response
+[ERROR] Could not grab : Increasing Beneficial Interactions in a Computer-Supported Collaborative Environment (https://lutpub.lut.fi/bitstream/handle/10024/125665/Antti%20Knutas_A4.pdf?sequence=2)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:4EKSrewCev4J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdcjgM:AAGBfm0AAAAAYS5algP3EhNiIypcNNis1z5KNaGQGTjH&scisig=AAGBfm0AAAAAYS5alrqr52FPOXFxMsYIZzb8jaEXhO8e&scisf=4&ct=citation&cd=58&hl=de -- unhandled response
+[ERROR] Could not grab : Links between the personalities, styles and performance in computer programming (https://www.sciencedirect.com/science/article/pii/S016412121500206X)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:NKEX7C_elwAJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdcjgM:AAGBfm0AAAAAYS5algP3EhNiIypcNNis1z5KNaGQGTjH&scisig=AAGBfm0AAAAAYS5alo0zUuuyOgdqgPAZ0GoQm5Pe9BKT&scisf=4&ct=citation&cd=59&hl=de -- unhandled response
+[ERROR] Could not grab : Exploring the relationship between research and BIM standardization: a systematic mapping of early studies on the IFC standard (1997–2007) (https://www.mdpi.com/127256)
+found 10 items on page 7
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:V3YyeMKZKnMJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdbvvY:AAGBfm0AAAAAYS5dpva6Svoh8NTSPLx_VJe8aXiJkfnY&scisig=AAGBfm0AAAAAYS5dpsNJfbpnSHnSNndibHN3zxVqlZUm&scisf=4&ct=citation&cd=68&hl=de -- unhandled response
+[ERROR] Could not grab : Reporting Usability Defects: A Systematic (https://raw.githubusercontent.com/nzjohng/publications/master/papers/tse2017_2.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:t7jhzztBz3YJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdbvvY:AAGBfm0AAAAAYS5dpva6Svoh8NTSPLx_VJe8aXiJkfnY&scisig=AAGBfm0AAAAAYS5dpsKM9HpaPJnCDo43KCFFlEy8Ulrk&scisf=4&ct=citation&cd=69&hl=de -- unhandled response
+[ERROR] Could not grab : Value Based Requirements Engineering: State-of-art and Survey (https://www.diva-portal.org/smash/get/diva2:920338/FULLTEXT02)
+found 10 items on page 8
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:HW_KpkKgrroJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdmfDc:AAGBfm0AAAAAYS5gZDeVgQpd9TJ7o4rhB8QnGCaBnqA8&scisig=AAGBfm0AAAAAYS5gZJnUNJO8nvioUCyQh8_-nnwiNS0E&scisf=4&ct=citation&cd=78&hl=de -- unhandled response
+[ERROR] Could not grab : eLearner experience model (https://www.researchgate.net/profile/Rawad-Hammad/publication/311982404_eLearner_Experience_Model/links/5866880a08aebf17d39ae81d/eLearner-Experience-Model.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:EzrqKlHYll0J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdmfDc:AAGBfm0AAAAAYS5gZDeVgQpd9TJ7o4rhB8QnGCaBnqA8&scisig=AAGBfm0AAAAAYS5gZJaReuH0n7bDsJ-ein0PDi2cmYc3&scisf=4&ct=citation&cd=79&hl=de -- unhandled response
+[ERROR] Could not grab : Estudo de mapeamento sistemático em dependabilidade e métodos ágeis: uma reprodução de estudo de 2012 a 2015 (https://bdm.unb.br/handle/10483/14838)
+found 10 items on page 9
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:yMCmavGJgCEJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdlMS0:AAGBfm0AAAAAYS5jKS3xKHhlHgIkg2ufC8j12dnwsap4&scisig=AAGBfm0AAAAAYS5jKWLRDpAvdGPfJTDRruo-Le3HVnt7&scisf=4&ct=citation&cd=88&hl=de -- unhandled response
+[ERROR] Could not grab : Desarrollo de un marco comparativo para la evaluación de lenguajes de modelado de requisitos para Líneas de Productos de Software (http://rua.ua.es/dspace/bitstream/10045/58970/1/tesis_samuel_eduardo_sepulveda_cuevas.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:ObM1Jyb63MgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEMeU2KdlMS0:AAGBfm0AAAAAYS5jKS3xKHhlHgIkg2ufC8j12dnwsap4&scisig=AAGBfm0AAAAAYS5jKb6uDOgGgH4Ri1-iR7TkaRZVCsn_&scisf=4&ct=citation&cd=89&hl=de -- unhandled response
+[ERROR] Could not grab : Game-based learning and children with ADHD (https://search.proquest.com/openview/ccbb915da04541d7a79b0f0bcf012697/1?pq-origsite=gscholar&cbl=18750)
+found 6 items on page 10

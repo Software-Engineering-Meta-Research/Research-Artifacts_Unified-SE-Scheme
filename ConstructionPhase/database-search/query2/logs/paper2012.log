@@ -1,0 +1,21 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: mapping study
+ year: 2012 2012
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:H6AaQkBWvjAJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEK_uoLl_03c:AAGBfm0AAAAAYTB5y3dGlcIXS57-AwaAYgH_NG5i2seS&scisig=AAGBfm0AAAAAYTB5yyG3cNSxr-YqOQY4rB5hM_UwD87e&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : Systematic literature reviews (https://link.springer.com/chapter/10.1007/978-3-642-29044-2_4)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:X3c9dmqsBRgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEK_uoLl_03c:AAGBfm0AAAAAYTB5y3dGlcIXS57-AwaAYgH_NG5i2seS&scisig=AAGBfm0AAAAAYTB5y5BXYypDQRoCM79f_7FNlDvU0gt3&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : Evaluating prediction systems in software project estimation (https://www.sciencedirect.com/science/article/pii/S095058491200002X)
+found 9 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Ab85ul3O2mUJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEK_uoLl6iBg:AAGBfm0AAAAAYTB8kBhS1hQJZcOpDM-nqhPmOJvc33vF&scisig=AAGBfm0AAAAAYTB8kLO07NIWesldaILs1Tl5R-JA2Pdr&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : Empirical Strategies (https://link.springer.com/chapter/10.1007/978-3-642-29044-2_2)
+found 9 items on page 3
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:JKRK_gXQmoEJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEK_uoLl5BxI:AAGBfm0AAAAAYTB_HxKoYviP2_vB0RBQMku9izqj2MMP&scisig=AAGBfm0AAAAAYTB_HybDUKGI2DF4UotjFouig86gng7D&scisf=4&ct=citation&cd=28&hl=de -- unhandled response
+[ERROR] Could not grab : Impacto del desarrollo de software dirigido por modelos en la mejora de productividad, mantenibilidad y satisfacción de aplicaciones Web 2.0 (http://rua.ua.es/dspace/bitstream/10045/26222/1/Tesis_Yulkeidi_Martinez.pdf)

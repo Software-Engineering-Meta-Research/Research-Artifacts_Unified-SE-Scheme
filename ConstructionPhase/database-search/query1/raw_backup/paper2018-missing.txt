@@ -1,0 +1,23 @@
+A replicated experiment for evaluating the effectiveness of pairing practice in PSP education
+Learning from Mistakes
+Leonardo Bertolin Furstenau
+The medium of visualization for software comprehension
+Applying game mechanics and student-generated questions to an online puzzle-based game learning system to promote algorithmic thinking skills
+BPMS para la gestión: una revisión sistemática de la literatura
+CareD: Non-Pharmacological Assistance for Dementia Patients
+Positive and Negative Psychological States in Self-paced Technology Training
+Towards an Empirical Model to Identify When Bugs are Introduced
+Analysing Developers Affectiveness through Markov chain Models
+D5. 1 OpenReq Approach for Requirements Knowledge and Dependency Management
+Apparent Personality Prediction using Multimodal Residual Networks with 3D Convolution
+Reflets
+Agile transformations and Organizational Performance: the impact of maturity, employee satisfaction and transformation approach
+Developing Serious Games in Engineering Education: Innovation at the Nexus of Food, Energy, and Water Systems
+Unpacking the Black Box: The Underlying Mechanics of Culturally Intelligent Behavior
+Editorial for EJEG Volume 16 Issue
+Creating an IT risk maturity model for distributed ledger applications
+Insider-threat detection using gaussian mixture models and sensitivity profiles
+Business Model Modeling Languages as Tools for Innovation: Theory and Empirical Evidence
+HCI in Business, Government, and Organizations
+Measuring effects of technology-enabled mirroring scaffolds on self-regulated learning
+I'm not ready yet: Intrapersonal and Interpersonal Processes Shaping the Adoption of Personal Emergency Response Systems Among Older Adults

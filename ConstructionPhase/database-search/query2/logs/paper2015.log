@@ -1,0 +1,43 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: mapping study
+ year: 2015 2015
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:0dzI2PxR4Z8J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYanmk:AAGBfm0AAAAAYS8chmmX8cukYllEXhzRkB0LXafD_f2x&scisig=AAGBfm0AAAAAYS8chjSeCZZFds8RnyPiUf3xusKG1lDJ&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : Tools to support systematic reviews in software engineering: a cross-domain survey using semi-structured interviews (https://dl.acm.org/doi/abs/10.1145/2745802.2745827)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:15Cg1iKbwPoJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYanmk:AAGBfm0AAAAAYS8chmmX8cukYllEXhzRkB0LXafD_f2x&scisig=AAGBfm0AAAAAYS8chpdGSlpqNT3-cnVFyiASpwEFfrST&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : What do we know and how well do we know it? Current knowledge about software engineering practices (https://link.springer.com/chapter/10.1007/978-3-319-30142-6_1)
+found 10 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:UYi0zw62O18J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYZTxA:AAGBfm0AAAAAYS8fVxC8599P2KA91kVHzp2Sbuc7JhQE&scisig=AAGBfm0AAAAAYS8fV1NhbvpzK2GWLGqM5IH_WaoE6ZWg&scisf=4&ct=citation&cd=18&hl=de -- unhandled response
+[ERROR] Could not grab : A further analysis of the importance of systematic reviews to computer science (http://www.ijssh.org/papers/540-K113.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:tt0P-nTkDrUJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYZTxA:AAGBfm0AAAAAYS8fVxC8599P2KA91kVHzp2Sbuc7JhQE&scisig=AAGBfm0AAAAAYS8fV-hClTPB8AcbCOEtR7N3GF6rwb4x&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : A systematic mapping on agile UCD across the major agile and HCI conferences (https://link.springer.com/chapter/10.1007/978-3-319-21413-9_7)
+found 10 items on page 3
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:YB9qpofGAn8J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYkO24:AAGBfm0AAAAAYS8iI25zZEgHn7zpU6bT2VeHfDEUg89X&scisig=AAGBfm0AAAAAYS8iI_JPLKvP4dcN_AlLLe0xtF3xqJVj&scisf=4&ct=citation&cd=28&hl=de -- unhandled response
+[ERROR] Could not grab : Relating Code Faults to Human Developer Characteristics (http://humanerrorinse.org/workshops/WAHESE15/papers/Sharp.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:-LICb06e2XYJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYkO24:AAGBfm0AAAAAYS8iI25zZEgHn7zpU6bT2VeHfDEUg89X&scisig=AAGBfm0AAAAAYS8iIzKc21XY_JoEt4_WdcnhtixfDbTN&scisf=4&ct=citation&cd=29&hl=de -- unhandled response
+[ERROR] Could not grab : User-Developer Communication in Large-Scale IT Projects (https://archiv.ub.uni-heidelberg.de/volltextserver/18743/)
+found 10 items on page 4
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:FUFqVX_Nc1kJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYi6vw:AAGBfm0AAAAAYS8k8vz-nj4kdhc56n1FCY-eGlHYYsaZ&scisig=AAGBfm0AAAAAYS8k8nkKdrUPMpzj5j30CDBFlOFbmxqF&scisf=4&ct=citation&cd=38&hl=de -- unhandled response
+[ERROR] Could not grab : Problems and challenges of user involvement in software development: an empirical study (https://dl.acm.org/doi/abs/10.1145/2745802.2745810)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:KDsrOQZH13YJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYi6vw:AAGBfm0AAAAAYS8k8vz-nj4kdhc56n1FCY-eGlHYYsaZ&scisig=AAGBfm0AAAAAYS8k8t26NozNCHkpesgdo2hKKOP6zAD6&scisf=4&ct=citation&cd=39&hl=de -- unhandled response
+[ERROR] Could not grab : Literature reviews in supply chain management: a tertiary study (https://link.springer.com/article/10.1007/s11301-015-0113-4)
+found 10 items on page 5
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:pyZ04_mO6_YJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYh3jg:AAGBfm0AAAAAYS8nxjhIg6je02K-MT5tZhafq6NawlVN&scisig=AAGBfm0AAAAAYS8nxnM4BNwGUdg29n8rqKgjyr-e9iCv&scisf=4&ct=citation&cd=48&hl=de -- unhandled response
+[ERROR] Could not grab : Source-code comprehension tasks supported by UML design models: Results from a controlled experiment and a differentiated replication (https://www.sciencedirect.com/science/article/pii/S1045926X14001591)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:da6kubYb288J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYh3jg:AAGBfm0AAAAAYS8nxjhIg6je02K-MT5tZhafq6NawlVN&scisig=AAGBfm0AAAAAYS8nxvT5n1HOQdgNYHLVd2fPtQssMwj7&scisf=4&ct=citation&cd=49&hl=de -- unhandled response
+[ERROR] Could not grab : A multi-site joint replication of a design patterns experiment using moderator variables to generalize across contexts (https://ieeexplore.ieee.org/abstract/document/7294706/)
+found 10 items on page 6
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:BWOOiKk_mvYJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYskcQ:AAGBfm0AAAAAYS8qicQ5X2ITQnuRsZJeeIYYoOxpweia&scisig=AAGBfm0AAAAAYS8qib3an4SZ73SdFZr9xmgM0a7HSZn3&scisf=4&ct=citation&cd=57&hl=de -- unhandled response
+[ERROR] Could not grab : Advancing the Use of Knowledge Synthesis to Inform Policy and Decision Making in Agri-food Public Health (http://atrium.lib.uoguelph.ca/xmlui/handle/10214/8802)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:MrD6ZbnBgKsJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYskcQ:AAGBfm0AAAAAYS8qicQ5X2ITQnuRsZJeeIYYoOxpweia&scisig=AAGBfm0AAAAAYS8qiTb24OK-AGNZdO54bTWAsN9ecDSf&scisf=4&ct=citation&cd=58&hl=de -- unhandled response
+[ERROR] Could not grab : Empirically investigating the human role on the code smell effect (https://repositorio.ufba.br/ri/handle/ri/22844)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:gDxq8xROdwMJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEO6z3aYskcQ:AAGBfm0AAAAAYS8qicQ5X2ITQnuRsZJeeIYYoOxpweia&scisig=AAGBfm0AAAAAYS8qiXiY-cQEY6P0E0HmTPnDMTA4_p90&scisf=4&ct=citation&cd=59&hl=de -- unhandled response
+[ERROR] Could not grab : Puettavat ICT-laitteet masennuksen hoidossa: Systemaattinen kartoitustutkimus (http://jultika.oulu.fi/files/nbnfioulu-201603081282.pdf)
+found 3 items on page 7

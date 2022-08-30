@@ -1,0 +1,66 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: systematic literature review
+ year: 2012 2012
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:H6AaQkBWvjAJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfRITE:AAGBfm0AAAAAX_jUOTFhS0rZjV-GpALFvpoLPVO2mptr&scisig=AAGBfm0AAAAAX_jUOerv2O6gpFxqXiVt2bGQEYVkUbRc&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : Systematic literature reviews (https://link.springer.com/chapter/10.1007/978-3-642-29044-2_4)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:lesX_x7ZshEJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfRITE:AAGBfm0AAAAAX_jUOTFhS0rZjV-GpALFvpoLPVO2mptr&scisig=AAGBfm0AAAAAX_jUOSj1AyHcmpYdelUAZl38i8MaUG2g&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : Managing Literature Reviews Information through Visualization. (https://pdfs.semanticscholar.org/e5fb/4d8f9207dbec71a1b60115230e70add1b2ab.pdf)
+found 10 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:XG5uSH_jFVgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfSG-U:AAGBfm0AAAAAX_jXA-UldFzazU8al_TL53a0w3yzfmmD&scisig=AAGBfm0AAAAAX_jXA3mJ74Niv8HGLJfF3wKbyKqzKcHH&scisf=4&ct=citation&cd=18&hl=de -- unhandled response
+[ERROR] Could not grab : Are Students Good Proxies for Studying Professional: A Systematic Literature Review (https://www.diva-portal.org/smash/record.jsf?pid=diva2:832034)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:NKmBYTxnn5IJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfSG-U:AAGBfm0AAAAAX_jXA-UldFzazU8al_TL53a0w3yzfmmD&scisig=AAGBfm0AAAAAX_jXA6YqyFcUYTmhoK5Gk3JdJofuhXmS&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : Systematic literature reviews in purchasing and supply management research: a tertiary study (https://www.inderscienceonline.com/doi/abs/10.1504/IJISM.2012.052773)
+found 10 items on page 3
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:_lpoItCBs6oJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfcyqI:AAGBfm0AAAAAX_jZ0qKDY2wVUC235tU4EAhhf0Z_rBiy&scisig=AAGBfm0AAAAAX_jZ0nm_mz6gihixcy2ZjP4BSVGYcqxk&scisf=4&ct=citation&cd=28&hl=de -- unhandled response
+[ERROR] Could not grab : Towards a model to support in silico studies of software evolution (https://ieeexplore.ieee.org/abstract/document/6475429/)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:qFKSSQ2MGqIJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfcyqI:AAGBfm0AAAAAX_jZ0qKDY2wVUC235tU4EAhhf0Z_rBiy&scisig=AAGBfm0AAAAAX_jZ0vn7Xo2h_5wNov0JeR3YWO0IoRgL&scisf=4&ct=citation&cd=29&hl=de -- unhandled response
+[ERROR] Could not grab : Resource-based view in empirical it business value research--an evidence-based literature review (https://ieeexplore.ieee.org/abstract/document/6149506/)
+found 10 items on page 4
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:rJaTMUmtkgoJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfZuQ8:AAGBfm0AAAAAX_jcoQ_7KfNgwbaSBk9E_UBElqmuit3r&scisig=AAGBfm0AAAAAX_jcocu5u3K1ZrUvAlJm5aIeP9A5aSXq&scisf=4&ct=citation&cd=38&hl=de -- unhandled response
+[ERROR] Could not grab : Towards an e-business acceptance model: Identification of external factors (https://ieeexplore.ieee.org/abstract/document/6308023/)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:1rLGaWtCRLEJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfZuQ8:AAGBfm0AAAAAX_jcoQ_7KfNgwbaSBk9E_UBElqmuit3r&scisig=AAGBfm0AAAAAX_jcoUStvSp9OysXZPTsZQ8HtC5LxjjT&scisf=4&ct=citation&cd=39&hl=de -- unhandled response
+[ERROR] Could not grab : The uncertainty of innovation: a systematic review of the literature (https://www.researchgate.net/profile/Harri_Jalonen/publication/267711382_The_Uncertainty_of_Innovation_A_Systematic_Review_of_the_Literature/links/547473e50cf2778985abdddf.pdf)
+found 10 items on page 5
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:rqt9yElhcgsJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfaYLE:AAGBfm0AAAAAX_jfeLEhe61KN_LE8E9vi2eLxkCVPgMb&scisig=AAGBfm0AAAAAX_jfeBf88KNEA3fQ_k8Ac4pXUpo2HJck&scisf=4&ct=citation&cd=48&hl=de -- unhandled response
+[ERROR] Could not grab : Experiment process (https://link.springer.com/chapter/10.1007/978-3-642-29044-2_6)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:1yi5v2SUduIJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfaYLE:AAGBfm0AAAAAX_jfeLEhe61KN_LE8E9vi2eLxkCVPgMb&scisig=AAGBfm0AAAAAX_jfeFRHPdOX3vhw0GpsJF6v_hJguxEy&scisf=4&ct=citation&cd=49&hl=de -- unhandled response
+[ERROR] Could not grab : Assessing the effectiveness of sequence diagrams in the comprehension of functional requirements: Results from a family of five experiments (https://ieeexplore.ieee.org/abstract/document/6193111/)
+found 10 items on page 6
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Gg6uYw7eBdsJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfnSew:AAGBfm0AAAAAX_jiUezW19k69Vs1Kh9VZqn9oy6L1Zsi&scisig=AAGBfm0AAAAAX_jiUUsxLn2cQPDJLq7wowkEUTnyL6wF&scisf=4&ct=citation&cd=58&hl=de -- unhandled response
+[ERROR] Could not grab : Experiment Process Illustration (https://link.springer.com/chapter/10.1007/978-3-642-29044-2_12)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:djG1KVmkH-sJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfnSew:AAGBfm0AAAAAX_jiUezW19k69Vs1Kh9VZqn9oy6L1Zsi&scisig=AAGBfm0AAAAAX_jiUbPLpxT6g2iM1cAex0A16GAvEjwf&scisf=4&ct=citation&cd=59&hl=de -- unhandled response
+[ERROR] Could not grab : Effective distribution of roles and responsibilities in global software development teams (https://www.diva-portal.org/smash/record.jsf?pid=diva2:832049)
+found 10 items on page 7
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:6FtwIOrMDJQJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfgM4E:AAGBfm0AAAAAX_jlK4EmJXzNR4yocY9IxUX7IaB1XN_F&scisig=AAGBfm0AAAAAX_jlK2MRkuRX6EOQV5228scPbpctEi-Q&scisf=4&ct=citation&cd=68&hl=de -- unhandled response
+[ERROR] Could not grab : Risk management in new product development: a systematic review of literature (https://dspace.lib.cranfield.ac.uk/handle/1826/7790)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:rPNr5ORrsyUJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfgM4E:AAGBfm0AAAAAX_jlK4EmJXzNR4yocY9IxUX7IaB1XN_F&scisig=AAGBfm0AAAAAX_jlK5NGM6rYaYcC8NXCxeoBWcmO-mbV&scisf=4&ct=citation&cd=69&hl=de -- unhandled response
+[ERROR] Could not grab : Modeling subjective metrics for mobile evaluation (https://seminar.utmspace.edu.my/jisri/download/Full%20Paper/B_MobileEvaluation_CReady_amend.pdf)
+found 10 items on page 8
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:CminWfnzbFQJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfi5MM:AAGBfm0AAAAAX_jn_MOsdtZkg4qpMLfgqsMu1MTJmVwd&scisig=AAGBfm0AAAAAX_jn_N1moBpg8HNiG9w79gd8UALBRoCO&scisf=4&ct=citation&cd=78&hl=de -- unhandled response
+[ERROR] Could not grab : Analysis of Active Learning Activities (http://www.academia.edu/download/41627797/Analysis_of_Active_Learning_Activities_T20160127-18528-1a3rn8i.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:71gpC90i4D8J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfi5MM:AAGBfm0AAAAAX_jn_MOsdtZkg4qpMLfgqsMu1MTJmVwd&scisig=AAGBfm0AAAAAX_jn_OconhoAsLDJsdAsnpt5N-xUt8Bq&scisf=4&ct=citation&cd=79&hl=de -- unhandled response
+[ERROR] Could not grab : Case Study Of Mobile Internet User Experience (https://www.diva-portal.org/smash/record.jsf?pid=diva2:833564)
+found 10 items on page 9
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:dPIN_lDubcUJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfv37s:AAGBfm0AAAAAX_jqx7tdWR1ORArv2tJl4kmcchO-YtR2&scisig=AAGBfm0AAAAAX_jqx3EjPHVlCh3O6q9JYddGkGJ6VvIG&scisf=4&ct=citation&cd=88&hl=de -- unhandled response
+[ERROR] Could not grab : Turning the tables: learning from students about teaching CS1 (https://dl.acm.org/doi/abs/10.1145/2380552.2380594)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:4i8lZMfA8LkJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfv37s:AAGBfm0AAAAAX_jqx7tdWR1ORArv2tJl4kmcchO-YtR2&scisig=AAGBfm0AAAAAX_jqx--QE001XPI56Z3o2JTMA41O9DFm&scisf=4&ct=citation&cd=89&hl=de -- unhandled response
+[ERROR] Could not grab : A taxonomy for extra-functional properties of embedded system (https://www.diva-portal.org/smash/get/diva2:490157/ATTACHMENT01.pdf)
+found 10 items on page 10
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:ENEVxoYkv_0J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfol0U:AAGBfm0AAAAAX_jtj0Xmn9LKkjqsDz1RM00ZCLf2vg4C&scisig=AAGBfm0AAAAAX_jtj46P2PdDA72GBeHNlUJybs_XmoYn&scisf=4&ct=citation&cd=98&hl=de -- unhandled response
+[ERROR] Could not grab : A Usability Inspection Method for Model-driven Web Development Processes (http://www.dsic.upv.es/docs/bib-dig/tesis/etd-07302012-123815/PhD_Thesis_AdrianFernandez.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:bPALYpB6vyEJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAfol0U:AAGBfm0AAAAAX_jtj0Xmn9LKkjqsDz1RM00ZCLf2vg4C&scisig=AAGBfm0AAAAAX_jtj4DY-kljHaPalCGbrrt9LfpPPQcp&scisf=4&ct=citation&cd=99&hl=de -- unhandled response
+[ERROR] Could not grab : A Usability Inspection Method for Model-driven Web Development Processes (https://riunet.upv.es/handle/10251/17845)
+found 10 items on page 11
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:4g8Y_cYnNmUJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAf1f84:AAGBfm0AAAAAX_jwZ85Os6qMk0rP8TLAHMcJhFD0wF-7&scisig=AAGBfm0AAAAAX_jwZxcqXe9DU3oDU-wPaphYYXeDEoz3&scisf=4&ct=citation&cd=108&hl=de -- unhandled response
+[ERROR] Could not grab : CLOUD-BASED SUPPORT OF THE PROJECT PREPARATION PHASE IN A DISTRIBUTED COLLABORATIVE SOFTWARE DEVELOPMENT PROCESS (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.463.6300&rep=rep1&type=pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:ilCtxhQFby0J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEJqjvAf1f84:AAGBfm0AAAAAX_jwZ85Os6qMk0rP8TLAHMcJhFD0wF-7&scisig=AAGBfm0AAAAAX_jwZ6FfkFiXP6VoRothVBCDrkYOfstk&scisf=4&ct=citation&cd=109&hl=de -- unhandled response
+[ERROR] Could not grab : An exploratory study of factors influencing IT Project initiation decisions (http://orapp.aut.ac.nz/handle/10292/5337)
+found 6 items on page 12

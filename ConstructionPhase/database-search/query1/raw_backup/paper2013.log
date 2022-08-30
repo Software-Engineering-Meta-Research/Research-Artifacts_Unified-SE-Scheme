@@ -1,0 +1,69 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: systematic literature review
+ year: 2013 2013
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:dts13SOQO1cJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgd5DNw:AAGBfm0AAAAAX_h8FNw9U6914EBOFPhe25cfXhqI39sk&scisig=AAGBfm0AAAAAX_h8FLghurG0pmJRZD-TU7IXWH4-R_Sy&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : Health care provider adoption of eHealth: systematic literature review (https://www.i-jmr.org/2013/1/e7)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:7SMhwDf2wvgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgd5DNw:AAGBfm0AAAAAX_h8FNw9U6914EBOFPhe25cfXhqI39sk&scisig=AAGBfm0AAAAAX_h8FOSSeR2msxtI_fPvBYCWFvbACtBe&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : The use of software product lines for business process management: A systematic literature review (https://www.sciencedirect.com/science/article/pii/S0950584913000402)
+found 10 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:PBXtuKqq0q4J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgd7970:AAGBfm0AAAAAX_h-772EshK69hX24_6VFxuZmE-TxAkB&scisig=AAGBfm0AAAAAX_h-79s8YTGFX30fj2QEibqSt4KGxu9R&scisf=4&ct=citation&cd=18&hl=de -- unhandled response
+[ERROR] Could not grab : Endless Bad Projects or Evidence-Based Practice? An Agenda for Action (https://link.springer.com/chapter/10.1007/978-3-642-38862-0_43)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:AFzvpW4nSO4J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgd7970:AAGBfm0AAAAAX_h-772EshK69hX24_6VFxuZmE-TxAkB&scisig=AAGBfm0AAAAAX_h-74BVtC-lBATHv2XAezv0n4Q-D1xW&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : Software Engineering Taxonomy of Team Processes: A Completeness and Usefulness Validation (http://publications.polymtl.ca/1189/)
+found 10 items on page 3
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:3fTRi2MqBKgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeEpzE:AAGBfm0AAAAAX_iBvzG5iFNXPtdepDuW1Ex4QZVEsWgO&scisig=AAGBfm0AAAAAX_iBv2cw26wyv6LL_7NKIBovjaE_GKec&scisf=4&ct=citation&cd=28&hl=de -- unhandled response
+[ERROR] Could not grab : Review and Meta: Analysis Psychological Conceptual Frameworks and Concepts Applied in Social Engineering (https://www.diva-portal.org/smash/record.jsf?pid=diva2:1018376)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:xx6EaaoHMyYJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeEpzE:AAGBfm0AAAAAX_iBvzG5iFNXPtdepDuW1Ex4QZVEsWgO&scisig=AAGBfm0AAAAAX_iBv6Hs-lWw51Tnm2nK8lP988kq-bI3&scisf=4&ct=citation&cd=29&hl=de -- unhandled response
+[ERROR] Could not grab : Externalising tacit knowledge of the systematic review process (https://digital-library.theiet.org/content/journals/10.1049/iet-sen.2013.0029)
+found 10 items on page 4
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:yb12tp-bIu8J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeBm-0:AAGBfm0AAAAAX_iEg-0F8mMIybssSwg81Afm2pLIX-05&scisig=AAGBfm0AAAAAX_iEg9SMDHdZ5ZpqAGTmEjT9BKV5_BTP&scisf=4&ct=citation&cd=38&hl=de -- unhandled response
+[ERROR] Could not grab : The Nature of Adherence to Planning–Systematic Review of Factors Influencing its Suitability as Criterion for IS Project Success (https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1006&context=irwitpm2013)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:GMFyi0vYWRYJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeBm-0:AAGBfm0AAAAAX_iEg-0F8mMIybssSwg81Afm2pLIX-05&scisig=AAGBfm0AAAAAX_iEg8h9Csix5MWRH-M1DIQVpn24Zz33&scisf=4&ct=citation&cd=39&hl=de -- unhandled response
+[ERROR] Could not grab : A systematic review on keystroke dynamics (https://link.springer.com/article/10.1007/s13173-013-0117-7)
+found 10 items on page 5
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:-oZg2D5dWRYJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeCQ-s:AAGBfm0AAAAAX_iHW-tWRpEqwmkqM4WdCnSD8bNxk3RD&scisig=AAGBfm0AAAAAX_iHWyBK6mbGAxtBu6sh1zT8PfDGLavO&scisf=4&ct=citation&cd=48&hl=de -- unhandled response
+[ERROR] Could not grab : A survey of experienced user perceptions about software design patterns (https://www.sciencedirect.com/science/article/pii/S0950584912002297)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:Tn8bTcYjC4QJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeCQ-s:AAGBfm0AAAAAX_iHW-tWRpEqwmkqM4WdCnSD8bNxk3RD&scisig=AAGBfm0AAAAAX_iHW5ngYBRi-d8e1M3jtZp65Pgw1oLc&scisf=4&ct=citation&cd=49&hl=de -- unhandled response
+[ERROR] Could not grab : Free web-based personal health records: An analysis of functionality (https://link.springer.com/article/10.1007/s10916-013-9990-z)
+found 10 items on page 6
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:FOevqUN48NAJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgePNZw:AAGBfm0AAAAAX_iKLZw45sydYfuMuci7IyTgjSsK08w8&scisig=AAGBfm0AAAAAX_iKLbfqS0p4dzPqMCUgbIstQu1lww9C&scisf=4&ct=citation&cd=58&hl=de -- unhandled response
+[ERROR] Could not grab : Fabrication of an implant-supported overdenture using CAD/CAM technology: A clinical report. (http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=00336572&asa=Y&AN=84731615&h=OIg9rE8z%2F%2Bjsgawp5oG7dKSrX13wHOsSNhVLPgfoKvWPOMqNgCUsvxqh1EhPiEeZPO37s4DWqXf82n7v33j6Tw%3D%3D&crl=c)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:uxK_3OfoOEUJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgePNZw:AAGBfm0AAAAAX_iKLZw45sydYfuMuci7IyTgjSsK08w8&scisig=AAGBfm0AAAAAX_iKLd1vAkoLBimXvQQNS5dn3fQBuV7A&scisf=4&ct=citation&cd=59&hl=de -- unhandled response
+[ERROR] Could not grab : JEFFERSON SEIDE MOLLÉRI (https://www.univali.br/Lists/TrabalhosMestrado/Attachments/756/Jefferson%20Seide%20Molleri-2013.pdf)
+found 10 items on page 7
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:A44jnfKfjBoJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeIG10:AAGBfm0AAAAAX_iNA117945GctwPxYH06Sthzm-AKtNk&scisig=AAGBfm0AAAAAX_iNAxNPC65k-fVkOGdRP-ie-TlD7oSr&scisf=4&ct=citation&cd=68&hl=de -- unhandled response
+[ERROR] Could not grab : Fostering initial trust in applications–developing and evaluating requirement patterns for application websites (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2474153)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:EScuK368mP0J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeIG10:AAGBfm0AAAAAX_iNA117945GctwPxYH06Sthzm-AKtNk&scisig=AAGBfm0AAAAAX_iNAx3uB-pGofcEqL96hkWbA_dXy4ya&scisf=4&ct=citation&cd=69&hl=de -- unhandled response
+[ERROR] Could not grab : Using Bayesian networks to analyze occupational stress caused by work demands: Preventing stress through social support (https://www.sciencedirect.com/science/article/pii/S0001457513001449)
+found 10 items on page 8
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:et1Slum5l0gJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeKyv0:AAGBfm0AAAAAX_iP0v3EBkQL_dWxVhm2YBHS_7ICO1Xd&scisig=AAGBfm0AAAAAX_iP0hbHPr2KeEBw8nvld18Sygnol2Jq&scisf=4&ct=citation&cd=78&hl=de -- unhandled response
+[ERROR] Could not grab : Determinants of Process Maturity in English-speaking Caribbean Firms. (https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1020&context=confirm2013)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:gJ5gvR0jceYJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeKyv0:AAGBfm0AAAAAX_iP0v3EBkQL_dWxVhm2YBHS_7ICO1Xd&scisig=AAGBfm0AAAAAX_iP0sWWgxHl9G7-lwFFqPktZUDOjEav&scisf=4&ct=citation&cd=79&hl=de -- unhandled response
+[ERROR] Could not grab : LEARNING FROM RESEARCH: SYSTEMATIC REVIEWS FOR INFORMING POLICY DECISIONS (https://www.alliance4usefulevidence.org/assets/Learning-from-research.pdf)
+found 10 items on page 9
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:rJYKNSR9b3oJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeXs1M:AAGBfm0AAAAAX_iSq1MamyNFwSarbewmyRpF2OCDi9RP&scisig=AAGBfm0AAAAAX_iSq8og2q4DqtCCqtaC6bXQ8uXZmgPA&scisf=4&ct=citation&cd=88&hl=de -- unhandled response
+[ERROR] Could not grab : Examining the Educational User Interface, Technology and Pedagogy for Arabic Speaking Children in Kuwait. (http://www.jucs.org/jucs_19_7/examining_the_educational_user/jucs_19_07_1003_1022_dhir.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:DjbwkFxFw3sJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeXs1M:AAGBfm0AAAAAX_iSq1MamyNFwSarbewmyRpF2OCDi9RP&scisig=AAGBfm0AAAAAX_iSq4UiicEYruFkyaaNY3PQgf9yqOGE&scisf=4&ct=citation&cd=89&hl=de -- unhandled response
+[ERROR] Could not grab : Factors Affecting the Performance of Trainable Models for Software Defect Prediction (http://uhra.herts.ac.uk/handle/2299/10978)
+found 11 items on page 10
+[ERROR] Could not grab : [DOC] researchgate.net (https://www.researchgate.net/profile/Yasemin_Usluel/publication/272830304_Yeniliklerin_Benimsenmesi_Surecinde_Rol_Oynayan_Degiskenlerin_Betimsel_Tarama_Yontemiyle_Incelenmesi/links/55e01c7c08aecb1a7cc1f657/Yeniliklerin-Benimsenmesi-Suerecinde-Rol-Oynayan-Degiskenlerin-Betimsel-Tarama-Yoentemiyle-Incelenmesi)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:NADpdaXxYOcJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeQdGI:AAGBfm0AAAAAX_iVbGKDWper7pb5qmotiOhR1hWK9ku8&scisig=AAGBfm0AAAAAX_iVbPYX6_EhSsZqsU9X410ZNQyV4BKh&scisf=4&ct=citation&cd=97&hl=de -- unhandled response
+[ERROR] Could not grab : System and method for providing adaptive manufacturing diagnoses in a circuit board environment (https://patents.google.com/patent/US8560474B2/en)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:AzbXv4viwPwJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeQdGI:AAGBfm0AAAAAX_iVbGKDWper7pb5qmotiOhR1hWK9ku8&scisig=AAGBfm0AAAAAX_iVbEmSMacCBDkIkU8dUiE8ue6I2nLe&scisf=4&ct=citation&cd=98&hl=de -- unhandled response
+[ERROR] Could not grab : Gerenciamento de Riscos em projetos de desenvolvimento de software com Scrum (http://repositorio.pucrs.br/dspace/bitstream/10923/5602/1/000453095-Texto%2BCompleto-0.pdf)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:P-RHUKDCNZgJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgeQdGI:AAGBfm0AAAAAX_iVbGKDWper7pb5qmotiOhR1hWK9ku8&scisig=AAGBfm0AAAAAX_iVbB0eY3O-iiKY-nQoZElnlv5TYek4&scisf=4&ct=citation&cd=99&hl=de -- unhandled response
+[ERROR] Could not grab : Sales and Operations Planning Impact on Manufacturing Operational Performance (http://www2.dbd.puc-rio.br/pergamum/tesesabertas/1012737_2013_completo.pdf)
+found 10 items on page 11
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:chR2yUychRoJ:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgedbj4:AAGBfm0AAAAAX_iYdj62GzCeFfuX-ngyT0BA5qT1oAJN&scisig=AAGBfm0AAAAAX_iYdjslgifZ0b-H9EeiYoYB5tv8abtL&scisf=4&ct=citation&cd=108&hl=de -- unhandled response
+[ERROR] Could not grab : Lipoprotein ontology: a formal representation of Lipoproteins (https://espace.curtin.edu.au/handle/20.500.11937/1827)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:XWTZy2ACjM0J:scholar.google.com/&output=citation&scisdr=CgUAcyXGEPzyvgedbj4:AAGBfm0AAAAAX_iYdj62GzCeFfuX-ngyT0BA5qT1oAJN&scisig=AAGBfm0AAAAAX_iYdtrI2qbGr-VpG8P02jNa9PsKOrvu&scisf=4&ct=citation&cd=109&hl=de -- unhandled response
+[ERROR] Could not grab : The 7th European Conference on Games Based Learning Hosted by Instituto Superior de Engenharia do Porto (ISEP) Porto, Portugal (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.428.4851&rep=rep1&type=pdf)
+found 2 items on page 12

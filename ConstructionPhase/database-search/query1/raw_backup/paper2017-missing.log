@@ -1,0 +1,247 @@
+Preparing search for the following 61 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for A gamification requirements catalog for educational software: results from a systematic literature review and a survey with experts
+query for How to develop usability heuristics: A systematic literature review
+query for Factors influencing to the implementation success of big data analytics: A systematic literature review
+query for A systematic literature review on integrative lean and sustainability synergies over a building's lifecycle
+query for The search phase of software engineering systematic literature review: barriers and solutions
+query for Towards greener software engineering using software analytics: A systematic mapping
+query for A meta analysis of pair programming in computer programming courses: Implications for educational practice
+query for Technology Acceptance Among Teachers: An SLR on TAM and Teachers
+query for A Systematic Literature Review on the Definition and Classification of Innovation
+query for Revisión sistemática de literatura para artículos
+query for Revisión sistemática de literatura en los Trabajos de Final de Máster y en las Tesis Doctorales
+Error:confidence to low with 0.437500
+ Revisión sistemática de literatura en los Trabajos de Final de Máster y en las Tesis Doctorales
+ Modelos de gesti{\'o}n de inventarios en cadenas de abastecimiento: revisi{\'o}n de la literatura
+query for Smart city services driven by IoT: A systematic review
+query for Consolidating evidence based studies in software cost/effort estimation—a tertiary study
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2014 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 49 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Consolidating evidence based studies in software cost/effort estimation a tertiary study
+query for Investigation of moderator factors in e business adoption: A quantitative meta analysis of moderating effects on the drivers of intention and behavior
+query for Health Care Provider Adoption of eHealth: Systematic Literature
+query for Tendencias y tipos de aprendizaje en MALL: una revisión sistemática de la literatura (2012 2016)[Trends and types of learning in MALL: a systematic literature review 
+query for S/W developer's IT project participation: Focusing on the moderating role of regulatory focus on the effect of technology recency on participation intention
+query for Understanding the digital marketing environment with KPIs and web analytics
+query for Exploring the role of project management in the development of the academic agile software discourse: A bibliometric analysis
+query for Journal of Supply Chain Management
+query for Analyzing the Use of Concept Maps in Computer Science: A Systematic Mapping Study.
+query for Knowledge synthesis in software industries: a survey in Sri Lanka
+query for Critical success factor categories for big data: A preliminary analysis of the current academic landscape
+query for A systematic mapping study for intelligent user interfaces iui
+query for Making doctrinal work more rigorous: Lessons from systematic reviews
+query for A comprehensive framework for cloud computing migration using Meta synthesis approach
+query for Mobile learning for English language acquisition: taxonomy, challenges, and recommendations
+query for Enterprise architecture: what did we study?
+query for Software project risk management practice in Ethiopia
+query for Are software start ups different? An empirical study on performance of Finnish software companies
+query for Knowledge Sharing and (In) Security: towards a comprehensive view of managerial aspects
+query for Lean management of IT organizations.
+query for Hybrid Cloud System and Software Agent: Towards Hybrid Cloud Intelligent Agent System
+query for An analysis of design science research adoption in Doctoral projects in Australia
+query for A review of activity trackers for senior citizens: Research perspectives, commercial landscape and the role of the insurance industry
+query for A Controlled Experiment on Productivity of Pair Programming Gender Combinations: Preliminary Results.
+query for Assessing Barriers and Facilitators to Evidence Use in Decisions: A Tertiary and Interview Study
+query for Technology in use: The importance of good interface design
+query for Conceptual model for usable multi modal mobile assistance during Umrah
+query for Negative attitudes towards cyclists influence the acceptance of an in vehicle cyclist detection system
+query for Collaborative and competitive video games for teaching computing in higher education
+query for Collaboration via aligned autonomy for commercial software teams
+query for Review of automation and remote control technologies for forest industries
+query for Tendencias y tipos de aprendizaje en MALL: una revisión sistemática de la literatura (2012 2016)
+query for Improving Reporting of Usability Defects in Open Source Software Projects
+query for Managing cyber risk and security in the global supply chain: A systems analysis approach to risk, structure and behaviour
+query for Gaps between actual and preferred career paths among professional employees: Implications for performance and burnout
+query for International taxation in the digital economy: challenge accepted
+query for Co designing services with vulnerable consumers
+query for Ethics Empowerment for Better Managing Industrial Risks: Analysis and Experimental Investigations in Engineering Education and Practice
+query for Improving cognitive effectiveness of business process diagrams with opacity driven graphical highlights
+query for Using Real World Data in Health Technology Assessment (HTA) Practice: A comparative study of 5 HTA agencies
+query for SERIOUS GAMING APPROACH FRAMEWORK FOR CONSTRUCTION HAZARDS IDENTIFICATION
+query for Videogame based learning: a comparison of direct and indirect effects across outcomes
+query for Ambidexterity through Project Portfolio Management Resolving paradoxes in organizations
+query for What is agility, and where does it come from?
+query for FHIR© For Developing Interoperable Mobile Health Apps: An Exploratory Case Study
+query for Research on Business Process Prediction and Simulation Using Event Log Analysis Methods
+query for Supporting Higher Education Graduates' Early Careers: Strategic Framework and Maturity Model for the Field of Information and Communication Technologies 
+getbibtex.rb:182:in `index': incompatible character encodings: ASCII-8BIT and UTF-8 (Encoding::CompatibilityError)
+	from getbibtex.rb:182:in `block (2 levels) in <main>'
+	from getbibtex.rb:182:in `map'
+	from getbibtex.rb:182:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 2 entries...
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Supporting Higher Education Graduates Early Careers: Strategic Framework and Maturity Model for the Field of Information and Communication Technologies 
+getbibtex.rb:182:in `index': incompatible character encodings: ASCII-8BIT and UTF-8 (Encoding::CompatibilityError)
+	from getbibtex.rb:182:in `block (2 levels) in <main>'
+	from getbibtex.rb:182:in `map'
+	from getbibtex.rb:182:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 2 entries...
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Supporting Higher Education Graduates Early Careers: Strategic Framework and Maturity Model for the Field of Information and Communication Technologies 
+getbibtex.rb:182:in `index': incompatible character encodings: ASCII-8BIT and UTF-8 (Encoding::CompatibilityError)
+	from getbibtex.rb:182:in `block (2 levels) in <main>'
+	from getbibtex.rb:182:in `map'
+	from getbibtex.rb:182:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 2 entries...
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Supporting Higher Education Graduates Early Careers Strategic Framework and Maturity Model for the Field of Information and Communication Technologies 
+getbibtex.rb:182:in `index': incompatible character encodings: ASCII-8BIT and UTF-8 (Encoding::CompatibilityError)
+	from getbibtex.rb:182:in `block (2 levels) in <main>'
+	from getbibtex.rb:182:in `map'
+	from getbibtex.rb:182:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 2 entries...
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Prioritising Business Processes: Design and Evaluation of the Prioritisation and Categorisation Method (PCM)
+query for Supporting Higher Education Graduates Early Careers Strategic Framework and Maturity Model for the Field of Information and Communication Technologies 
+getbibtex.rb:182:in `index': incompatible character encodings: ASCII-8BIT and UTF-8 (Encoding::CompatibilityError)
+	from getbibtex.rb:182:in `block (2 levels) in <main>'
+	from getbibtex.rb:182:in `map'
+	from getbibtex.rb:182:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'

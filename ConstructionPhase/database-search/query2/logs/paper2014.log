@@ -1,0 +1,26 @@
++-------------------------Disclaimer------------------------------+
+|Please note that you should not use this script in jurisdictions,|
+|where automated use of Google is prohibited (almost everywhere). |
+|Please read Google's Terms of Service for more information.      |
++-------------------------Disclaimer------------------------------+
+[Google Scholar-Einstellungen] Configuration 
+querying for:
+ with: "software engineering" "meta analysis"
+ exact: mapping study
+ year: 2014 2014
+found 10 items on page 1
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:EKrKiSAA-OwJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEKj83aZG2Jg:AAGBfm0AAAAAYS9AwJiMJxe-Y3pqvcIKEsL_UKOVzwSv&scisig=AAGBfm0AAAAAYS9AwHg7w2rEgYKfIV4h8iipzDzXsLU8&scisf=4&ct=citation&cd=8&hl=de -- unhandled response
+[ERROR] Could not grab : Does pareto's law apply to evidence distribution in software engineering? an initial report (https://dl.acm.org/doi/abs/10.1145/2627508.2627510)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:5wIyNeMkaDcJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEKj83aZG2Jg:AAGBfm0AAAAAYS9AwJiMJxe-Y3pqvcIKEsL_UKOVzwSv&scisig=AAGBfm0AAAAAYS9AwAOG0ERgDZdwZeGgmQa0qwA5PxVw&scisf=4&ct=citation&cd=9&hl=de -- unhandled response
+[ERROR] Could not grab : Feature weighting techniques for CBR in software effort estimation studies: a review and empirical evaluation (https://dl.acm.org/doi/abs/10.1145/2639490.2639508)
+found 9 items on page 2
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:oxHRNiars0UJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEKj83aZFhlg:AAGBfm0AAAAAYS9DnlieWnFs8aADxbfAJCh0vWLIrSyT&scisig=AAGBfm0AAAAAYS9DnoO0NwZ6wEJsacpZZOrcr1gncEgn&scisf=4&ct=citation&cd=19&hl=de -- unhandled response
+[ERROR] Could not grab : Risks and risk mitigation in global software development: A tertiary study (https://www.sciencedirect.com/science/article/pii/S0950584913001341)
+found 10 items on page 3
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:iAQbXpzFHGAJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEKj83aZAP1E:AAGBfm0AAAAAYS9GJ1GmBMPK2m36dMEeJI2Z2aabiUva&scisig=AAGBfm0AAAAAYS9GJ1JBNhaFPbHYdkVvIAtyrgBdRhDi&scisf=4&ct=citation&cd=28&hl=de -- unhandled response
+[ERROR] Could not grab : Mobile PHRs compliance with Android and iOS usability guidelines (https://link.springer.com/article/10.1007/s10916-014-0081-6)
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:dgykAjfMjsAJ:scholar.google.com/&output=citation&scisdr=CgUAcyXDEKj83aZAP1E:AAGBfm0AAAAAYS9GJ1GmBMPK2m36dMEeJI2Z2aabiUva&scisig=AAGBfm0AAAAAYS9GJ6F8V2Tyudlo2lYdpqcYNycqJnp5&scisf=4&ct=citation&cd=29&hl=de -- unhandled response
+[ERROR] Could not grab : A systematic review on security in Process-Aware Information Systems–Constitution, challenges, and future directions (https://www.sciencedirect.com/science/article/pii/S0950584913002334)
+found 9 items on page 4
+403 => Net::HTTPForbidden for https://scholar.googleusercontent.com/scholar.bib?q=info:qIgy0rrMt68J:scholar.google.com/&output=citation&scisdr=CgUAcyXDEKj83aZO7i8:AAGBfm0AAAAAYS9I9i_CU7buSVsfVHXZU_pz_ZqIYwWW&scisig=AAGBfm0AAAAAYS9I9vIlcKMtP2KJsKevqD1CQs09A5-F&scisf=4&ct=citation&cd=38&hl=de -- unhandled response
+[ERROR] Could not grab : Análise da qualidade de experimentos controlados no contexto da engenharia de software empírica (https://repositorio.ufpe.br/handle/123456789/11368)

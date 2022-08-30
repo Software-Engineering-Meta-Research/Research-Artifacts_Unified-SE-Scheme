@@ -1,0 +1,82 @@
+Preparing search for the following 24 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for Health care provider adoption of eHealth: systematic literature review
+query for The use of software product lines for business process management: A systematic literature review
+query for Endless Bad Projects or Evidence Based Practice? An Agenda for Action
+query for Software Engineering Taxonomy of Team Processes: A Completeness and Usefulness Validation
+query for Review and Meta: Analysis Psychological Conceptual Frameworks and Concepts Applied in Social Engineering
+query for Externalising tacit knowledge of the systematic review process
+query for The Nature of Adherence to Planning–Systematic Review of Factors Influencing its Suitability as Criterion for IS Project Success
+/usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `encode': U+2013 from UTF-8 to ISO-8859-1 (Encoding::UndefinedConversionError)
+	from /usr/lib/ruby/vendor_ruby/mechanize/util.rb:77:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:243:in `from_native_charset'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:237:in `block in proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `map'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:236:in `proc_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:299:in `block in build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `each'
+	from /usr/lib/ruby/vendor_ruby/mechanize/form.rb:298:in `build_query'
+	from /usr/lib/ruby/vendor_ruby/mechanize.rb:587:in `submit'
+	from getbibtex.rb:159:in `block in <main>'
+	from getbibtex.rb:153:in `each'
+	from getbibtex.rb:153:in `<main>'
+Preparing search for the following 16 entries...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Scholar-Einstellungen
+Google Scholar
+query for The Nature of Adherence to Planning Systematic Review of Factors Influencing its Suitability as Criterion for IS Project Success
+query for A systematic review on keystroke dynamics
+query for A survey of experienced user perceptions about software design patterns
+query for Free web based personal health records: An analysis of functionality
+query for Fabrication of an implant supported overdenture using CAD/CAM technology: A clinical report.
+query for Fostering initial trust in applications developing and evaluating requirement patterns for application websites
+query for Using Bayesian networks to analyze occupational stress caused by work demands: Preventing stress through social support
+query for Determinants of Process Maturity in English speaking Caribbean Firms.
+query for LEARNING FROM RESEARCH: SYSTEMATIC REVIEWS FOR INFORMING POLICY DECISIONS
+query for Examining the Educational User Interface, Technology and Pedagogy for Arabic Speaking Children in Kuwait.
+query for Factors Affecting the Performance of Trainable Models for Software Defect Prediction
+query for System and method for providing adaptive manufacturing diagnoses in a circuit board environment
+query for Gerenciamento de Riscos em projetos de desenvolvimento de software com Scrum
+query for Sales and Operations Planning Impact on Manufacturing Operational Performance
+query for Lipoprotein ontology: a formal representation of Lipoproteins
+query for The 7th European Conference on Games Based Learning Hosted by Instituto Superior de Engenharia do Porto (ISEP) Porto, Portugal

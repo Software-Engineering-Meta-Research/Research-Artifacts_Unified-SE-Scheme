@@ -1,0 +1,14 @@
+Quantitative determination of the relationship between internal validity and bias in software engineering experiments: consequences for systematic literature reviews
+A meta-analysis of e-learning technology acceptance: The role of user types and e-learning technology types
+Factors limiting industrial adoption of test driven development: A systematic review
+What we can learn from systematic reviews
+Evidence-based Information Systems: A decade later
+Data quality: Cinderella at the software metrics ball?
+Global software development and collaboration: barriers and solutions
+A qualitative study of the determinants of self-managing team effectiveness in a scrum team
+A systematic review in research of medical software certification
+Exploring the Benefits and Challenges of Applying Agile Methods in Offshore Development
+A Comprehensive Evaluation of Conversion Approaches for Different Function Points
+Empowering doctoral candidates in finding relevant concepts in a literature set
+Scrum Practice Mitigation of Coordination Challenges in Global Software Development Projects: An Empirical Study
+Automated assessment of programming assignments: visual feedback, assignment mobility, and assessment of students' testing skills
