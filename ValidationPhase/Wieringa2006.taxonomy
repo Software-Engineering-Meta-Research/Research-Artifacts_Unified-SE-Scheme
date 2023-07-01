@@ -1,0 +1,39 @@
+/* 
+Bibkey: Wieringa2006
+Title: Requirements engineering paper classification and evaluation criteria: a proposal and a discussion
+Authors: Roel Wieringa, Neil Maiden, Nancy Mead, Colette Rolland 
+DOI: https://doi.org/10.1007/s00766-005-0021-6
+* Meta-research Area: Reporting (research paper types)
+* Background: Steering committee of the IEEE Requirements Engineering (RE) Conference have discussed paper classification and evaluation criteria for RE papers.
+* Note: Domain-specific classification (i.e., requirements engineering) used for general SE purpose
+* Goal: Form a consensus about what classes of paper to distinguish
+*/
+
+/* Engineering cycle contains three research activities
+* problem investigation (which problems exist in RE practice?),
+* solution validation (what are the properties of a proposed solution?), and
+* implementation evaluation (what are the experiences with this implemented solution?)
+*/
+
+Research Type Facet { /* by Wieringa et al. (Wieringa et al. 2006) */
+	Evaluation Research, /*This is the investigation of a problem in RE practice or an implementation of an RE technique in practice. 
+	* If it reports on the use of an RE technique in practice, then the novelty of the technique is not a criterion by which the paper should be evaluated.
+	* Rather, novelty of the knowledge claim made by the paper is a relevant criterion, as is the soundness of the research method used. 
+	* In general, research results in new knowledge of causal relationships among phenomena, or in new knowledge of logical relationships among propositions. 
+	* Causal properties are studied empirically, such as by case study, field study, field experiment, survey, etc. Logical properties are studied by conceptual means, such as by mathematics or logic. 
+	* Whatever the method of study, it should support the conclusions stated in the paper. */
+	Validation Research, /* This paper investigates the properties of a solution proposal that has not yet been implemented in RE practice. 
+	 * The solution may have been proposed elsewhere, by the author or by someone else. 
+	 * The investigation uses a thorough, methodologically sound research setup. Possible research methods are experiments, simulation, prototyping, mathematical analysis, mathematical proof of properties, etc. */
+	Proposal of Solution, /* This paper proposes a solution technique and argues for its relevance, without a fullblown validation. 
+The technique must be novel, or at least a significant improvement of an existing technique. 
+A proof-of-concept may be offered by means of a small example, a sound argument, or by some other means. */
+	Philosophical Papers, /* These papers sketch a new way of looking at things, a new conceptual framework, etc. */
+	Opinion Papers, /* These papers contain the author’s opinion about what is wrong or good about something, how we should do something */
+	Personal Experience Papers /* n these papers, the emphasis is on what and not on why. 
+	 * The experience may concern one project or more, but it must be the author’s personal experience. 
+	 * The paper should contain a list of lessons learned by the author from his or her experience. 
+	 * Papers in this category will often come from industry practitioners or from researchers who have used their tools in practice, and the experience will be reported without a discussion of research methods. 
+	 * The evidence presented in the paper can be anecdotal.
+	 */
+}

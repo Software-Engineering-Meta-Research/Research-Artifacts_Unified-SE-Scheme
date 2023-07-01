@@ -1,0 +1,67 @@
+/* 
+Bibkey: Easterbrook2007
+Title: Selecting Empirical Methods for Software Engineering Research
+Authors: Steve Easterbrook, Janice Singer, Margaret-Anne Storey, and Daniela Damian
+DOI: https://doi.org/10.1007/978-1-84800-044-5_11
+* Meta-research Area: Methods (primary research methods, research questions, validity), Reporting (Philosophical stances)
+*/
+
+Research Methods in Software Engineering - Primary Research {
+	Controlled Experiments including Quasi-Experiments,
+	Case Studies{
+		exploratory,
+		confirmatory
+	}, 
+	Survey Research,
+	Ethnographies,
+	Action Research,
+	Mixed-Methods Approach{
+	    Sequential explanatory strategy,
+	    Sequential exploratory strategy,
+	    Concurrent triangulation strategy
+	}
+},
+
+Kind of Research Question{ 
+	/* The classification of research questions is adapted from Meltzoff (1998). */
+	Knowledge question{	
+		Exploratory { /* Summary:
+			questions that attempt to understand the phenomena and identify useful distinctions to clarify its understanding */
+			Existence questions,
+			Description and Classification questions,
+			Descriptive-Comparative questions
+		},
+			
+		Base-rate{ /* Summary:
+			once the phenomena is understood, base-rate questions aim to identify the normal patterns of the phenomena occurrence */
+			Frequency and distribution questions,
+			Descriptive-Process questions		
+		}, 
+		Relationship, /* Summary:
+			questions that aim understand the relationship between two phenomena occurrence, specifically whether the occurrence of one is related to the occurrence of the other
+			*/
+		Causal { /* Summary:
+			established the relationship, causal questions tries to understand why the relationship occurs by attempting to identify cause and effect */
+			Causality questions,
+			Causality-Comparative questions,
+			Causality-Comparative Interaction
+		}
+	},
+	Design question /* Summary:  (Simon, 1996)
+		these type of question focuses in designing better ways to do software engineering */
+},
+
+Empirical Validity{
+	Construct validity,
+	Internal validity,
+	External validity,
+	Reliability
+},
+
+Philosophical stances{
+  Positivitism,
+  Constructivism,
+  Critical Theory,
+  Pragmatism 
+}
+

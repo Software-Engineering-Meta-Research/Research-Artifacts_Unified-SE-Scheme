@@ -1,0 +1,18 @@
+/* 
+Bibkey: Huang2018
+Title: Synthesizing qualitative research in software engineering: a critical review
+Authors:     Xin Huang, He Zhang, Xin Zhou, Muhammad Ali Babar, Song Yang
+DOI: https://doi.org/10.1145/3180155.3180235 (ACM)
+* Meta-research Area: Methods (qualitytive synthesis in secondary study)
+*/
+
+Qualitative Synthesis Methods in Evidence Based Software Engineering EBSE{
+	Narrative synthesis, /* Narrative description and ordering of primary evidence with commentary */
+	Thematic synthesis, /* Identifying major or recurring themes in literature and summaries of results of primary studies under the headings of these themes */
+	Meta-ethnography, /* �Interpretations and explanations in the primary studies are treated as data, and are translated across several studies to produce a synthesis� */
+	Meta-summary, /* Quantitative oriented aggregation of qualitative findings. Identify the frequency of each discovery, as well as the discovery of high frequency findings */
+	Content analysis, /* The evidence for each of the primary study is used under a wide range of thematic headings, designed to help with repetitive extraction tools */
+	Grounded theory, /* Identifying patterns and relationships in primary data, sampling for analysis, exploring commonalities, and generating theories or models */
+	Comparative analysis, /* Using Boolean logic (based on specific results of truth tables) to analyze complex causal relationships */
+	Case survey /* Making closed questions to extract data and each primary study can be seen as a specific case */  
+}

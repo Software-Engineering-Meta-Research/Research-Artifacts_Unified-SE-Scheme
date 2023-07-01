@@ -1,0 +1,70 @@
+/* 
+Bibkey: Glass2022
+Title: Research in software engineering: an analysis of the literature
+Authors: R.L. Glass, I. Vessey, V. Ramesh
+DOI: https://doi.org/10.1016/S0950-5849(02)00049-6
+* Meta-research Area: Methods
+*/
+
+Research Approach{ /* Contribution types */
+	Descriptive{ /* Morrison and George (1995): https://doi.org/10.1145/213859.214802 */
+		DS Descriptive system,
+		DO Descriptive other,
+		DR Review of literature
+	},
+	Evaluative{ /* Orlikowski and Baroudi (1991): https://doi.org/10.1287/isre.2.1.1  */
+		ED Evaluative-deductive,
+		EI Evaluative-interpretive,
+		EC Evaluative-critical,
+		EO Evaluative-other
+	},
+	Formulative{
+		FF Formulative-framework,
+		FG Formulative-guidelines - standards,
+		FM Formulative-model,
+		FP Formulativ-process - method - algorithm,
+		FT Formulative-classification - taxonomy,
+		FC Formulative-concept
+	}
+},
+
+Research Method{
+	AR Action research,
+	CA Conceptual analysis,
+	CAM Conceptual analysis - mathematical,
+	CI Concept implementation - proof of concept,
+	CS Case study,
+	DA Data analysis,
+	DI Discourse analysis,
+	ET Ethnography,
+	FE Field experiment,
+	FS Field study,
+	GT Grounded theory,
+	HE Hermeneutics,
+	ID Instrument development,
+	LH Laboratory experiment - human subjects,
+	LR Literature review- analysis,
+	LS Laboratory experiment software,
+	MA Meta-analysis,
+	MP Mathematical proof,
+	PA Protocol analysis,
+	PH Phenomenology,
+	SI Simulation,
+	SU Descriptive - exploratory survey
+},	
+
+Reference Disciplines{ /* excluded */},
+
+Level of Analysis{ /* primarily from the field of Information Systems */
+	SOC Society,
+	PRO Profession,
+	EXT External business context,
+	OC Organizational context,
+	PR Project,
+	GP Group - team,
+	IN Individual,
+	/* (non-social) levels of analysis: */
+	CS System, 
+	CE Computing elemen - program - component - algorithm,
+	AC Abstract concept
+}

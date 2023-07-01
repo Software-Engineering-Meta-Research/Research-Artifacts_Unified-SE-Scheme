@@ -1,0 +1,65 @@
+/* 
+Bibkey: Shaw2003
+Title: Writing good software engineering research papers
+Authors: M. Shaw
+DOI: https://doi.org/10.1109/ICSE.2003.1201262
+Ref.: Origin "The Coming-of-Age of Software Architecture Research" https://doi.org/10.1109/ICSE.2001.919142
+Research setting		Feasibility, characterization, method/means, generalization, and selection
+Research product		Qualitative or descriptive model, technique, system, empirical predictive model, and analytic model
+Validation techniques	Persuasion, implementation (proof of concept), evaluation, analysis, and experience
+* Meta-research Area: Methods (research questions, validation types), Reporting (structuring a publication, contributions)
+*/
+
+Types of software engineering research questions{
+	Method or means of development, /*
+	How can we do/create/modify/evolve (or automate doing) X?
+	What is a better way to do/create/modify/evolve X?
+	 */
+	Method for analysis or evaluation, /*
+	How can I evaluate the quality/correctness of X?
+	How do I choose between X and Y?
+	 */
+	Design- evaluation  or analysis of a particular instance, /*
+	How good is Y? 
+	What is property X of artifact/method Y?
+	What is a (better) design, implementation, maintenance, or adaptation for application X?
+	How does X compare to Y?
+	What is the current state of X / practice of Y?
+	 */
+	Generalization or characterization, /*
+	Given X, what will Y (necessarily) be?
+	What, exactly, do we mean by X? What are its important characteristics?
+	What is a good formal/empirical model for X?
+	What are the varieties of X, how are they related?
+	 */
+	Feasibility study or exploration /*
+	Does X even exist, and if so what is it like?
+	Is it possible to accomplish X at all?
+	 */
+},
+
+Type of result{ /* Also used as "Contribution type facet" */
+	Procedure or technique, 
+	/* Contribution: A study that searches for a general solution to a problem */
+	Qualitative or descriptive model, 
+	/* Contribution: A study that proposes a structure or taxonomy for a problem area, such as architectural style, framework, or design pattern; non-formal domain analysis, well-grounded checklists, well-argued informal generalizations, guidance for integrating other results, well-organized interesting observations */
+	Empirical model, 
+	/* Contribution: A study that proposes an empirical predictive model based on observed data */
+	Analytic model, 
+	/* Contribution: A study that analyzes a study object with regard to a structure or taxonomy, method, framework, or any set of evaluation criteria */
+	Tool or notation, 
+	/* Contribution: A study that proposes a new tool created or implemented by applying some method or technique, which may be more effective than existing tools or used in combination with other tools */
+	Specific solution- prototype- answer- or judgment,
+	Report 
+	/* Contribution: A study documenting knowledge and experience obtained, rules of thumb or checklists */
+	
+},
+
+Type of Validation{
+	Analysis,
+	Evaluation,
+	Experience,
+	Example,
+	Persuasion,
+	Blatant assertion 
+}

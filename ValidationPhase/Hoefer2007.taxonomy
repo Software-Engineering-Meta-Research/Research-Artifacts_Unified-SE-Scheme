@@ -1,0 +1,47 @@
+/* 
+Bibkey: Hoefer2007
+Title: Status of Empirical Research in Software Engineering
+Authors: Andreas H�fer, Walter F. Tichy 
+DOI: https://doi.org/10.1007/978-3-540-71301-2_3
+* Meta-research Area: Meta-Data, Methods
+*/
+
+/* Classification of Articles*/
+Topic{ /* The subject area of the paper within software engineering */
+	Design - Architecture,
+	Diagrams- Notations,
+	Empirical methods, /* Empirical methods covers tools or approaches to conduct empirical work; such papers aim to improve research methods. */
+	Inspections - Reviews,
+	Maintenance,
+	Measurement - Metrics,
+	Project planning - Estimation,
+	Quality estimation -Fault prediction,
+	Requirements,
+	Software engineering process,
+	Testing,
+	Tools - Methods - Frameworks, /* covers papers that introduce a novel tool, method or framework for software development, coupled with an empirical study (typically a case study) */
+	Other
+},
+
+Method{ /* The empirical research method used for the study. We use categories from psychological research according to Christensen 
+  		 * Empty categories are: Longitudinal and cross-sectional study, naturalistic observation.
+ 		 * Non-empty categories: case study, correlational study, ethnography, experiment, ex post facto study, meta analysis, phenomenology, survey*/
+	Case study, /* In-depth analysis of a particular project, event, organization, etc. */
+	Correlational study, /* Measuring variables and determining the degree of relationship that exists between them.*/
+	Ethnography, /* Description and interpretation of the culture of a group of people.*/
+	Ex post facto study, /* Study in which the variables of interest are not subject to direct manipulation, but must be chosen after the fact (e.g., when analyzing software repositories).*/
+	Experiment Quantitative, /* study to test cause-and-effect relationships.*/
+	Meta analysis, /* Integrates and/or describes the results of several studies.*/
+	Phenomenology, /* Description of an individual�s or a group�s experience of a phenomenon.*/
+	Survey /* Data is collected by interviewing a representative sample of some population*/
+},
+
+Source of Data{ /*  This characteristic categorizes the origin of the data used for empirical research  */
+	Professionals, /* Data acquired from professionals directly by using them as subjects in an experiment or indirectly by collecting data from projects with professionals. */
+	Students, /* Data acquired from students directly by using them as subjects in an experiment or indirectly by collecting data from a project with students.*/
+	Both, /* Data acquired from students and professionals. */
+	Benchmarks, /* Benchmarks are artificially composed data designed to measure the performance of a tool, method, algorithm, etc. */
+	Software, /* The source Software refers to data derived from operational software (such as reliability data) irrespective of the methods of development for such software. */
+	Studies, /* Data acquired from other studies (meta analysis). */
+	Unknown /* Unstated source of data. Some articles do not state how the data was gathered or whether their subjects were students or professionals. */
+}

@@ -1,0 +1,24 @@
+/* 
+Bibkey: Goues2010
+Title: Bridging the gap: From research to practical advice
+Authors: Claire Le Goues; Ciera Jaspan; Ipek Ozkaya; Mary Shaw; Kathryn T. Stolee
+DOI: https://doi.org/10.1109/MS.2018.3571235
+* Meta-research Area: Methods (Evidence Level)
+*/
+
+Hierarchy of Evidence for SE Research { /* Level 0-7 */
+	Secondary or filtered Studies, /*Systematic reviews with recommendations for practice; meta-analyses */
+	Primary Studies{
+		Systematic Evidence{
+			Formal or analytic results, /* Formal or analytic results with rigorous derivation and proof */
+			Quantitative empirical studies /* Quantitative empirical studies with careful experimental design and good statistical contro */
+		},
+		Observational Evidence{
+			Observational results, /* Observational results supported by sound qualitative methods, including well-designed case studies */
+			Surveys, /* Surveys with good sampling and good design; field studies; data mining */
+			Experience form multiple projects, /* Experience from multiple projects, with analysis and cross-project comparison; a tool, a prototype, a notation, a dataset, or another artifact (that has been certified as usable by others) */
+			Experience form a single project /* Experience from a single project: an objective review of a specific project; lessons learned; a solution to a specific problem, tested and validated in the context of that problem; an in-depth experience report; a notation, a dataset, or an unvalidated artifact */
+		}		
+	},
+	No Design /* Proposals of ideas or approaches; Anecdotes on practice; a rule of thumb; an evaluation with small or toy examples; a novel idea backed by strong argumentation; a position paper or an op-ed based principally on expert opinion */
+}

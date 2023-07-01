@@ -1,0 +1,61 @@
+/* 
+Bibkey: Zannier2006
+Title: On the success of empirical studies in the international conference on software engineering
+Authors: Carmen Zannier, Grigori Melnik, Frank Maurer
+DOI: https://doi.org/10.1145/1134285.1134333
+* Meta-research Area: Methods (Methods, Data Sampling)
+*/
+
+Study Type{
+	Controlled Experiment, /* All of the following exist: Random assignment of treatments to subjects. 
+	 * Large sample size (>10 participants). 
+	 * Hypotheses formulated. 
+	 * Independent variable selected. 
+	 * Random sampling. */
+	Quasi Experiment, /* One or more of points in Controlled Experiment are missing */
+	Case Study, /* All of the following exist: 
+	 * Research question stated. 
+	 * Propositions stated. 
+	 * Unit(s) of analysis stated. 
+	 * Logic linking the data to propositions stated. 
+	 * Criteria for interpreting the findings provided. 
+	 * Performed in a �real world� situation */
+	Exploratory Case Study, /* One or more of points in Case Study are missing */
+	Experience Report, /* All of the following exist: Retrospective. 
+	 * No propositions (generally). 
+	 * Does not necessarily answer how or why. 
+	 * Often includes lessons learned */
+	Meta-Analysis, /* Study incorporates results from previous similar studies in the analysis */
+	Example Application, /* Authors describing an application and provide an example to assist in the description, but the example is "used to validate" or "evaluate" as far as the authors suggest */
+	Survey, /* Structured or unstructured questions given to participants. */
+	Discussion /* Provided some qualitative, textual, opinion-oriented evaluation. 
+	 * E.g. compare and contrast, oral discussion of advantages and disadvantages. */
+},
+
+Sampling Type{
+	Random{
+		simple, /* Permits generalization from sample to the population it represents */
+		stratified /* The population is divided into a number of parts according to some characteristic. Increases confidence in making generalizations to particular subgroups */
+	},
+	non-random{
+		Convenience, /* Doing what is fast and convenient. On-the-spot decisions about sampling to take advantage of new opportunities during actual data collection */
+		Self-selected, /* Respondents decide they would like to participate in the experiment/case study/survey */
+		Investigator Selected, /* The investigator selects the sample */
+		Quota, /* Population is segmented into sub-groups, like stratified sampling. 
+		 * Then judgment is used to select the subjects or units from each segment based on a specified portion */
+		Snowball, /* Identify cases of interest from sampling people who know people who know people who know what cases are information rich, that is, good examples for study. */
+		Purposeful, /* Select information-rich cases strategically and purposeful; 
+		 * specific type and number of cases selected depends on study purpose and resource */
+		Critical Case /* Permits logical generalization and maximum application of information to other cases because if it's true of this one case, its likely to be true of all other cases */
+	}	
+},
+
+Target and Used Population{ /* Question: does the target population match the used population*/
+	yes,
+	no
+},
+
+Evaluation Type{ /* who developed the subject under study and who evaluated it? */
+	self-confirmatory,
+	independent evaluation /* In an independent evaluation the authors evaluated a third party object. */
+}

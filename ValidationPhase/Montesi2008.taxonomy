@@ -1,0 +1,91 @@
+/* 
+Bibkey: Montesi2008
+Title: Software engineering article types: An analysis of the literature
+Authors: Michela Montesi, Patricia Lago
+DOI: https://doi.org/10.1016/j.jss.2007.11.723
+* Meta-research Area: Methods, Reporting (Meta-Data)
+* Related: Wieringa2006
+*/
+
+Types of SE Articles { /* Synonym: Article genres */
+	Publishable papers in general, /* Summary:
+	* Regular papers may be shaped as different genres, such as, for example, experimental papers, case studies, or surveys
+	* A typical SE paper has a three-section structure: Introduction * Main Body * Conclusion
+	* Appropriate style must be comprehensible
+	* Relevance for practice, novelty, and originality are the most important requirements for publication
+	*/
+	Extended versions of conference papers, /* Summary:
+	* Extended versions of conference papers are a typical genre of SE
+	* Extended versions have passed through a double round of reviews
+	* Many journals require that approximately one third of the content be new
+	* Publication on a journal allows discussing the research beyond the time and space limitations set by conference
+	*/
+	Empirical research reports{ /* Summary:
+	* Empirical research includes different research strategies such as case studies, experimental research, or qualitative research
+	* Clear and comprehensive guidelines on how to write a proper empirical research paper are not yet available
+	* The experimental context is considered important for all types of empirical research
+	* Empirical research is increasing in SE
+	*/
+		Observational studies, /* Summary:
+		* Observational studies include all empirical research strategies that impose little control over the developmental process
+		* Contextual factors, such as the type of industry in which the products are used, or the experience and skills of software staff, affect the utility and generality of the results
+		*/
+		Case studies, /* Summary:
+		* Case studies� most distinguishing feature is their descriptive character
+		* It is difficult to distinguish case studies from experience reports or first-hand experience reports
+		* The environment of the research is especially important to evaluate case studies
+		* They allow for different data collection procedures, including controlled experiments
+		* Their major advantage is that they reflect real world situations
+		* Some authors argue that, for this reason, they can communicate better to practitioners
+	 	*/
+		Field studies, /* Summary:
+		 * Neither the function of field studies nor their difference from case studies is clear in most sources 
+		 */
+		Experimental papers, /*
+		* The terms ��experiment� and ��experimentation� are often used improperly in SE
+		* Many researchers complain about the lack of standardization regarding collection measures for experimental research
+		* Some also argue that current SE experimental research is insufficiently representative of industrial settings
+		* It is particularly difficult to carry out true experimentation in SE real settings 
+		*/
+		Meta-analyses /*
+		* Meta-analyses allow to combine results of various empirical studies
+		* The lack of standardization in reports of empirical research makes it difficult to apply meta-analyses in SE 
+		*/
+	},
+	Experience papers, /* Summary 
+	* Experience reports are called by different names (��lessons learned reports�, ��industry experience reports�, etc.), and it is not clear if different names imply variations
+	* Experience reports appear to be connected with application and practice
+	* In some sources, practitioners are the expected authors of experience reports
+	* Soundness of the report and objectivity are important publication requirements*/
+	Theoretical papers, /* Summary 
+	* Theoretical papers are often of a methodological or computational nature
+	 i.e. they presenting computational methods and algorithms;
+	* Relevance for practice is the most important requirement for publication */
+	Tutorial articles, /* Summary 
+	* Tutorials are mainly educational, and introduce the work done in a field in a highly comprehensible manner
+	* Two types of tutorial are considered in the IEEE Software Guide: one focusing on applications and the other on research activities
+	* Tutorials address audiences with different background and levels of experience */
+	Surveys, /* 
+	* Surveys complement tutorials, but address a more experienced audience
+	* Surveys do not need to be novel, but should make a contribution to the understanding of an area
+	* They help researchers as well as practitioners to keep up to date
+	* They can have a role in bridging the gap between practice and researchSummary */
+	Short papers, /* Summary 
+	* Short papers deal usually with practical or technical topics
+	* They usually undergo the same revision process as full-length papers
+	* Negative results or repetitions of previous results fit well short papers */
+	Papers oriented towards practice{ 
+		Educational papers, /* Summary 
+		* Educational papers appear more commonly in conferences than in journals */
+	  	How to - tool report papers, /* Summary 
+	  	* ��How to� and tool articles explain how to perform specific development tasks or on how to use specific tools
+		* The conditions of applicability/inapplicability of the process or the tool at hand must be detailed */
+		Application papers /* Summary 
+		* Application papers are similar and related to experience reports, tool reports and ��how to� papers
+		* They may focus on applications in different domains
+		* They usually stress problems and obstacles to overcome */
+	},
+	Opinion papers /* Summary 
+	* Opinion papers may cover general topics of interest for the field, comment on previously published papers, or explain a technical position
+	* Requirements for publication include, among the others: convincing arguments, brevity, and interestingness */
+}

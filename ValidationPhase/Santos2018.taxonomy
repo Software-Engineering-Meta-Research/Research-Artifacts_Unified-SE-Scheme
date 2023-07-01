@@ -1,0 +1,17 @@
+/* 
+Bibkey: Santos2018
+Title: Analyzing Families of Experiments in SE: a Systematic Mapping Study
+Authors: Adrian Santos, Omar Gomez, Natalia Juristo
+DOI: https://doi.org/10.48550/arXiv.1805.09009
+* Meta-research Area: Reproducibility, Methods (Aggregation techniques for replication results)
+*/
+
+ Aggregation Techniques for SE Families of Experiments { 
+ 	Narrative synthesis,
+	Aggregated Data AD, 
+	Individual Participant Data IPD{
+		mega-trial,
+		stratified
+	}, 
+	Aggregation of p-values
+}

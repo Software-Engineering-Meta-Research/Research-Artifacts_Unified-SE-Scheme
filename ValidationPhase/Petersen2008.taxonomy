@@ -1,0 +1,55 @@
+/* 
+Bibkey: Petersen2008
+Title: Systematic Mapping Studies in Software Engineering
+Authors: Kai Petersen, Robert Feldt, Shahid Mujtaba, Michael Mattsson
+DOI: https://doi.org/10.14236/ewic/EASE2008.8
+* Meta-research Area: Methods, Reporting
+*/
+
+Research Type Facet { /* by Wieringa et al. (Wieringa et al. 2006) */
+	Validation Research, /* Techniques investigated are novel and have not yet been implemented in practice.
+Techniques used are for example experiments, i.e., work done in the lab */
+	Evaluation Research, /* Techniques are implemented in practice and an evaluation of the technique is conducted.
+That means, it is shown how the technique is implemented in practice (solution implementation) and what are the consequences of the implementation in terms of benefits and drawbacks (implementation evaluation). 
+This also includes to identify problems in industry. */
+	Solution Research, /* A solution for a problem is proposed, the solution can be either novel or a significant extension of an existing technique. 
+The potential benefits and the applicability of the solution is shown by a small example or a good line of argumentation. */
+	Philosophical Papers, /* These papers sketch a new way of looking at existing things by structuring the field in form of a taxonomy or conceptual framework */
+	Opinion Papers, /* These papers express the personal opinion of somebody whether a certain technique is good or bad, or how things should been done. 
+They do not rely on related work and research methodologies. */
+	Experience Papers /* Experience papers explain on what and how something has been done in practice. 
+It has to be the personal experience of the author. */
+},
+
+Contribution Facet{
+	Metric,
+	Tool,
+	Model,
+	Method,
+	Process
+},
+
+Systematic Review Characteristics{
+	Research Goals{
+		Identify Best and Typical Practices, /*  analyzes a set of empirical studies to determine which techniques are used and work in practice. */
+		Classification and Taxonomy, /* creates a framework or classifies the existing research */
+		Emphasis on Topic Categories, /* means that the study identifies how much research is published in different sub-topics in the field of interest.  */
+		Identify Publication Fora /*  identifies the journals, conferences and workshops relevant in the focus area. */
+	},
+	Inclusion Requirements {
+		Research is Within Focus Area,
+		Empirical Methods Used /*  included papers used empirical methods. */
+	},
+	Number of Included Articles {
+		Potentially Relevant Studies, /* (i.e., found in the search) */
+		Relevant Studies -Included /* (after applying inclusion and exclusion criteria as well as quality checks) */
+	},
+	Means of Analysis{ /* Synthesis Methods */
+		Meta Study, /* integrate several studies through statistical analyzes of the studies� quantitative data */
+		Comparative Analysis, /* uses logical simplification and confidence assessment theories. */
+		Thematic Analysis, /*  counts papers related to specific themes or categories */
+		Narrative Summary /* focus on qualitative review and narrative explanations. 
+		 * Further means of analysis are described in (Dixon-Woods et al. 2005), but we have not found evidence of their use in software engineering systematic reviews. */
+	}
+}
+	

@@ -1,0 +1,21 @@
+/* 
+Bibkey: Kitchenham2013
+Title: A systematic review of systematic review process research in software engineering
+Authors: Barbara Kitchenham, Pearl Brereton
+DOI: https://doi.org/10.1016/j.infsof.2013.07.010
+* Meta-research Area: Methods, Report
+*/
+
+Type of Paper {
+	Problem identification and - or problem solution, 
+	Experience Paper, 
+	Opinion Survey, 
+	Discussion paper
+},
+Scope of the study {
+	Mapping studies,
+	Conventional Systematic review,
+	Both,
+	Updating studies,
+	Other /*  (which must be specified). */
+} 

@@ -1,0 +1,36 @@
+/* 
+Bibkey: Cruzes2010
+Title: Synthesizing evidence in software engineering research
+Authors: Daniela S. Cruzes, Tore Dybå
+DOI: https://doi.org/10.1145/1852786.1852788
+* Meta-research Area: Method (research synthesis in secondary research)
+*/
+
+Research Synthesis in Systematic Reviews in Software Engineering{ /*Selected methods for synthesis of qualitative and quantitative evidence (adapted from Dixon-Woods et al., 2005) */
+	Narrative synthesis, /* Summary:
+		Selected narrative description and ordering of primary evidence with commentary and interpretation. */
+	Meta-ethnography, /* Summary:
+		Induction, interpretation and translational analysis of primary studies to understand and transfer ideas, concepts and metaphors across different studies */
+	Cross-case analysis, /* Summary:
+		Evidence from each primary study is summarized and coded under broad thematic headings. 
+		Evidence is then summarized within themes across studies, with brief citation of primary evidence. 
+		Commonalities and differences between studies are noted.
+	 	*/
+	Thematic Analysis, /* Summary:
+		Identification of major/recurrent themes in literature; summary of findings of primary studies under these thematic headings.
+		*/
+	Content Analysis, /* Summary:
+		 Evidence from primary studies coded under broad thematic headings, using extraction tools designed to aid reproducibility. 
+		 Occurrences of each theme counted and tabulated.
+		 */
+	Case Survey, /*
+		Each primary study treated as a ‘case’. Study findings and attributes extracted using closed-form questions, for reliability. 
+		Survey analysis methods used on extracted data.
+		*/
+	Qualitative Comparative Analysis, /* Summray:
+	 	Boolean analysis of necessary and sufficient conditions for particular outcomes to be observed, based on presence/absence of independent variables and outcomes in each primary study. */
+	Meta-analysis, /*
+		Quantitative synthesis of data, in which evidence is pooled using statistical techniques.
+		*/
+	None - Scoping Study
+}

@@ -1,0 +1,29 @@
+/* 
+Bibkey: Santos2014
+Title: Understanding replication of experiments in software engineering: A classification
+Authors: Omar S. Gómez, Natalia Juristo, Sira Vegas 
+DOI: https://doi.org/10.1145/2652524.2652553
+* Meta-research Area: Methods (secondary studies)
+*/
+
+Contribution of secondary studies {  /* based on RQ, goal of paper, solution proposed */
+	Genrel Aspects, /* provide general contributions about performing, teaching, or validating the process for conducting SLRs */
+	Tools, /* propose software tools and computational solutions to support and improve the development of SLR, such as repos and datbases, text mining tools, ontologies, and other methods to automate one or several steps in the process of conducting a SLR */
+	Recommendations, /* a list of lessons learned constructed through the experience of performing SLRs or based on the analysis of experience of other researchers, form which recommendations were produced */
+	Guidelines /* prepsent sequence of steps to perform systematic reviews, either as a new guideline or improving previous work */
+},
+
+Evidence Types {
+	Empirical Studies {
+		case studies,
+		surveys,
+		experiments,
+		multi-method
+	},
+	Non-Empirical Studies {
+		Experience Reports,
+		theoretical essays,
+		proposals without empirical validation
+	},
+	Tertiary Studies /* literature reviews that aimed at collecting and analysing secondary studies */
+}

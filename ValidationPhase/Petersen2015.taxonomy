@@ -1,0 +1,81 @@
+/* 
+Bibkey: Petersen2015
+Title: Guidelines for conducting systematic mapping studies in software engineering: An update
+Authors: Kai Petersen, Sairam Vakkalanka, Ludwik Kuzniarz
+DOI: https://doi.org/10.1016/j.infsof.2015.03.007
+* Ref.:
+* Wieringa (2006)
+* Petersen (2008)
+* Petersen (2011)
+* Petersen (2013): https://doi.org/10.1109/IWSM-Mensura.2013.22
+* Meta-research Area: Methods, Reporting, Meta-Data
+*/
+
+Publication Types { /* Meta-Data, Classification of publication venues */
+	Peer-reviewed,
+	Professional communities,
+	Public artistic and design act,
+	Non-refereed,
+	General public,
+	Audiovisual material and software,
+	Thesis,
+	Patents
+},
+
+Research Type and Methods{
+	Conditions{
+		Used in practice,
+		novel solution,
+		Empirical evaluation,
+		Conceptual framework,
+		Opinion,
+		Author experience
+	},
+	Decisions{
+		Evaluation research{
+			Industrial case study,
+			Controlled experiments with practinioniers,
+			Practitioner target survey,
+			Action research, 
+			Ethnography
+		},
+		Solution proposal,
+		Validation research{
+			Simulation as an empirical method,
+			Laboratory experiments{
+				Machine,
+				Human
+			},
+			Prototyping,
+			Mathematical analysis and proof of properties,
+			Academic case study with students
+		},
+		Philosophical papers,
+		Opinion papers,
+		Experience papers
+	}	
+},
+
+Visualization{ /* Results Representation */
+	line diagram,
+	bubble plot,
+	Venn diagramm,
+	heatmap,
+	plots, 
+	bar plot, 
+	pie diagram
+},
+
+Threats to Validity{
+	Publication bias,
+	Descriptive validity,
+	Researcher bias - theoretical validity,
+	quality of the sample regarding target - theoretical validity,
+	Generalizability {
+		Internal,
+		External
+	},
+	Reliability of the conclusion	
+}
+
+/* todo empirical type: experiment, case-study and survey */

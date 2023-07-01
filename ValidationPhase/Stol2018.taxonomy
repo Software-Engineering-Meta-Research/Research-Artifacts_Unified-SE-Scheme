@@ -1,0 +1,75 @@
+/* 
+Bibkey: StolF2018
+Title: The ABC of Software Engineering Research
+Authors: Klaas-Jan Stol and Brian Fitzgerald
+DOI: https://doi.org/10.1145/3241743
+* Meta-research Area: Methods, Reporting
+*/
+
+Study kind{
+	solution-seeking, /* Solution-seeking studies aim to solve practical problems for which solutions can be engineered.  In solution-seeking studies, researchers design, create, or develop solutions for a software engineering challenge. */
+	knowledge-seeking
+},
+
+Setting{
+	Neutral,
+  	Contrived,
+  	Natural,
+  	Non-empircal
+},
+
+Obtrusiveness{ /* denoted as degree of obtrusivenes with a ratio scale */
+	Unobtrusive,
+	Intrusive
+},
+
+Generlizability{ /* denoted as degree of generalizability with a ratio scale */
+  	Specific,
+  	Generalizable
+},
+
+Study type{
+  	Field study,
+  	Field experiment,
+  	Experimental simulation,
+  	Laboratory experiment,
+  	Judgment study,
+  	Sample study,
+  	Formal theory,
+  	Computer simulation
+},
+
+Evaluation Methods{
+  	Case study, 
+  	Ethnography,
+  	Observational study,
+  	Evaluative case study,
+  	Quasi-experiment, 
+  	Action research,
+  	Simulation games,
+  	Management games,
+  	Instrumented multiplayer games,
+  	Randomized controlled experiments,
+  	Quasi experiments, 
+  	Comparative evaluations with benchmark studies,  
+  	Delphi studies, 
+  	Interview studies, 
+  	Focus group,
+  	Evaluation studies,
+  	Software repository mining,
+  	Questionnaires,
+  	Interviews,
+  	Conceptual reasoning,
+  	Concept development,
+  	Development of propositions hypotheses,
+  	Development of simulation software /* that contains symbolic representations of all variables a researcher considers important */
+},
+
+Evaluation Data{
+ 	qualitative data, /* interviews */
+  	quantitative data,
+  	field notes,
+  	archival documents,
+  	framework development
+}
+

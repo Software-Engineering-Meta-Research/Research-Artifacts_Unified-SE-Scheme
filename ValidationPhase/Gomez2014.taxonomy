@@ -1,0 +1,44 @@
+/* 
+Bibkey: Gomez2014
+Title: Understanding replication of experiments in software engineering: A classification
+Authors: Omar S. G�mez, Natalia Juristo, Sira Vegas 
+DOI: https://doi.org/10.1016/j.infsof.2014.04.004
+* Meta-research Area: Reproducibility
+*/
+
+Elements of an experimental configuration {
+	Operationalization {
+		Cause - Treatments,
+		Effect - response variable
+	},
+	Population {
+		Subject properties,
+		Object properties
+	},
+	Protocol {
+		Design,
+		Experimental objects,
+		Guides,
+		Instruments,
+		Analysis
+		
+	},
+	Experimenter { /* Meta-Data */
+		Designer,
+		Trainer,
+		Monitor,
+		Measurer,
+		Analyst		
+	}
+},
+
+Types of Replications {
+	Literal,
+	Operational {
+		Protocol, /* The experimental protocol elements are varied with the aim of verifying that the observed results are reproduced using equivalent experimental protocols */ 
+		Operationalization, /*The cause and/or effect operationalizations are varied in order to verify the bounds of the cause and/or effect construct operationalizations within which the results hold */
+		Population, /* The populations are varied to verify the limits of the populations used in the baseline experiment */
+		Experimenter /* The experimenters are varied to verify their influence on the results */
+	},
+	 Conceptual /* Different experimenters run the replication with new protocol and operationalizations */
+}

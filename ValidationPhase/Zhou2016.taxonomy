@@ -1,0 +1,66 @@
+/* 
+Bibkey: Zhou2016
+Title: A Map of Threats to Validity of Systematic Literature Reviews in Software Engineering
+Authors: Xin Zhou, Yuqin Jin, He Zhang, Shanshan Li, Xin Huang
+DOI: https://doi.org/10.1109/APSEC.2016.031
+* Meta-research Area: Methods, Evaluation
+*/
+
+Secondary Study Type {
+	Meta analysis,
+	Systeamtic literature review SLR,
+	Mapping Study
+},
+
+Threats to Validity TTV Mapping in secondary Study {
+	Construct Ct {
+		Non-specification of SLRs setting and sufficient details,
+		Inappropriate or incomplete search terms in automatic search,
+		Lack of standard languages and terminologies,
+		Incorrect search method,
+		Incomprehensible venues or database, 
+		Inappropriate inclusion and exclusion criteria,
+		Inappropriate research questions,
+		Restricted time span,
+		Identification error of primary studies,
+		Lack of expert evaluation 
+	}, 
+	Internal In {
+		Non-specification of SLRs setting and sufficient details,
+		Inappropriate or incomplete search terms in automatic search,
+		Lack of standard languages and terminologies,
+		Incorrect search method,
+		Inadequate size and number of samples,
+		Culture bias,
+		Bias in study selection,
+		Identification error of primary studies,
+		Misclassification of primary study,
+		Primary study duplication,
+		Publication bias,
+		Bias in data extraction,
+		Subjective interpretation about the extracted data,
+		Unsatisfactory data synthesis,
+		Subjective quality assessment ,
+		Lack of expert evaluation  
+	}, 
+	External Et {
+		Restricted time span,
+		Incomplete research information in primary study,
+		Paper or database inaccessible,
+		Primary study generalizability
+	},
+	Conclusion Cn {
+		Bias in study selection,
+		Identification error of primary studies,
+		Misclassification of primary study,
+		Primary study duplication,
+		Bias in data extraction,
+		Subjective interpretation about the extracted data  
+	},
+	Content, 
+	Concurrent, 
+	Predictive, 
+	Statistical,
+	Others
+}
+

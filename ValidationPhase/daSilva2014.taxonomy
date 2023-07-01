@@ -1,0 +1,16 @@
+/* 
+Bibkey: Silva2014
+Title: Replication of empirical studies in software engineering research: a systematic mapping study
+Authors: Fabio Q. B. da Silva, Marcos Suassuna, A. César C. França, Alicia M. Grubb, Tatiana B. Gouveia, Cleviton V. F. Monteiro,  Igor Ebrahim dos Santos
+DOI: https://doi.org/10.1007/s10664-012-9227-7
+* Meta-research Area: Reproducibility
+*/
+
+Replication Type{
+	Internal {
+		Original-Included, 
+		Replication-Only 
+	},
+	External
+}	
+

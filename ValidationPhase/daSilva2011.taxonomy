@@ -1,0 +1,20 @@
+/* 
+Bibkey: Silva2011
+Title: Six years of systematic literature reviews in software engineering: An updated tertiary study
+Authors: Fabio Q.B. da Silva, André L.M. Santos, Sérgio Soares, A. César C. França, Cleviton V.F. Monteiro, Felipe Farias Maciel
+DOI: https://doi.org/10.1016/j.infsof.2011.04.004
+* Meta-reserch Aea: Methods (types of secondary research methods), Reporting
+*/
+
+Types of Secondary Research{
+	Review Type{
+		conventional systematic literature review SLR, 
+		meta-analysis MA,
+		mapping study MS
+	},
+	Review Scope{ /*focused on (i.e., contribution) */
+		detailed technical question RQ,
+		research trends in a particular software engineering topic area SERT,
+		research methods in software engineering RT
+	}
+}

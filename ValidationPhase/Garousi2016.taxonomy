@@ -1,0 +1,40 @@
+/* 
+Bibkey: Garousi2016
+Title: Challenges and best practices in industry-academia collaborations in software engineering: A systematic literature review
+Authors: Vahid Garousi, Kai Petersen, Baris Ozkan 
+DOI: https://doi.org/10.1016/j.infsof.2016.07.006
+* Meta-research Area: Methods, Evaluation
+*/
+
+Industry-Academia Collaboration IAC in Software Engineering {
+	Challenges {
+		Lack of research relevance,
+		Research Method Related,
+		Lack of training - experience - skills,
+		Lack or drop of interest - commitment,
+		Mismatch between industry and academia,
+		Communication related,
+		Human and organizational factors,
+		Management-related issues,
+		Resource-related issues,
+		Contractual and privacy concerns	
+	},
+	Best Practices {
+		Knowledge management, /* (communication, terminology, training and skills) */
+		Ensure engagement and manage commitment,
+		Consider and understand needs - challenges  goals - problems of industry,
+		Ensure giving industry benefits and solving the right problems,
+		Have mutual respect - understanding and appreciation,
+		Be Agile,
+		Work in - as - a team and involving the right practitioners,
+		Consider and manage risks and limitations ,
+		Researchers on-site presence and access,
+		Follow a research - data collection method- Guidelines on the selection of research methods,
+		Manage funding recruiting - Partnerships and contracting privacy,
+		Understand the context - constraints and language,
+		Efficient research project management,
+		Conduct measurement - assessment,
+		Test - pilot solutions before using them in industry,
+		Provide tool support for solutions
+		}
+}

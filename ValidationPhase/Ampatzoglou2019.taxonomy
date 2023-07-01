@@ -1,0 +1,50 @@
+/* 
+Bibkey: Ampatzoglou2019
+Title: Identifying, categorizing and mitigating threats to validity in software engineering secondary studies
+Authors: Apostolos Ampatzoglou, Stamatia Bibi, Paris Avgeriou, Marijn Verbeek, Alexander Chatzigeorgiou
+DOI: https://doi.org/10.1016/j.infsof.2018.10.006
+* Meta-research Area: Method (validity concerns in secondary research), mapping: threats to validity and mitigation actions
+* Issues concerning threats to validity in secondary research: Completely missing, Incorrectly categorized, Inconsistently named, Inconsistently mitigated.
+*/
+
+Threats to validity in software engineering secondary studies{
+	Study selection validity, /* internal, reliability */
+	/* This category involves threats that can be identified in the first two phases of secondary studies planning (i.e., search process and study filtering phase). 
+	 * Issues classified in this category threaten the validity of searching and including primary studes in the examined set. 
+	 * This involves threats like the selection of digital libraries, search string construction, and study selection bias, etc.
+	 * Validity of Classifying Threats to Categories:
+	 	- Inadequacy of initial relevant publications identification 
+	 	- Limited number of journals and conferences 
+	 	- Missing non-English papers 
+		- Paper not accessible in a digital library 
+		- Inefficient handling of duplicate articles 
+		- Inclusion / exclusion of grey literature 
+		- Insufficient study inclusion / exclusion criteria
+	 */
+	Data validity,
+	/* This category includes threats that can be identified in the last two phases of secondary studies (i.e., data extraction and analysis) and threaten the validity of the extracted dataset and its analysis. 
+	 * Examples of threats in this category are data collection bias, publication bias, etc.
+	 * Validity of Classifying Threats to Categories:
+		- Small sample size or heterogeneous primary studies 
+		- The chosen variables to be extracted cannot answer the RQs 
+		- Primary studies are published in a limited number of venues
+		- The obtained dataset lacks relationships 
+		- Low validity of primary studies
+		- Data extraction is biased 
+		- No statistical analysis of the dataset 
+		- The selection of classification schema is biased 
+		- The interpretation of results is not objective
+	 */
+	Research validity
+	/* Threats that can be identified in all four phases and concern the overall research design are classified into this category. 
+	 * Examples of threats falling in this category are: generalizability, repeatability, coverage of research questions, etc
+	 * Validity of Classifying Threats to Categories:
+	 * 	- Lack of repeatability 
+		- A not fitting research method has been selected 
+		- Answering the RQs cannot fulfill the goal 
+		- Lack of comparable studies 
+		- Researchers are not familiar with the research field 
+		- Lack of generalizability
+	 */
+	
+}

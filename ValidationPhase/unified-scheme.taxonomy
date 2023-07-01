@@ -1,0 +1,346 @@
+/* 
+Bibkey: UnifiedScheme2023
+Title: Unifying classification schemes for software engineering meta-research
+Authors: Angelika Kaplan, Jan Keim, Thomas K�hn, Ralf Reussner
+*/
+
+Research Artifact {
+	Publication { /* First sub-feature of Research Artifact */
+		Meta-Data { /* First sub-feature of Publication 
+		 * Descriptive metadata, Structural metadata, Administrative metadata, Numerical meta-data*/
+		 	Contributer {
+		 		Author,
+		 		Reviewer,
+		 		Types of Replicator
+		 	},
+		 	Contributer Desciption {
+		 		Affilitation,
+		 		ORCID,
+		 		Contacts,
+		 		Social Media
+		 	},
+		 	Content Types {
+		 		Text {
+		 			Title,
+		 			Topic,
+		 			Keywords,
+		 			Abstarct,
+		 			Sections
+		 		},
+		 		Tables,
+		 		Figures,
+		 		References,
+		 		Appendix
+		 	},
+		 	Publication Types, /* adapted form Peterson2015 */
+		 	Availability {
+		 		Publication Date,
+		 		Venue,
+		 		Version ID
+		 	},
+		 	Bibliometrics {
+		 		Citation Count,
+		 		H Index,
+		 		Altmetrics
+		 	}
+		 },
+		Content-Data { /* Second sub-feature of Publication */
+			
+			Research Context {
+				Software Engneering SE Research Discipline {
+					Conventional SE Topics,
+					SE Education and Training,
+					SE Meta-research
+			},
+			
+				Contribution Type - Research Goal { /* Contribution Type indicates also Research Goal " to <verb in the following categories> Research Object. 
+				 * A contribution (i.e., a research outcome) in software engineering updates or enhances the body of existing scientific or engineering knowledge (i.e., reflected in knowledge-based and solution-based statements).
+				 */
+					Empirical Investigation { /* Contribution: Results of Empirical Investigation; 
+					 * Empirical results of (primary research) phenomen of interest, problem identification, people and human aspects/behavior, theory building/testing and 
+					 * (secondary research) aggregated knowledge of primary studies or secondary studies to provide knowledge-support, categorization, or research gaps (i.e., identification of problem areas for new research)
+					 */
+						
+					},
+					Solution Approach { /* "constructive" contributions */
+						Data-sets,
+						Classification schemes, 
+						Guidelines, /* Checklists */
+						Metrics, /* Software metrics, evaluation metrics */
+						Model - abstraction and purpose - and methodology, 
+						Meta-model - Language, 
+						Approach - process - algorithm,  /* to achieve a specific task (theoretical description) , mostly accompanied by support tool*/
+						Automation, /* I/O specifications */
+						Application - tool - framework,  /* (implementation of, e.g., an approach) */
+						Initial proposal for new solution approach /* sketch new ideas */
+					},
+					Evaluation { /* Contribution: Results of Evaluation. 
+					 * Evaluation of solution approach w.r.t. property of solution approach (mostly expressed by quality attribute or descriptive characteristic). 
+					 * Intrinsic property (property-as-such) or relationship (property-in-relation) between constructive solution and its context (social (user behavior), technical or process environment).
+					 */
+						Property-as-such,
+						Property-in-relation,
+						Relevance
+					},
+					Replication  /* The repetition of a < research step > serves  to verify the results. Successful replication increases the validity, reliability, and trustworthiness of research outcomes. Replication results might be confirming, rejecting or undecided */
+				}
+				
+				
+			},
+			Research Question { /* operationalize method design */
+				Existence, /* (investigative; primary and secondary) */
+				Frequency,
+				Descriptive {
+					Explanation,
+					Status, /* state-of-the-art / state-of-practice */
+					process-related question
+				},
+				Feasibility,
+				Categorization - Scoping,
+				Relationship,
+				Causality,
+				Verification,
+				Design, /* non-emprical question */
+				Property-Analysis, /* Evaluation of solution approach */
+				Comparison, /* compare to similar solution approaches */
+				Relevance, /* Scientific novelty, practical impact */
+				Decision, /* Decision support w.r.t. target group */
+				Normative Perspective /* how something should be */
+				
+			},
+			Methodology {
+				Empirical Research Method Type {
+					Investigative Method, 
+					Engineering Method {
+						Constructive Method, /* (to construct solution approach) */
+						Evaluation Method
+					},					 
+					Analytical Method
+				},
+				Research Method {
+					
+				},				
+				Evidence-based Approach {
+					Empirical Research {
+						Research Level { /* Research approach */
+							Primary Research,
+							Secondary Research,
+							Tertiary Research
+						},
+						Research Setting { /* Research environment */
+							In Vivo,
+							In Vitro,
+							In Silico,
+							In Virtuo
+						},
+						Data Source { /* Origin of data; Source of any material used in the research study */
+							Population { /* (human participants) considering target-group or non-target-group (i.e., does the target population match the used population) */
+								Role {
+									Research Object,
+									Research Subjetc
+								},
+								Entity {
+								},
+								Experience Level {
+									Novice,
+									Medium,
+									Experienced
+								}	
+							},
+							Technical sources {
+								Open source projects, 
+								Industrial projects, 
+								Laboratory projects,
+								Standards - datasets - testsuits or benchmarks
+							},
+							Literature Data {
+								White literature, /* (peer-reviewed) */
+								Gray literature, /* (non peer-reviewed) */
+								Bibliometrics
+							} 
+						},
+						Data Collection Method Type {
+							Observational, /* without controlling the setting */  
+							Controlled, 
+							Degree of Generalizability, /*(specific vs. generalizable)  describe the extent to which the findings are generalizable to other settings */
+							Historical
+						},
+						Data Selection Method { /* Time relation */
+							Retrospective,  /* (data collection about the past) */
+							Prospective, /* (data collection over time) */
+							Cross-sectional, /* (one point in time, different samples) */
+							Longitudinal, /* (several points in time, same sample) */
+							Perspective /* (Opinion, Lessons learnt, Experience, motivating example, persuasion/argumentation) */
+							
+						},
+						Data Sampling {
+							Strategy {
+								Random {
+									Simple,
+									Systematic Random,
+									Stratified
+								}
+							},
+							Non-random {
+								Convenience,
+								Systematic ,
+								Investigator Selected,
+								Self-Selected,
+								Quota,
+								Snowball,
+								Purposeful,
+								Critical Case
+							},
+							Size { /* numerical; size of the context, e.g., number of participants or size of a system, data-set */ 
+								Low,
+								Adequate,
+								Large
+							}
+						},
+						Data Analysis {
+							Synthesis Method Type - Research Approach {
+								Quantitative {
+									Measurement {
+										Type {
+											Approximate,
+											Exact
+										},
+										Scale {
+											Nominal,
+											Ordinal,
+											Interval,
+											Ratio,
+											Absolute
+										}
+									}
+								},
+								Qualitative {
+									Coding Types {
+										Open Coding,
+										Axial Coding, 
+										Selective Coding
+									}
+								},
+								Mixed { /* Design options, temporal order of qualitative and quantitative approaches */
+									Sequential { /* one data collection methods follows after the other */
+										Explanatory Design,
+										Exploratory Design,
+										Transformative Design
+									},
+									Concurrent { /* collecting both types of data during the same stage, i.e., the qualitative and quantitative data are collected at the same time. */
+										Triangulation Strategy,
+										Nested,
+										Transformative
+									},
+									Integrative
+									
+								}
+							},
+							Synthesis Methods { /* quantitative, qualitative, mixed */
+								
+							},
+							Results Representation { /* Data Plotting */
+								
+							}
+						}
+					},
+					Non-empirical Research {
+						Mathematical Proof {
+							Property Fulfillment,
+							Theorem Proving
+						},
+						No Validation /* No research, e.g., initial proposal of a new idea / solution approach */	
+					},												
+			Limitation {
+				Limitation of Approach,
+				Empirical Validity { /* Threats to validity */
+					
+				},
+				Ethical Issues
+			} 
+			
+		}},
+		Challenges { /* Third sub-feature of Publication */
+			Evidence-based Challenges {
+				Research Anti-Pattern {
+					
+				},
+				Effort,
+				Lack of Tool-Support
+			},
+			Collaborations Challenges with Industry {
+				Lack of research relevance,
+				Research Method Related,
+				Lack of training - experience - skills,
+				Lack or drop of interest - commitment,
+				Mismatch between industry and academia,
+				Communication related,
+				Human and organizational factors,
+				Management-related issues,
+				Resource-related issues,
+				Contractual and privacy concerns	
+				
+		},
+			
+		Best Practices { /* Fourth sub-feature of Publication */
+			Industry-Academia Collaboration {
+				Knowledge management, /* (communication, terminology, training and skills) */
+				Ensure engagement and manage commitment,
+				Consider and understand needs - challenges  goals - problems of industry,
+				Ensure giving industry benefits and solving the right problems,
+				Have mutual respect - understanding and appreciation,
+				Be Agile,
+				Work in - as - a team and involving the right practitioners,
+				Consider and manage risks and limitations ,
+				Researchers on-site presence and access,
+				Follow a research - data collection method- Guidelines on the selection of research methods,
+				Manage funding recruiting - Partnerships and contracting privacy,
+				Understand the context - constraints and language,
+				Efficient research project management,
+				Conduct measurement - assessment,
+				Test - pilot solutions before using them in industry,
+				Provide tool support for solutions
+			}
+		}
+		
+		},
+		Quality Criteria { /* Fifth sub-feature of Publication */
+	
+		},
+		Replication Study { /* Sixth sub-feature of Publication */
+		Type of Replication wrt Experimenters { /* Who is responsable for the replication study? */
+			Internal,
+			External,
+			Interrelated
+		},
+		Type fo Replication Procedure {
+			Exact Replications{ /* in which the procedures of an experiment are followed as closely as possible */
+				Dependent Replications, /* where researchers attempt to keep all the conditions of the experiment the same or very similar  */
+				Independent Replications /* where researchers deliberately vary one or more major aspects of the conditions of the experiment */
+			},
+			Conceptual Replications /* which the same research question is evaluated by using a different experimental procedure */
+		},
+		Replication Result {
+			Type of Results {
+				Confirmation,
+				Rejection,
+				Undecided
+			},
+			Aggregation Method of Results {
+			 	Narrative synthesis,
+				Aggregated Data AD, 
+				Individual Participant Data IPD{
+					mega-trial,
+					stratified
+				}, 
+				Aggregation of p-values
+			} 
+			
+		}
+	},
+	Media, /* Second sub-feature of Research Artifact */
+	Replication Package { /* Third sub-feature of Research Artifact */
+		Software Artifact,
+		Empirical Artifact /* (i.e., data artifacts like data sets, raw data to form empirical results) a */
+	}
+}

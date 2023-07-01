@@ -1,0 +1,12 @@
+/* 
+Bibkey: Shepperd2018
+Title: The role and value of replication in empirical software engineering results
+Authors: Martin Shepperd, Steve Counsell
+DOI: https://doi.org/10.1016/j.infsof.2018.01.006
+* Meta-research Area: Reproducibility
+*/
+
+Replication Types {
+	Internal,
+	External
+}

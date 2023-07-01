@@ -1,0 +1,69 @@
+/* 
+Bibkey: Cruzes2011
+Title: Research synthesis in software engineering: A tertiary study
+Authors: Daniela S. Cruzes, Tore Dybå
+DOI: https://doi.org/10.1016/j.infsof.2011.01.004
+* Note: covers: https://doi.org/10.1145/1852786.1852788 (Cruzes2010), Duplicate
+* Meta-research Area: Method (research synthesis in secondary research), Reporting
+*/
+
+
+Research Synthesis in Systematic Reviews in Software Engineering{ /* Overview of methods for the synthesis of qualitative and mixed-methods evidence. */
+	Narrative synthesis, /* A defining characteristic of narrative synthesis is the adoption of a narrative (as opposed to statistical) summary of the findings of primary studies. 
+	 * It is a general framework of selected narrative descriptions and ordering of primary evidence with commentary and interpretation combined with specific tools and techniques that help to increase transparency and trustworthiness. 
+	 * Narrative synthesis can be applied to reviews of quantitative and/or qualitative research */
+	Meta-ethnography, /* Meta-ethnography resembles the qualitative methods of the primary studies. 
+	 * It aims to synthesize by induction, interpretation, and translational analysis of the primary studies to understand and transfer ideas, concepts, and metaphors across different studies. 
+	 * The product of a meta-ethnographic synthesis is the translation of studies into one another, synthesizing the translations to identify concepts that go beyond individual accounts to produce a new interpretation. 
+	 * Interpretations and explanations in the primary studies are treated as data, and are translated across several studies to produce a synthesis */
+	Grounded theory, /* Grounded theory is a primary research approach that describes methods for qualitative sampling, data collection, and data analysis. 
+	 * It includes simultaneous phases of data collection and analysis, the use of the constant comparison method, the use of theoretical sampling, and the generation of new theory. 
+	 * It treats study reports as a form of data on which analysis can be conducted to generate higher-order themes and interpretations */
+	Cross-case analysis, /* Cross-case analysis includes a variety of devices, such as tabular displays and graphs, to manage and present qualitative data, without destroying the meaning of it, through intensive coding. 
+	 * It includes meta-matrices for partitioning and clustering data in various ways. 
+	 * Evidence from each primary study is summarized and coded under broad thematic headings. 
+	 * Evidence is then summarized within themes across studies with a brief citation of primary evidence.
+	 * Commonalities and differences between the studies are noted */
+	Thematic analysis and synthesis, /* Thematic analysis is a method for identifying, analyzing, and reporting patterns (themes) within data. 
+	 * It minimally organizes and describes the data set in rich detail and frequently interprets various aspects of the research topic. 
+	 * Thematic analysis can be used within different theoretical frameworks, and it can be an essentialist or realist method that reports experience, meanings, and the reality of participants. 
+	 * It can also be a constructionist method, which examines the ways in which events, realities, meanings, experience, and other aspects affect the range of discourses. 
+	 * Thematic analysis has limited interpretative power beyond mere description if it is not used within an existing theoretical framework */
+	Content analysis, /* Content analysis is a systematic way of categorizing and coding studies under broad thematic headings by using extraction tools designed to aid reproducibility. 
+	 * Occurrences of each theme are counted and tabulated. 
+	 * The frequencies of data are determined based on precise specifications of categories and the systematic application of rules. 
+	 * However, the frequency-counting techniques of content analysis may fail to reflect the structure or importance of the underlying phenomenon, and the results may be oversimplified and count components that are easy to classify and count rather than the components that are truly important  */
+	Case survey, /* The case survey method is a formal process for systematically coding relevant data from a large number of case studies for quantitative analysis. 
+	 * A set of structured closed-ended questions is used to extract data so that the answers can be aggregated for further analysis. 
+	 * Qualitative evidence is converted into a quantitative form, thereby synthesizing both qualitative and quantitative evidence. 
+	 * Each primary study is treated as a specific case. 
+	 * Study findings and attributes are extracted using closed-form questions for increased reliability, while survey analysis methods are used on the extracted data */
+	Qualitative comparative analysis QCA, /* The qualitative comparative analysis method is a mixed synthesis method that analyzes complex causal connections using Boolean logic to explain pathways to a particular outcome based on a truth table. 
+	 * The Boolean analysis of necessary and sufficient conditions for particular outcomes is based on the presence/absence of independent variables and outcomes in each primary study */
+	Aggregated synthesis, /* Aggregated synthesis is an interpretive process that contains elements of both grounded theory and meta-ethnography. 
+	 * It attempts to preserve the context of the original research while enhancing the generalizability of the original studies by building mid-range theories. 
+	 * The goal of aggregated synthesis is thus theory development and cumulative knowledge, which can explain as well as predict certain behaviors */
+	Realist synthesis, /* Realist synthesis is a theory-driven approach that encompasses quantitative and/or qualitative research from any kind of evidence by focusing on explaining how these interventions work and why they fail to work in particular contexts. 
+	 * Data extraction in realist synthesis takes the form of an interrogation of baseline inquiries for information on what works for whom under what circumstances. 
+	 * The theory that underlies a particular intervention is central to this method */
+	Qualitative metasummary, /* Qualitative metasummary is a quantitative oriented aggregation of qualitative findings. 
+	 * The goal is to discern the frequency of each finding and to find in higher frequency findings the evidence of replication foundational to validity in quantitative research and to the claim of having discovered a pattern or theme in qualitative research */
+	Qualitative metasynthesis, /* Qualitative metasynthesis is an interpretive integration of qualitative findings that are in the form of interpretive syntheses of data; 
+	 * either conceptual/thematic descriptions or interpretive explanations. 
+	 * Metasyntheses offer novel interpretations of findings derived from considering all the studies in a sample as a whole. 
+	 * Validity does not reside in replication logic, but rather in interpretation */
+	Meta-study /* Meta-study involves the analysis of theories, methods, and findings in qualitative research as well as the synthesis of these insights into new ways of thinking about phenomena. 
+	 * The goal is to transform the accumulation of findings into a legitimate body of knowledge with the ultimate aim of both generating new theory and informing practice. 
+	 * The method is unique in the extent to which it focuses on the importance of understanding the findings in terms of the methods and theories that drive them */
+},
+
+SR Goals{
+	decision support, /* Example: ‘The main aim of our systematic review is to assist software companies with small data sets in deciding whether or not to use an estimation model obtained from a benchmarking data set. 
+	 * The secondary aim is to provide advice to researchers intending to investigate the potential value of cross-company models.’ */
+	knowledge support, 
+	scoping /* A scoping goal is one that leads to a mapping of the studies selected, as for example, S46, which stated the following goal:
+	 *  ‘‘. . .identify and characterize approaches used to evaluate architectural documents. . .’’, 
+	 * which led to the following research questions: 
+	 * ‘‘How is software architecture or an architectural document evaluated? Which are the approaches and what is the context that they are executed?’’ */
+	
+}
